@@ -1,3 +1,14 @@
+<h1>v0.01c</h1>
+
+**HunterIllager was causing chunks not saving whilst on a server.**
+
+**Always remember to backup your world(s) before updating!**
+
+**Mods Removed**
+- [Hunter Illager](https://www.curseforge.com/minecraft/mc-mods/hunterillager)
+
+---------------
+
 <h1>v0.01b</h1>
 
 **Always remember to backup your world(s) before updating!**
