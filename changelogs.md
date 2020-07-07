@@ -1,6 +1,6 @@
 <h1>v0.01c</h1>
 
-**HunterIllager was causing chunks not saving whilst on a server.**
+**HunterIllager was causing some issues, removed for the time being.**
 
 **Always remember to backup your world(s) before updating!**
 
