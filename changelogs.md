@@ -1,4 +1,4 @@
-<h1>v0.01c</h1>
+<h1>v0.1.3</h1>
 
 **HunterIllager was causing some issues, removed for the time being.**
 
@@ -9,7 +9,7 @@
 
 ---------------
 
-<h1>v0.01b</h1>
+<h1>v0.1.2</h1>
 
 **Always remember to backup your world(s) before updating!**
 
@@ -18,7 +18,7 @@
 
 ---------------
 
-<h1>v0.01a</h1>
+<h1>v0.1.1</h1>
 
 **Always remember to backup your world(s) before updating!**
 
@@ -27,7 +27,7 @@
 
 ---------------
 
-<h1>Initial Release</h1>
+<h1>0.1.0 - Initial Release</h1>
 
 **( Normal changelog formatting arrives next update! )**
 
