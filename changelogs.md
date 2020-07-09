@@ -1,3 +1,14 @@
+<h1>v0.2.1</h1>
+
+**End Reborn removed due to Chunk Saving issues!**
+
+**Always remember to backup your world(s) before updating!**
+
+**Mods Removed**
+- [End Reborn](https://www.curseforge.com/minecraft/mc-mods/end-reborn)
+
+---------------
+
 <h1>v0.2.0</h1>
 
 **This update brings some mod updates & some mod additions.**
