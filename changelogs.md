@@ -1,3 +1,31 @@
+<h1>v0.2.2</h1>
+
+**Fairly small update, adds some mods & updates some. Worth updating to.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Culinary Construct](https://www.curseforge.com/minecraft/mc-mods/culinary-construct)
+- [Essentials](https://www.curseforge.com/minecraft/mc-mods/essentials)
+- [Passthrough Signs](https://www.curseforge.com/minecraft/mc-mods/passthrough-signs)
+- [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control) (+ [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo) )
+- [Improved Stations](https://www.curseforge.com/minecraft/mc-mods/improved-stations-forge)
+
+
+**Removed**
+- No Mods.
+
+
+**Changes**
+- Minor changes within mod updates.
+
+
+**Updated**
+- Any mod that had an update available, that also didn't break things.
+
+---------------
+
 <h1>v0.2.1</h1>
 
 **End Reborn removed due to Chunk Saving issues!**
