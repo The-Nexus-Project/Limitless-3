@@ -1,3 +1,14 @@
+<h1>v0.3.1</h1>
+
+**Minor update, fixes a 'rare' crashes when crafting items.**
+
+**Always remember to backup your world(s) before updating!**
+
+**Changes**
+- Updated MoreVanillaLib to fix a crash.
+
+---------------
+
 <h1>v0.3.0</h1>
 
 **Mekanism, more enchantments & the Angel Ring.**
