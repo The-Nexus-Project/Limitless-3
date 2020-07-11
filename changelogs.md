@@ -1,3 +1,46 @@
+<h1>v0.3.0</h1>
+
+**Mekanism, more enchantments & the Angel Ring.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Angel Ring](https://www.curseforge.com/minecraft/mc-mods/angel-ring)
+- [Better Bed Rock Generator](https://www.curseforge.com/minecraft/mc-mods/better-bedrock-generator)
+- [CraftTweaker](https://www.curseforge.com/minecraft/mc-mods/crafttweaker)
+- [Dank Storage](https://www.curseforge.com/minecraft/mc-mods/dank-storage)
+- [Fertilization](https://www.curseforge.com/minecraft/mc-mods/fertilization)
+- [Ma Enchants](https://www.curseforge.com/minecraft/mc-mods/ma-enchants)
+- [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
+- [Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators)
+- [Mekanism Tools](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools)
+- [Mekanism Additions](https://www.curseforge.com/minecraft/mc-mods/mekanism-additions)
+- [Modular Routers](https://www.curseforge.com/minecraft/mc-mods/modular-routers)
+- [One Player Sleeping](https://www.curseforge.com/minecraft/mc-mods/one-player-sleeping)
+
+
+**Removed**
+- No Mods.
+
+
+**Changes**
+- Disabled the Hungerless Ring. (**Rings of Ascension.**)
+- Disabled the Undying Ring. (**Rings of Ascension.**)
+- Disabled Copper Ore & Tin Ore generation. (**Industrial Reborn.**)
+- Trees can no longer be fully chopped up by breaking the bottom log. (**Reap Mod.**)
+- Modified the Angel Ring recipe.
+- Pied Pipers no longer spawn naturally in the world. (**Rats.**)
+- Lowered the Maple Taiga spawn weight, 6 -> 4. (**BYG.**)
+- Minor changes within some mod updates.
+
+
+**Updated**
+- Updated Forge to version 32.0.63
+- Any mod that had an update available, that also didn't break things.
+
+---------------
+
 <h1>v0.2.2</h1>
 
 **Fairly small update, adds some mods & updates some. Worth updating to.**
