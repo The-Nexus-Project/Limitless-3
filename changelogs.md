@@ -18,7 +18,7 @@
 
 **Added**
 - [Angel Ring](https://www.curseforge.com/minecraft/mc-mods/angel-ring)
-- [Better Bed Rock Generator](https://www.curseforge.com/minecraft/mc-mods/better-bedrock-generator)
+- [Better Bedrock Generator](https://www.curseforge.com/minecraft/mc-mods/better-bedrock-generator)
 - [CraftTweaker](https://www.curseforge.com/minecraft/mc-mods/crafttweaker)
 - [Dank Storage](https://www.curseforge.com/minecraft/mc-mods/dank-storage)
 - [Fertilization](https://www.curseforge.com/minecraft/mc-mods/fertilization)
