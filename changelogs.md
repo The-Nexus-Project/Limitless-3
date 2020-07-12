@@ -1,6 +1,6 @@
 <h1>v0.4.0</h1>
 
-**Immersive Engineering & Dimensional Storage Update!*
+**Immersive Engineering & Dimensional Storage Update!**
 
 **Always remember to backup your world(s) before updating!**
 
