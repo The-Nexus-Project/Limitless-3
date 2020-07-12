@@ -4,7 +4,7 @@
 
 **Always remember to backup your world(s) before updating!**
 
-**Fixed**
+**Fixes/Changes**
 - Updated Oh The Biomes You'll Go to fix intense fps drops around lakes where fix could spawn.
 
 ---------------
