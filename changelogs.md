@@ -1,3 +1,14 @@
+<h1>v0.4.1</h1>
+
+**Minor update, fixes fish spawning to an extreme in waters. Caused lags.**
+
+**Always remember to backup your world(s) before updating!**
+
+**Fixed**
+- Updated Oh The Biomes You'll Go to fix intense fps drops around lakes where fix could spawn.
+
+---------------
+
 <h1>v0.4.0</h1>
 
 **Immersive Engineering & Dimensional Storage Update!**
