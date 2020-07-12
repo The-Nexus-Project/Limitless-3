@@ -1,3 +1,49 @@
+<h1>v0.4.0</h1>
+
+**Immersive Engineering & Dimensional Storage Update!*
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling)
+- [DimStorage](https://www.curseforge.com/minecraft/mc-mods/dimstorage)
+- [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace)
+- [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)
+- [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
+- [Trash Cans](https://www.curseforge.com/minecraft/mc-mods/trash-cans)
+
+
+**Removed**
+- [FastWorkbench Minus Replacement](https://www.curseforge.com/minecraft/mc-mods/fastworkbench-minus-replacement)
+- [Fast Furnace Minus Replacement](https://www.curseforge.com/minecraft/mc-mods/fastfurnace-minus-replacement)
+
+
+**Changes**
+- Added a recipe for the 'Pied Wool' item, since Pied Piper natural spawning is disabled this seemed fitting.
+- Added a recipe to easily turn Clay Blocks back into Clay.
+- Changed the Main Menu background to fit the 1.16 Update Nether Theme.
+- Rats no longer spawn naturally in the world. (**Rats.**)
+- Disabled the Sponge Ring. (**Rings of Ascension.**)
+- Actually disabled Copper & Tin Ore world-gen this time. (**Industrial Reborn.**)
+- Removed recipe for the Exp Ore.
+- Disabled Copper, Lead & Uranium Ore from world-gen to prevent having duplicate ores. (**Immersive Engineering.**)
+- Disabled update notifications for Xaero's Minimap & World Map.
+- Disabled the FML Beta message ontop of Main Menu.
+- Disabled the Recipe Book.
+- Minor changes within some mod updates.
+
+
+**Fixes**
+- An issue where you shift clicked items in inventory was fixed.
+- A Crash when opening a Dank Storage UI was fixed.
+
+
+**Updated**
+- Any mod that had an update available, that also didn't break things.
+
+---------------
+
 <h1>v0.3.1</h1>
 
 **Minor update, fixes a 'rare' crashes when crafting items.**
