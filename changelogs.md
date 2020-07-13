@@ -1,3 +1,37 @@
+<h1>v0.4.2</h1>
+
+**An update changing a config option in IE to temporarily fix a crash.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [TipTheScales](https://www.curseforge.com/minecraft/mc-mods/tipthescales)
+- [JEITweaker](https://www.curseforge.com/minecraft/mc-mods/jeitweaker)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Enabled Ore Gen for most Nether Ores. (**BNO.**)
+- Lowered Vein Size for most Nether Ores. (**BNO.**)
+- Lowered Spawn% Chance for most Nether Ores. (**BNO.**)
+- Hid some items from view in JEI.
+- Minor changes within some mod updates.
+
+
+**Fixes**
+- Temporarily fixed the Immersive Engineering crashes. (**Still waiting on an Official fix.**)
+- Minor fixes within mod updates.
+
+
+**Updated**
+- Any mod that had an update available, that also didn't break things.
+
+---------------
+
 <h1>v0.4.1</h1>
 
 **Minor update, fixes fish spawning to an extreme in waters. Caused lags.**
