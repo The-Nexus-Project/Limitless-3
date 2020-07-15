@@ -8,8 +8,8 @@
 **Added**
 - [Bad Wither No Cookie Reloaded](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded)
 - [Better Burning](https://www.curseforge.com/minecraft/mc-mods/better-burning)
-- [Gentle Fawn](https://www.curseforge.com/minecraft/mc-mods/gentle-fawn)
 - [Environmental Creepers](https://www.curseforge.com/minecraft/mc-mods/environmental-creepers)
+- [Gentle Fawn](https://www.curseforge.com/minecraft/mc-mods/gentle-fawn)
 - [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
 - [Overloaded Armor Bar](https://www.curseforge.com/minecraft/mc-mods/overloaded-armor-bar)
 - [Powah!](https://www.curseforge.com/minecraft/mc-mods/powah) (+ [Lolipop Lib](https://www.curseforge.com/minecraft/mc-mods/lollipop) )
