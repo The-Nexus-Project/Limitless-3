@@ -1,3 +1,40 @@
+<h1>0.5.0</h1>
+
+**The Refined Storage & Powah Update!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Bad Wither No Cookie Reloaded](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded)
+- [Better Burning](https://www.curseforge.com/minecraft/mc-mods/better-burning)
+- [Gentle Fawn](https://www.curseforge.com/minecraft/mc-mods/gentle-fawn)
+- [Environmental Creepers](https://www.curseforge.com/minecraft/mc-mods/environmental-creepers)
+- [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
+- [Overloaded Armor Bar](https://www.curseforge.com/minecraft/mc-mods/overloaded-armor-bar)
+- [Powah!](https://www.curseforge.com/minecraft/mc-mods/powah) (+ [Lolipop Lib](https://www.curseforge.com/minecraft/mc-mods/lollipop) )
+- [Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage) (+ [Extra Disks](https://www.curseforge.com/minecraft/mc-mods/extra-disks) )
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Changed the Recipe for the Tesseract.
+- Minor changes within some mod updates.
+
+
+**Fixes**
+- Minor fixes within mod updates.
+
+
+**Updated**
+- Updated Forge to version 32.0.66!
+- Any mod that had an update available, that also didn't break things.
+
+---------------
+
 <h1>v0.4.2</h1>
 
 **An update changing a config option in IE to temporarily fix a crash.**
