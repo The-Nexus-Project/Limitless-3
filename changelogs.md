@@ -1,3 +1,40 @@
+<h1>0.5.1</h1>
+
+**IMPORTANT! READ BEFORE UPDATING TO THIS VERSION.**
+
+**THE MOD IRON CHESTS HAS BEEN REMOVED AND REPLACED BY [Expanded Storage](https://www.curseforge.com/minecraft/mc-mods/expanded-storage-forge) !
+
+**EMPTY OUT ANY ITEMS IN THESE CHESTS BEFORE UPDATING OR ELSE YOUR ITEMS WILL BE LOST.
+
+**And as always, remember to backup your world(s) before updating!**
+
+
+**Added**
+- [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements)
+- [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements)
+- [Expanded Storage](https://www.curseforge.com/minecraft/mc-mods/expanded-storage-forge)
+- [Ranged Pumps](https://www.curseforge.com/minecraft/mc-mods/ranged-pumps)
+- [Refined Storage Addons](https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons)
+
+
+**Removed**
+- [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests)
+- [Wrenchest](https://www.curseforge.com/minecraft/mc-mods/wrenchest) (**Similar item now exist in Expanded Storage!**)
+
+
+**Changes**
+- Minor changes within some mod updates.
+
+
+**Fixes**
+- Minor fixes within mod updates.
+
+
+**Updated**
+- Any mod that had an update available, that also didn't break things.
+
+---------------
+
 <h1>0.5.0</h1>
 
 **The Refined Storage & Powah Update!**
