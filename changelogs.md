@@ -4,7 +4,7 @@
 
 **THE MOD IRON CHESTS HAS BEEN REMOVED AND REPLACED BY [Expanded Storage](https://www.curseforge.com/minecraft/mc-mods/expanded-storage-forge) !
 
-**EMPTY OUT ANY ITEMS IN THESE CHESTS BEFORE UPDATING OR ELSE YOUR ITEMS WILL BE LOST.
+**EMPTY OUT ANY ITEMS IN THESE CHESTS BEFORE UPDATING OR ELSE YOUR ITEMS WILL BE LOST.**
 
 **And as always, remember to backup your world(s) before updating!**
 
