@@ -1,3 +1,58 @@
+<h1>0.6.0</h1>
+
+**A little Quality Of Life Update & Better Looking Mineshafts!**
+
+**Cosmetic Armor Mod is temporarily removed this update, same with Environmental Creepers. Both will be back in a future update.**
+
+**Be sure to empty out anything in the Cosmetic Slots before updating.**
+
+**And as always, remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Buzzier Bees](https://www.curseforge.com/minecraft/mc-mods/buzzier-bees) (+ [Abnormals Core](https://www.curseforge.com/minecraft/mc-mods/abnormals-core) )
+- [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
+- [CC-Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked)
+- [Morpheus](https://www.curseforge.com/minecraft/mc-mods/morpheus)
+- [Security Craft](https://www.curseforge.com/minecraft/mc-mods/security-craft)
+- [Tool Belt](https://www.curseforge.com/minecraft/mc-mods/tool-belt)
+- [VanillaTweaks](https://www.curseforge.com/minecraft/mc-mods/vanillatweaks)
+- [YUNG's Better Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge)
+
+
+**Removed**
+- [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked) (**Temporarily Removed.**)
+- [Environmental Creepers](https://www.curseforge.com/minecraft/mc-mods/environmental-creepers) (**Temporarily Removed.**)
+- [One Player Sleeping](https://www.curseforge.com/minecraft/mc-mods/one-player-sleeping) (**Replaced by Morpheus.**)
+
+
+**Changes**
+- Added a recipe to convert 3x Gravel into 1x Flint.
+- Added a recipe to convert 2x Cattail to 1x Sticks.
+- Added a recipe to convert 2x Beach Grass to 1x Sticks.
+- Added a recipe to convert 2x Leaf Pile to 1x Sticks.
+- Added a recipe to convert 2x Pink & White Cherry Foliage to 1x Sticks.
+- Added a recipe to create Coarse Dirt with Meadow Dirt.
+- Added a recipe to be able to convert Meadow Dirt into regular Dirt.
+- Added a recipe to be able to convert any wool block back to 4x string.
+- Lowered spawn probability of most Baby Mobs, 0.50 -> 0.35.
+- Disabled Block of Charcoal from VanillaTweaks & Dwarf Coal to prevent having multiple of the same block.
+- Disabled the Ring of Waterwalking. (**ROA.**)
+- Updated Main Menu background.
+- Minor changes within some mod updates.
+
+
+**Fixes**
+- Modpack updates will no longer overwrite your existing saved servers.
+- Minor fixes within mod updates.
+
+
+**Updated**
+- Any mod that had an update available, that also didn't break things.
+- Updated Forge to version 32.0.70
+
+---------------
+
 <h1>0.5.1</h1>
 
 **IMPORTANT! READ BEFORE UPDATING TO THIS VERSION.**
