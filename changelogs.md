@@ -1,4 +1,4 @@
-<h1>0.6.0</h1>
+<h1>0.6.0 / 0.6.1</h1>
 
 **A little Quality Of Life Update & Better Looking Mineshafts!**
 
@@ -11,7 +11,6 @@
 
 **Added**
 - [Buzzier Bees](https://www.curseforge.com/minecraft/mc-mods/buzzier-bees) (+ [Abnormals Core](https://www.curseforge.com/minecraft/mc-mods/abnormals-core) )
-- [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
 - [CC-Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked)
 - [Morpheus](https://www.curseforge.com/minecraft/mc-mods/morpheus)
 - [Security Craft](https://www.curseforge.com/minecraft/mc-mods/security-craft)
