@@ -38,6 +38,7 @@
 - Disabled Block of Charcoal from VanillaTweaks & Dwarf Coal to prevent having multiple of the same block.
 - Disabled the Ring of Waterwalking. (**ROA.**)
 - Updated Main Menu background.
+- Removed Clumps from update 0.6.0 due to server crashes. **(v0.6.1)**
 - Minor changes within some mod updates.
 
 
