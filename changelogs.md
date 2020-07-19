@@ -26,6 +26,7 @@
 
 
 **Changes**
+- Removed Clumps from update 0.6.0 due to server crashes. **(v0.6.1)**
 - Added a recipe to convert 3x Gravel into 1x Flint.
 - Added a recipe to convert 2x Cattail to 1x Sticks.
 - Added a recipe to convert 2x Beach Grass to 1x Sticks.
@@ -38,7 +39,6 @@
 - Disabled Block of Charcoal from VanillaTweaks & Dwarf Coal to prevent having multiple of the same block.
 - Disabled the Ring of Waterwalking. (**ROA.**)
 - Updated Main Menu background.
-- Removed Clumps from update 0.6.0 due to server crashes. **(v0.6.1)**
 - Minor changes within some mod updates.
 
 
