@@ -1,3 +1,40 @@
+<h1>0.6.2</h1>
+
+**Industrial Foregoing, Portality & No more recipe conflicts update!**
+
+**As always, remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Advanced Mining Dimension](https://www.curseforge.com/minecraft/mc-mods/advanced-mining-dimension)
+- [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)
+- [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
+- [Industrial Foregoing](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing) (+ [Titanium](https://www.curseforge.com/minecraft/mc-mods/titanium) )
+- [Just Enough Resources](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer)
+- [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph)
+- [Portality](https://www.curseforge.com/minecraft/mc-mods/portality) (+ [Titanium](https://www.curseforge.com/minecraft/mc-mods/titanium) )
+- [Silent Gear](https://www.curseforge.com/minecraft/mc-mods/silent-gear) (+ [Silent Lib](https://www.curseforge.com/minecraft/mc-mods/silent-lib) )
+
+
+**Removed**
+- No mods.
+
+
+**Changes**
+- Minor changes within some mod updates.
+
+
+**Fixes**
+- Magmator spam in console was fixed.
+- Minor fixes within mod updates.
+
+
+**Updated**
+- Any mod that had an update available, that also didn't break things.
+- Updated Forge to version 32.0.71!
+
+---------------
+
 <h1>0.6.0 / 0.6.1</h1>
 
 **A little Quality Of Life Update & Better Looking Mineshafts!**
