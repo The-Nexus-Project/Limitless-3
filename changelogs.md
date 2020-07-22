@@ -39,7 +39,7 @@
 
 **Always remember to backup your world(s) before updating!**
 
-**Added*
+**Added**
 - No mods.
 
 **Removed**
