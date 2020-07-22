@@ -35,7 +35,25 @@
 
 ---------------
 
-<h1>0.6.0 / 0.6.1</h1>
+<h1>0.6.1</h1>
+
+**Always remember to backup your world(s) before updating!**
+
+**Added*
+- No mods.
+
+**Removed**
+- [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
+
+**Changes**
+- Removed Clumps due to server crashes.
+
+**Updated**
+- No mods updated this minor update.
+
+---------------
+
+<h1>0.6.0</h1>
 
 **A little Quality Of Life Update & Better Looking Mineshafts!**
 
@@ -63,7 +81,6 @@
 
 
 **Changes**
-- Removed Clumps from update 0.6.0 due to server crashes. **(v0.6.1)**
 - Added a recipe to convert 3x Gravel into 1x Flint.
 - Added a recipe to convert 2x Cattail to 1x Sticks.
 - Added a recipe to convert 2x Beach Grass to 1x Sticks.
