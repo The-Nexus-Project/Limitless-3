@@ -1,3 +1,43 @@
+<h1>0.6.3</h1>
+
+**Quark & The Endergetic Expansion Update!**
+
+**As always, remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Environmental Creepers](https://www.curseforge.com/minecraft/mc-mods/environmental-creepers)
+- [The Endergetic Expansion](https://www.curseforge.com/minecraft/mc-mods/endergetic)
+- [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) (+ [AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib) )
+
+
+**Removed**
+- [Double Doors](https://www.curseforge.com/minecraft/mc-mods/double-doors) (**Now available in Quark.**)
+- [Reap Mod](https://www.curseforge.com/minecraft/mc-mods/reap-mod) (**Now available in Quark.**)
+
+
+**Changes**
+- Turned off 'Other Entities' in Entity Radar. (**Xaero's Minimap.**)
+- Removed the Crafting Table recipe for the Infinity Drill. (**Industrial Foregoing.**)
+- Percentage of players required to trigger a successful sleep has been reduced from 25% -> 5%. (**Morpheus.**)
+- Added a recipe to convert any Wooden Quark Chest to an Expanded Storage equivalent.
+- Chest Searching has been added. (**Quark.**)
+- Most Vanilla Animals now have texture variants. (**Quark.**)
+- Lowered the cooldown for the '/rndtp' command, 180s -> 120s. (**Ma Essentials.**)
+- Minor changes within some mod updates.
+
+
+**Fixes**
+- Fixed Recipe quite a few recipe conflicts.
+- Minor fixes within mod updates.
+
+
+**Updated**
+- Any mod that had an update available, that also didn't break things.
+- Updated Forge to version 32.0.75!
+
+---------------
+
 <h1>0.6.2</h1>
 
 **Industrial Foregoing, Portality & No more recipe conflicts update!**
