@@ -1,3 +1,12 @@
+<h1>0.6.3a</h1>
+
+**Minor update.**
+
+**As always, remember to backup your world(s) before updating!**
+
+**Changes**
+- Updated Quark to fix some crashing issues with the mod.
+
 <h1>0.6.3</h1>
 
 **Quark & The Endergetic Expansion Update!**
