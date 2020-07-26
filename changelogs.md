@@ -1,3 +1,54 @@
+<h1>0.6.4</h1>
+
+**Quality of Life & Simple Farming Update!**
+
+**A reset of the Mining Dimension is recommended with this update!**
+
+**As always, remember to backup your world(s) before updating!**
+
+
+**Added**
+- [DRP - Global Data Pack](https://www.curseforge.com/minecraft/mc-mods/drp-global-datapack)
+- [DiscordRichPresence](https://www.curseforge.com/minecraft/mc-mods/discordrpc)
+- [Simple Farming](https://www.curseforge.com/minecraft/mc-mods/simple-farming)
+
+
+**Removed**
+- [Industrial Reborn](https://www.curseforge.com/minecraft/mc-mods/industrial-reborn)
+
+
+**Changes**
+- Added a recipe to be able to convert any BYG Crafting Table to a Crafting Station.
+- Added a recipe to be able to craft the Portable Crafting Table with any Crafting Table.
+- Added Discord Rich Presence Status for TNP Limitless 3 in Discord.
+- Added JEI Information Pages to most Netherite Items.
+- Added a Welcome advancement on New Worlds / new Player Join.
+- Disabled Footsteps in Xaero's World Map, Fullscreen Map.
+- Disabled the Immersive Engineering Steel Tools.
+- Disabled Granite, Diorite, Andesite, Dirt & Gravel in the Mining Dimension.
+- The Sink from 'Cooking for Blockheads' no longer provides infinite water.
+- Modified the recipe for the Mining Dimension Access Block.
+- Modified the Mekanism Steel Tools recipes.
+- Lowered perChunk chance by -2 for Copper Ore, Lead Ore, Osmium Ore, Uranium Ore & Tin Ore. (**Mekanism**)
+- Made the advancement 'The Upgrade' from IE obtainable with any Steel Ingot.
+- The Rats advancements on New Worlds / new Player Join is now hidden.
+- The Simple Farming advancement when picking up a seed is now hidden.
+- Lowered Sinew droprate, 0.2 -> 0.05. (**Silent Gear.**)
+- Mining Dimension no longer have Lava Pits or Dungeons.
+- Lowered Cave Generation percentage in the Mining Dimension, 0.30 -> 0.15.
+- Minor changes within some mod updates.
+
+
+**Fixes**
+- Fixed [ET](https://www.curseforge.com/minecraft/mc-mods/engineers-tools) Ore Crushing Hammer crushing Ores into the wrong types of Dusts.
+- Minor fixes within some mod updates.
+
+
+**Updated**
+- Any mod that had an update available, that also didn't break things.
+
+---------------
+
 <h1>0.6.3a</h1>
 
 **Minor update.**
