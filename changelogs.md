@@ -1,3 +1,46 @@
+<h1>0.7.0</h1>
+
+**Cyclic & Excavation Update(Ultimine)!**
+
+**Remember to always back up your world(s) before updating! Could be important.**
+
+
+**Added**
+- [Armor Toughness Bar](https://www.curseforge.com/minecraft/mc-mods/armor-toughness-bar)
+- [Cyclic](https://www.curseforge.com/minecraft/mc-mods/cyclic)
+- [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) (+ [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf) )
+- [FTB Ultimine](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine) (**Think VeinMiner!**)
+- [Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)
+- [OldJavaWarning](https://www.curseforge.com/minecraft/mc-mods/oldjavawarning)
+- [Torch Master](https://www.curseforge.com/minecraft/mc-mods/torchmaster)
+
+
+**Removed**
+- [Potions Master](https://www.curseforge.com/minecraft/mc-mods/potionsmaster)
+
+
+**Changes**
+- Changed position the of Potion Effect icons on the HUD, no longer overlaps with the Minimap.
+- Potion Effects icons on HUD are now smaller.
+- Enchantments on Books now have Descriptions.
+- Removed the recipe for the 'Enchanted Golden Apple'.
+- Excavation is now a thing, mine multiple blocks at the expense of hunger. (**FTB Ultimine.**) (**Key is unbinded by default.**)
+- Lowered Audio for Mekanism Machines, 0.5 -> 0.2.
+- Disabled Food Tooltip. (**Quark.**)
+- Minor changes within some mod updates.
+
+
+**Fixes**
+- Fixed Steel Ingot/Block outputting to the wrong type of Steel Ingots, nuggets etc.
+- Made Steel Tools from Mekanism use Forge Steel Tag.
+- Minor fixes within some mod updates.
+
+
+**Updated**
+- Any mod that had an update available, that also didn't break things.
+
+---------------
+
 <h1>0.6.4</h1>
 
 **Quality of Life & Simple Farming Update!**
