@@ -1,3 +1,65 @@
+<h1>0.7.1</h1>
+
+**Iron Jetpacks & Productive Bees Update!**
+
+**A reset/deletion of the 'serverconfig' folder is highly recommended with this update! It's located in the world folder.**
+
+**Remember to always back up your world(s) before updating! Could be important.**
+
+
+**Added**
+- [Extreme Sound Mufflers](https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler)
+- [Item Collectors](https://www.curseforge.com/minecraft/mc-mods/item-collectors)
+- [Iron Jetpacks](https://www.curseforge.com/minecraft/mc-mods/iron-jetpacks) (+ [Cucumber](https://www.curseforge.com/minecraft/mc-mods/cucumber) )
+- [Macaw's Windows](https://www.curseforge.com/minecraft/mc-mods/macaws-windows)
+- [Miner's Helmet](https://www.curseforge.com/minecraft/mc-mods/miners-helmet)
+- [Open Loader](https://www.curseforge.com/minecraft/mc-mods/open-loader)
+- [Productive Bees](https://www.curseforge.com/minecraft/mc-mods/productivebees)
+- [Pickle Tweaks](https://www.curseforge.com/minecraft/mc-mods/pickle-tweaks) (+ [Cucumber](https://www.curseforge.com/minecraft/mc-mods/cucumber) )
+- [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities)
+- [ReAuth](https://www.curseforge.com/minecraft/mc-mods/reauth)
+
+
+**Removed**
+- [DRP - Global Data Pack](https://www.curseforge.com/minecraft/mc-mods/drp-global-datapack)
+
+
+**Changes**
+- Enabled Quark Oddities within Quark.
+- Disabled Matrix Enchanting. (**Quark Oddities.**)
+- Added a recipe for the 'Ring of Magnetism'.
+- Players are now shown as Player Heads on the Minimap.
+- Plants no longer automatically replant themselves.
+- Creepers no longer burn in the daylight.
+- Disabled Vertical Slab placement. (**Double Slabs.**)
+- Added a Recipe to be able to craft Chainmail armor with the new Chain item from the 1.16 update. (**Hello Mojang?**)
+- Disabled the recipe for the Engineer's Manual. (**Crashing Issues.**)
+- Added an Item Description to the Engineer's Manual, describing why it's disabled.
+- Disabled the 'Stone Rod' from 'Silent Gear' to prevent recipe a conflict. (**Duplicate Item.**)
+- Disabled the 'Stone Torch' from 'Silent Gear' to prevent recipe a conflict. (**Duplicate Item.**)
+- Changed the position of the 'Host A Server' button in the Main Menu.
+- Nether Ores textures now match their overworld counterpart.
+- Tools won't break when durability reaches zero.
+- You can now repair items with the tools corresponding crafting materials in the crafting grids.
+- Lowered how many blocks you can mine at once with Excavate, 96 -> 64. (**FTB Ultimine.**)
+- Minor changes within some mod updates.
+
+
+**Fixes**
+- Minor fixes within some mod updates.
+
+
+**Updated**
+- Any mod that had an update available, that also didn't break things.
+- Updated Forge to version 32.0.88!
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+**Get 25% off any game servers on your first month!**
+**Code: Gbergz | Bisecthosting.com/Gbergz**
+
+---------------
+
 <h1>0.7.0</h1>
 
 **Cyclic & Excavation Update(Ultimine)!**
