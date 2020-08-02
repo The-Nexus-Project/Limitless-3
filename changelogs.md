@@ -1,3 +1,50 @@
+<h1>0.7.2</h1>
+
+**Botania & PneumaticCraft Update!**
+
+**A reset of 'The End' dimension is recommended with this update, but optional ofcourse! Located in the world folder, ID 1.**
+
+**Remember to always back up your world(s) before updating! Could be important.**
+
+
+**Added**
+- [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts)
+- [Botania](https://www.curseforge.com/minecraft/mc-mods/botania)
+- [Botania AIOT](https://www.curseforge.com/minecraft/mc-mods/aiot-botania)
+- [Dark Utilities](https://www.curseforge.com/minecraft/mc-mods/dark-utilities)
+- [End Reborn](https://www.curseforge.com/minecraft/mc-mods/end-reborn)
+- [Macaw's Roofs](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs)
+- [Mana Gear](https://www.curseforge.com/minecraft/mc-mods/mana-gear)
+- [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Enabled Osmium Nether Ore.
+- Disabled the Iron Rod from 'Silent Gear' to prevent recipe conflicts.
+- Added a Discord button to Main Menu. (**Invite to the TNP Discord.**)
+- Minor changes within some mod updates.
+
+
+**Fixes**
+- Minor fixes within some mod updates.
+
+
+**Updated**
+- Any mod that had an update available, that also didn't break things.
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz | Bisecthosting.com/Gbergz**
+
+---------------
+
 <h1>0.7.1</h1>
 
 **Iron Jetpacks & Productive Bees Update!**
