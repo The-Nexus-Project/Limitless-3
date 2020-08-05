@@ -72,7 +72,7 @@
 
 **Get 25% off any game servers on your first month!**
 
-**Code: Gbergz | Bisecthosting.com/Gbergz**
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
 
 ---------------
 
