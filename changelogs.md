@@ -1,3 +1,81 @@
+<h1>0.8.0</h1>
+
+**Mystical Agriculture & Dungeon Crawl Update + more!**
+
+**The One Probe has been replaced by HWYLA this update due to some issues.**
+
+**And once again, a reset/deletion of the 'serverconfig' folder is recommended with this update! It's located in the world folder.**
+
+**Remember to always back up your world(s) before updating! Could be important.**
+
+
+**Added**
+- [Construction Wand](https://www.curseforge.com/minecraft/mc-mods/construction-wand)
+- [Dungeon Crawl](https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl)
+- [Excavation](https://www.curseforge.com/minecraft/mc-mods/excavation) (**Replacing Ultimine.**)
+- [FTB Backups](https://www.curseforge.com/minecraft/mc-mods/ftb-backups)
+- [HWYLA](https://www.curseforge.com/minecraft/mc-mods/hwyla)
+- [Item Filters](https://www.curseforge.com/minecraft/mc-mods/item-filters)
+- [Large Ore Deposits](https://www.curseforge.com/minecraft/mc-mods/large-ore-deposits) (+ [ForgeEndertech](https://www.curseforge.com/minecraft/mc-mods/forgeendertech) )
+- [More Overlays Updated](https://www.curseforge.com/minecraft/mc-mods/more-overlays-updated)
+- [Mining Gadgets](https://www.curseforge.com/minecraft/mc-mods/mining-gadgets)
+- [Mystical Agriculture](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture)
+- [Mystical Agradditions](https://www.curseforge.com/minecraft/mc-mods/mystical-agradditions)
+- [Taffy Jump - (Fence Jumper)](https://www.curseforge.com/minecraft/mc-mods/taffyjump)
+- [Waila Harvestability](https://www.curseforge.com/minecraft/mc-mods/waila-harvestability)
+
+
+**Removed**
+- [FTB Ultimine](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine) (**Replaced by Excavation.**)
+- [Fast Workbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) (**Incompatible with latest Forge, will be re-added.**)
+- [Light Overlay](https://www.curseforge.com/minecraft/mc-mods/light-overlay) (**Replaced by More Overlays.**)
+- [Mod Name Tooltip](https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip) (**HWYLA now provides the same functionality.**)
+- [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe) (**Replaced by HWYLA for now.**)
+- [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control) (**Incompatible with latest Forge, will be re-added.**)
+
+
+**Changes**
+- The most common Overworld & Nether stone types such as Stone, Granite, Diorite & Andesite + Netherrack can no longer be excavated. (**Tools like Hammers & Excavators are now useful again.**)
+- Common blocks like Grass Block, Dirt & Sand etc, can no longer be excavated. (**Tools like Hammers & Excavators are now useful again.**)
+- Increased max Excavation Range, 64 blocks -> 128 blocks.
+- 'FTB Backups' now keeps 3 backups in total.
+- 'FTB Backups' backups the world every 2 hours on SP. Same for Servers but only if people are online.
+- Updated the Experience Ore texture to make it more in line with other ores.
+- Updated the Nether Osmium Ore texture to match its overworld counterpart.
+- Updated the Options Menu background texture.
+- Updated the 'Ring of Magnetism' recipe.
+- Re-enabled vertical slab placement from the mod 'Double Slabs'.
+- Slabs from the mod 'Improved Stations' can no longer be placed vertically.
+- Slabs from the mod 'Improved Stations' can no longer be used to create double slabs.
+- Added a 'Ore Crushing Hammer' recipe to the Nether Osmium Ore.
+- Made 'Dungeon Crawl' dungeon generation pretty scarce.
+- You can now highlight-search for a specific item in a container by typing the items name into the JEI search field and then double clicking.
+- Minor changes within some mod updates.
+
+
+**Fixes**
+- Fixed player rotation being reset when looking at another player.
+- Slime not spawning in modded biomes has been fixed.
+- Minor fixes within some mod updates.
+
+
+**Updated**
+- Updated Forge to version 32.0.106
+- Any mod that had an update available, that also didn't break things.
+
+
+**Known Issues**
+- Sometimes recipes fails to load, this can be fixed temporarily by doing a '/reload'.
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz | Bisecthosting.com/Gbergz**
+
+---------------
+
 <h1>0.7.2</h1>
 
 **Botania & PneumaticCraft Update!**
