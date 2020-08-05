@@ -9,6 +9,10 @@
 **Remember to always back up your world(s) before updating! Could be important.**
 
 
+**Known Issues**
+- Sometimes recipes fails to load, this can be fixed temporarily by doing a '/reload'.
+
+
 **Added**
 - [Construction Wand](https://www.curseforge.com/minecraft/mc-mods/construction-wand)
 - [Dungeon Crawl](https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl)
@@ -62,10 +66,6 @@
 **Updated**
 - Updated Forge to version 32.0.106
 - Any mod that had an update available, that also didn't break things.
-
-
-**Known Issues**
-- Sometimes recipes fails to load, this can be fixed temporarily by doing a '/reload'.
 
 
 **Need a server to play with your friends? or just don't know how to set one up?**
