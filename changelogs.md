@@ -1,3 +1,50 @@
+<h1>0.8.1</h1>
+
+**FTB Chunks (Chunk Claiming) Update!**
+
+**Remember to always back up your world(s) before updating! Could be important.**
+
+
+**Known Issues**
+- Sometimes recipes fails to load, this can be fixed temporarily by doing a '/reload'. (**Needs to be done every restart if it occurs.**)
+
+
+**Added**
+- [Fast Workbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) (**Re-Added!**)
+- [FTB Chunks](https://jenkins.latmod.com/job/FTB-Chunks/) (+ [FTB GUI Library](https://jenkins.latmod.com/job/FTB-GUI-Library/) )
+- [FTB Teams](https://jenkins.latmod.com/job/FTB-Teams/)
+- [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control) (**Re-Added!**)
+- [Wither Skeleton Tweaks](https://www.curseforge.com/minecraft/mc-mods/wither-skeleton-tweaks)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Disabled every Crafting Table variant from [BYG](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go).
+- Max Claimed Chunks are now 350 per person/team. (**FTB Chunks.**)
+- Max Force Loaded Chunks are now 50 per person/team. (**FTB Chunks.**)
+- Minor changes within some mod updates.
+
+
+**Fixes**
+- Fixed some VanillaTweaks features not actually being disabled.
+- Minor fixes within some mod updates.
+
+
+**Known Issues**
+- Sometimes recipes fails to load, this can be fixed temporarily by doing a '**/reload**'.
+
+
+Need a server to play with your friends? or just don't know how to set one up?
+
+Get 25% off any game servers on your first month!
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>0.8.0</h1>
 
 **Mystical Agriculture & Dungeon Crawl Update + more!**
