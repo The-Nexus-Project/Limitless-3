@@ -45,7 +45,6 @@
 
 **Fixes**
 - A crash when opening the Options Menu w/ OptiFine installed has been fixed. (See: [here](https://www.curseforge.com/minecraft/mc-mods/tipthescales/files/3025496) )
-- Fixed every block being displayed as harvestable. (**Waila Harvestability.**)
 - Minor fixes within some mod updates.
 
 
