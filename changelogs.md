@@ -1,3 +1,62 @@
+<h1>0.8.2</h1>
+
+**Applied Energistics 2 & Apotheosis Update (+ More) !**
+
+**A new world is recommended with this update but oviously not required.**
+
+**Remember to always back up your world(s) before updating! Could be important.**
+
+
+**Known Issues**
+- Sometimes recipes fails to load, this can be fixed temporarily by doing a '**/reload**'. (**Needs to be done every server start if it occurs.**)
+
+
+**Added**
+- [Apotheosis](https://www.curseforge.com/minecraft/mc-mods/apotheosis)
+- [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)
+- [Aquaculture 2](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
+- [Fast Tool Switching](https://www.curseforge.com/minecraft/mc-mods/fast-tool-switching)
+- [Upgraded Netherite](https://www.curseforge.com/minecraft/mc-mods/ugraded-netherite)
+
+
+**Removed**
+- [Mixin Bootstrap](https://www.curseforge.com/minecraft/mc-mods/mixinbootstrap) (**Available by default in Forge now.**)
+
+
+**Changes**
+- Added some recipes to the Grindstone from '**AE2**' to allow modded ores to be grindable.
+- Updated the texture for the Mining Dimension teleporter block to match the Crafting Recipe materials.
+- Disabled '**Apotheosis**' enchantment tooltips to prevent having duplicate tooltips.
+- Disabled Harvest Level tooltip from '**Waila Harvestability**' to prevent having duplicate tooltips.
+- The Dragonite Flower from '**End Reborn**' can now be converted into Cyan Dye.
+- Lowered 'Tries Per Chunk' for Speleothems, 60 -> 30. (**Quark.**)
+- Torches from the mod '**Dwarf Coal**' can now be placed on the Ceiling. (See: [here](https://www.curseforge.com/minecraft/mc-mods/ceiling-torch/files/3027669) )
+- Maximum growth height for Sugar Cane is now 6 blocks.
+- Maximum growth height for Cactus is now 6 blocks.
+- Maximum growth height for Bamboo is now 24 blocks.
+- Wither Skeletons no longer spawns with Bows.
+- Turnd off Java Version check.
+- Minor changes within some mod updates.
+
+
+**Updated**
+- Any mod that had an update available, that also didn't break things.
+
+
+**Fixes**
+- A crash when opening the Options Menu w/ OptiFine installed has been fixed. (See: [here](https://www.curseforge.com/minecraft/mc-mods/tipthescales/files/3025496) )
+- Fixed every block being displayed as harvestable. (**Waila Harvestability.**)
+- Minor fixes within some mod updates.
+
+
+Need a server to play with your friends? or just don't know how to set one up?
+
+Get 25% off any game servers on your first month!
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>0.8.1</h1>
 
 **FTB Chunks (Chunk Claiming) Update!**
