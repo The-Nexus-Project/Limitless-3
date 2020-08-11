@@ -24,6 +24,10 @@ assignees: ''
 <!-- If applicable, add screenshots to help explain your problem. Delete this before submitting. -->
 
 
+### Crash Reports & Logs (Don't paste entire crash reports here.)
+<!-- If applicable, upload your Crash-reports help explain your problem. Delete this before submitting. --> 
+<!-- Use sites like: Paste.ee, Pastebin.com & Hastebin.com, Gists Github. -->
+
 ### Affected Version
 <!-- (Do *not* use "latest"): Delete this before submitting. -->
 - Pack Version: 
