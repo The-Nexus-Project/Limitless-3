@@ -25,7 +25,7 @@
 **Changes**
 - Added a recipe to be able to convert any '**Improved Stations**' slab back to its original block.
 - You can now eat food to increase your maximum health.
-- First 5 hearts requires 25 unique foods, meaning every 5 unique foods eaten you get a new heart. Then after the first 5 hearts the requirement for increasing health goes up by 5 unique foods, and so on.
+- First 5 hearts requires 25 unique foods, meaning every 5 unique foods eaten you get a new heart. Then after the first 5 hearts, the requirement for increasing health goes up by 5 unique foods, and so on.
 - Added more scripts to unify alot of ores, ingots & nuggets.
 - Updated the texture for the '**Copper Furnace**' from '**Iron Furnaces**' to better match the Copper Block used in LL3.
 - Updated the texture for the '**Silver Furnace**' from '**Iron Furnaces**' to better match the Silver Block used in LL3.
