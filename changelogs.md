@@ -1,3 +1,71 @@
+<h1>0.9.0</h1>
+
+**QoL, Silent's Mechanisms & Tinker's Mechworks Update (+ More!)**
+
+**A reset/deletion of the 'serverconfig' folder is recommended with this update! It's located in the world folder.**
+
+**Remember to always back up your world(s) before updating! Could be important.**
+
+
+**Added**
+- [Botany Pots](https://www.curseforge.com/minecraft/mc-mods/botany-pots)
+- [Flamingo Oh Oh Oh](https://www.curseforge.com/minecraft/mc-mods/flamingo-oh-oh-oh)
+- [Mantle](https://www.curseforge.com/minecraft/mc-mods/mantle)
+- [Silent's Mechanisms](https://www.curseforge.com/minecraft/mc-mods/silents-mechanisms)
+- [Spice of Life: Carrot Edition](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition)
+- [SwingThroughGrass](https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass)
+- [Tinkers' Mechworks](https://www.curseforge.com/minecraft/mc-mods/tinkers-mechworks)
+
+
+**Removed**
+- [Miner's Helmet](https://www.curseforge.com/minecraft/mc-mods/miners-helmet)
+- [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph) (**Temporarily!**)
+
+
+**Changes**
+- Added a recipe to be able to convert any '**Improved Stations**' slab back to its original block.
+- You can now eat food to increase your maximum health.
+- First 5 hearts requires 25 unique foods, meaning every 5 unique foods eaten you get a new heart. Then after the first 5 hearts the requirement for increasing health goes up by 5 unique foods, and so on.
+- Added more scripts to unify alot of ores, ingots & nuggets.
+- Updated the texture for the '**Copper Furnace**' from '**Iron Furnaces**' to better match the Copper Block used in LL3.
+- Updated the texture for the '**Silver Furnace**' from '**Iron Furnaces**' to better match the Silver Block used in LL3.
+- Excavating blocks will now place them in your inventory, but if your inventory is full however they will drop on the ground.
+- Excavating different types of Leaf Blocks will now allow them to be excavated together. (**Example** [here](https://i.gyazo.com/6fd4bf2b2440669aed2a8d2db0d1cad1.mp4) )
+- Re-activated the recipe for the '**Engineer's Manual**' since the crash when you opened it has been fixed.
+- Lowered how many Chunks can be Loaded, 50 -> 16 per person/team. (**FTB Chunks.**)
+- Increased Max Excavation Range, 128 blocks -> 192 blocks.
+- Changed the recipe for the '**Mining Dimension**' Access Block to require a Diamond Pickaxe instead of a Netherite pickaxe.
+- Updated the '**Mining Dimension**' Access Block texture to match the new recipe.
+- The block '**EXP Ore**' spawn% per chunk has been lowered from 2 -> 1.
+- Lowered Prosperity Ore Spawn Rate in a chunk, 8 -> 5.
+- Lowered Inferium Ore Spawn Rate in a chunk, 10 -> 7.
+- You no longer keep the Backpack from the mod '**Backpacked**' upon death.
+- Made '**Immersive Engineering**' village houses contain the correct Copper, Steel Ingots & Nuggets.
+- Lowered '**Monster Box**' weight, 5 -> 2 - (**Quark.**)
+- Lowered '**Monster Box**' Chance Per Chunk, 0.8 -> 0.4 - (**Quark.**)
+- Other changes within some mod updates.
+
+
+**Updated**
+- All mods in the pack have been updated. Except mods that would break something!
+
+
+**Fixes**
+- Temporarily fixed the missing recipe problems by removed the mod '**PolyMorph**'.
+- Fixed Grindstone from '**AE2**' outputting the wrong type of dust for Iron Ore / Gold Ore.
+- Furnace & Blast Furnace provided light when idle, that has been fixed. (See [here](https://www.curseforge.com/minecraft/mc-mods/fastfurnace/files/3027897) )
+- A crash when opening the '**Engineer's Manual**' has been fixed.
+- Other fixes within some mod updates.
+
+
+Need a server to play with your friends? or just don't know how to set one up?
+
+Get 25% off any game servers on your first month!
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>0.8.2</h1>
 
 **Applied Energistics 2 & Apotheosis Update (+ More) !**
