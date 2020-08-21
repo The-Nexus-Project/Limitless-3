@@ -1,3 +1,43 @@
+<h1>0.9.1a</h1>
+
+**Smaller update bringing some mod updates to fix some issues.**
+
+**Remember to always back up your world(s) before updating! Could be important.**
+
+
+**Added**
+- No mods added.
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Toasts popups that do show up no longer overlaps with the Minimap on the recommended GUI Scale setting, (**Large**).
+- Small changes within mod updates.
+
+
+**Fixes**
+- Updated mods to fix some critical issues.
+
+
+**Updated**
+- All mods in the pack have been updated. Except mods that would break something!
+
+
+**Known Issue**
+- When excavating any block the console will be spammed with text. (**Will be fixed in a later update.**)
+
+
+Need a server to play with your friends? or just don't know how to set one up?
+
+Get 25% off any game servers on your first month!
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>0.9.1</h1>
 
 **Building Gadgets & Enigmatic Legacy Update (+ More!)**
