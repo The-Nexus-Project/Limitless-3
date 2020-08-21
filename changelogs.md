@@ -32,7 +32,7 @@
 
 
 **Fixes**
-- Fixed the minimap not being exactly in the corner on '**GUI Scale**'' Auto or '**4**'.
+- Fixed the minimap not being exactly in the corner on GUI Scale '**Auto**' or '**4**'.
 - Fixes within mod updates.
 
 
