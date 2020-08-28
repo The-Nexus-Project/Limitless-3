@@ -1,3 +1,52 @@
+<h1>0.9.2</h1>
+
+**Extended Caves & Compact Ores Update (+ More!)**
+
+**A reset/deletion of the 'serverconfig' folder is recommended with this update! It's located in the world folder.**
+
+**This might be the last update before the move to 1.16.2!**
+
+**Remember to always back up your world(s) before updating! Could be important.**
+
+
+**Added**
+- [Compact Ores](https://www.curseforge.com/minecraft/mc-mods/compact-ores)
+- [Extended Caves](https://www.curseforge.com/minecraft/mc-mods/extended-caves)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Added **4** additional hearts that can be gained from eating unique foods, 30 max hearts **->** 34. (**SOL: Carrot.**)
+- Disabled every stone/dirt block from worldgen in '**Extended Caves**' and added recipes to them instead.
+- The '**Regeneration Ring**' is now Legendary(3) tier.
+- Increased '**Dungeon Crawl**' Dungeon spawn probability slightly.
+- Merged some scripts in '**/scripts/**' and also sorted them better.
+- Added recipes to rockpiles & pebbles from '**Extended Caves**'.
+- Excavating a '**Compact Ore**' right next to its normal ore counterpart will allow them to be excavated together. (Example [here](https://i.gyazo.com/6fd4bf2b2440669aed2a8d2db0d1cad1.mp4) )
+- Small changes within mod updates.
+
+
+**Fixes**
+- Console getting spammed with text when excavating blocks has been fixed. (See [here](https://www.curseforge.com/minecraft/mc-mods/excavation/files/3039705) )
+- Fixed the first & third person viewmodel for the '**Portable Crafting Tables**'.
+- Fixes within mod updates.
+
+
+**Updated**
+- All mods in the pack have been updated. Except mods that would break something!
+
+
+Need a server to play with your friends? or just don't know how to set one up?
+
+Get 25% off any game servers on your first month!
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>0.9.1a</h1>
 
 **Smaller update bringing some mod updates to fix some issues.**
