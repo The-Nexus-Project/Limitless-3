@@ -1,3 +1,126 @@
+<h1>1.0.0-Beta</h1>
+
+**The 1.16.2 Update.**
+
+**Beta Version!**
+
+**WARNING! THIS UPDATE IS BREAKING. MEANING IT'S NOT COMPATIBLE WITH OTHER WORLDS OR ANY OTHER VERSIONS OF LIMITLESS 3!**
+
+**That being said, a new instance & world is pretty much required!**
+
+**The removed mods will be re-added once updated.**
+
+
+**Added**
+- [Blame](https://www.curseforge.com/minecraft/mc-mods/blame)
+- [BlockCarpentry](https://www.curseforge.com/minecraft/mc-mods/blockcarpentry)
+- [Flat Bedrock](https://www.curseforge.com/minecraft/mc-mods/flat-bedrock)
+- [Glassential](https://www.curseforge.com/minecraft/mc-mods/glassential)
+- [Repurposed Structures](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures)
+- [RFTools Base](https://www.curseforge.com/minecraft/mc-mods/rftools-base)
+- [RFTools Builder](https://www.curseforge.com/minecraft/mc-mods/rftools-builder)
+- [RFTools Control](https://www.curseforge.com/minecraft/mc-mods/rftools-control)
+- [RFTools Power](https://www.curseforge.com/minecraft/mc-mods/rftools-power)
+- [RFTools Storage](https://www.curseforge.com/minecraft/mc-mods/rftools-storage)
+- [RFTools Utility](https://www.curseforge.com/minecraft/mc-mods/rftools-utility)
+- [Scuba Gear](https://www.curseforge.com/minecraft/mc-mods/scuba-gear)
+- [XNet](https://www.curseforge.com/minecraft/mc-mods/xnet)
+
+
+
+**Removed**
+- [Abnormals Core](https://www.curseforge.com/minecraft/mc-mods/abnormals-core)
+- [Additional Enchanted Miner](https://www.curseforge.com/minecraft/mc-mods/additional-enchanted-miner)
+- [Aquaculture 2](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
+- [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts)
+- [Bag of Yurting](https://www.curseforge.com/minecraft/mc-mods/bag-of-yurting)
+- [Bamboo Everything](https://www.curseforge.com/minecraft/mc-mods/bamboo-everything-forge)
+- [Basic Nether Ores](https://www.curseforge.com/minecraft/mc-mods/basic-nether-ores)
+- [Better Bedrock Generator](https://www.curseforge.com/minecraft/mc-mods/better-bedrock-generator)
+- [Botany Pots](https://www.curseforge.com/minecraft/mc-mods/botany-pots)
+- [Building Gadgets](https://www.curseforge.com/minecraft/mc-mods/building-gadgets)
+- [Buzzier Bees](https://www.curseforge.com/minecraft/mc-mods/buzzier-bees)
+- [Compact Ores](https://www.curseforge.com/minecraft/mc-mods/compact-ores)
+- [Dark Utilities](https://www.curseforge.com/minecraft/mc-mods/dark-utilities)
+- [Ding](https://www.curseforge.com/minecraft/mc-mods/ding)
+- [Dungeon Crawl](https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl)
+- [Dwarf Coal](https://www.curseforge.com/minecraft/mc-mods/dwarf-coal)
+- [End: Reborn](https://www.curseforge.com/minecraft/mc-mods/end-reborn)
+- [Enigmatic Legacy](https://www.curseforge.com/minecraft/mc-mods/enigmatic-legacy)
+- [Excavation](https://www.curseforge.com/minecraft/mc-mods/excavation)
+- [Exp Ore Mod](https://www.curseforge.com/minecraft/mc-mods/exp-ore-block-mod)
+- [Extended Caves](https://www.curseforge.com/minecraft/mc-mods/extended-caves)
+- [Fast Tool Switching](https://www.curseforge.com/minecraft/mc-mods/fast-tool-switching)
+- [Flamingo Oh Oh Oh](https://www.curseforge.com/minecraft/mc-mods/flamingo-oh-oh-oh)
+- [Forbiddin & Arcanus](https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus)
+- [Gentle Fawn](https://www.curseforge.com/minecraft/mc-mods/gentle-fawn)
+- [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
+- [Improved Stations](https://www.curseforge.com/minecraft/mc-mods/improved-stations-forge)
+- [Industrial Foregoing](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing)
+- [Inventory Tweaks Renewed](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks-renewed)
+- [Iron Furnaces](https://www.curseforge.com/minecraft/mc-mods/iron-furnaces)
+- [Iron Shulkerboxes](https://www.curseforge.com/minecraft/mc-mods/iron-shulker-boxes)
+- [Item Filters](https://www.curseforge.com/minecraft/mc-mods/item-filters)
+- [Large Ore Deposits](https://www.curseforge.com/minecraft/mc-mods/large-ore-deposits)
+- [Lollipop](https://www.curseforge.com/minecraft/mc-mods/lollipop)
+- [Managear](https://www.curseforge.com/minecraft/mc-mods/mana-gear)
+- [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
+- [Mekanism Additions](https://www.curseforge.com/minecraft/mc-mods/mekanism-additions)
+- [Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators)
+- [Mekanism Tools](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools)
+- [Modular Routers](https://www.curseforge.com/minecraft/mc-mods/modular-routers)
+- [Mystical Agradditions](https://www.curseforge.com/minecraft/mc-mods/mystical-agradditions)
+- [Mystical Agriculture](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture)
+- [Old Java Warning](https://www.curseforge.com/minecraft/mc-mods/oldjavawarning)
+- [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized)
+- [Portality](https://www.curseforge.com/minecraft/mc-mods/portality)
+- [Powah](https://www.curseforge.com/minecraft/mc-mods/powah)
+- [Quantum Storage](https://www.curseforge.com/minecraft/mc-mods/quantumstorage)
+- [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
+- [Quark: Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities)
+- [Rats](https://www.curseforge.com/minecraft/mc-mods/rats)
+- [Reload Audio Driver](https://www.curseforge.com/minecraft/mc-mods/reload-audio-driver-rad)
+- [Runelic](https://www.curseforge.com/minecraft/mc-mods/runelic)
+- [Silent Lib](https://www.curseforge.com/minecraft/mc-mods/silent-lib)
+- [Silent's Mechanisms](https://www.curseforge.com/minecraft/mc-mods/silents-mechanisms)
+- [SilentGear](https://www.curseforge.com/minecraft/mc-mods/silent-gear)
+- [Simple Farming](https://www.curseforge.com/minecraft/mc-mods/simple-farming)
+- [Spice of Life: Carrot Edition](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition)
+- [SwingThroughGrass](https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass)
+- [The Endergetic Expansion](https://www.curseforge.com/minecraft/mc-mods/endergetic)
+- [Tinker's Mechworks](https://www.curseforge.com/minecraft/mc-mods/tinkers-mechworks)
+- [Titanium](https://www.curseforge.com/minecraft/mc-mods/titanium)
+- [Toughness Bar](https://www.curseforge.com/minecraft/mc-mods/armor-toughness-bar)
+- [Uppers](https://www.curseforge.com/minecraft/mc-mods/uppers)
+- [Variant16x](https://www.curseforge.com/minecraft/mc-mods/variant16x)
+- [Waddles](https://www.curseforge.com/minecraft/mc-mods/waddles)
+- [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)
+- [YUNG's Better Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge)
+
+
+**Changes**
+- You no longer get to keep the '**Death Note**' after you've destroyed your gravestone.
+- **+** Alot of other changes, too many to keep track.
+
+
+**Fixes**
+- There's been alot of fixes, also in mod updates.
+
+
+**Updated**
+- Forge has been updated to version 33.0.37
+- All mods in the pack have been updated.
+
+
+
+Need a server to play with your friends? or just don't know how to set one up?
+
+Get 25% off any game servers on your first month!
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>0.9.2</h1>
 
 **Extended Caves & Compact Ores Update (+ More!)**
