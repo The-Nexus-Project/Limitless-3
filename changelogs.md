@@ -1,8 +1,6 @@
 <h1>1.0.0-Beta</h1>
 
-**The 1.16.2 Update.**
-
-**Beta Version!**
+**The 1.16.2 Update.** - (**Beta Version!**)
 
 **WARNING! THIS UPDATE IS BREAKING.**
 
