@@ -1,3 +1,31 @@
+<h1>0.9.3-Release</h1>
+
+**Smaller update bringing some needed mod updates.**
+
+**Not compatible with Beta versions of Limitless 3.**
+
+
+**Changes**
+- Some minor changes within mod updates.
+
+
+**Fixes**
+- Some fixes within mod updates.
+
+
+**Updated**
+- All mods in the pack have been updated, except mods that would break something.
+
+
+
+Need a server to play with your friends? or just don't know how to set one up?
+
+Get 25% off any game servers on your first month!
+
+**Code: Gbergz |** Bisecthosting.com/Gbergz https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>1.0.0-Beta</h1>
 
 **The 1.16.2 Update.** - (**Beta Version!**)
