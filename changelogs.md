@@ -1,3 +1,99 @@
+<h1>1.1.0</h1>
+
+**1.16.2 went by fast. Oh well.. here we are, the 1.16.3 update.**
+
+**This is a breaking update, it's NOT compatible with versions 0.x.x, and it's NOT compatible with 1.0.0-Beta either, things will break!**
+
+**Update worlds with that in mind.**
+
+**This changelog represents v1.0.0-Beta to v1.1.0**
+
+**Mods will be removed & added, lots of changes are to be expected.**
+
+**Most of the removed mods will be re-added once updated.**
+
+
+**Added**
+- [Advanced Hook Launchers](https://www.curseforge.com/minecraft/mc-mods/advanced-hook-launchers) (+ [Forge Endertech](https://www.curseforge.com/minecraft/mc-mods/forgeendertech) )
+- [Attribute Fix](https://www.curseforge.com/minecraft/mc-mods/attributefix)
+- [Aquaculture 2](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
+- [Bag of Yurting](https://www.curseforge.com/minecraft/mc-mods/bag-of-yurting)
+- [Building Gadgets](https://www.curseforge.com/minecraft/mc-mods/building-gadgets)
+- [Crafting Station](https://www.curseforge.com/minecraft/mc-mods/crafting-station) (+ [Extra Tags](https://www.curseforge.com/minecraft/mc-mods/extra-tags) )
+- [CleanCut](https://www.curseforge.com/minecraft/mc-mods/cleancut)
+- [Curious Shulker Boxes](https://www.curseforge.com/minecraft/mc-mods/curious-shulker-boxes)
+- [Compact Ores](https://www.curseforge.com/minecraft/mc-mods/compact-ores)
+- [Dark Utilities](https://www.curseforge.com/minecraft/mc-mods/dark-utilities)
+- [Ding](https://www.curseforge.com/minecraft/mc-mods/ding)
+- [Dungeon Crawl](https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl)
+- [Fertilization](https://www.curseforge.com/minecraft/mc-mods/fertilization)
+- [Forbidden And Arcanus](https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus)
+- [HunterIllager](https://www.curseforge.com/minecraft/mc-mods/hunterillager)
+- [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
+- [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs)
+- [KleeSlabs](https://www.curseforge.com/minecraft/mc-mods/kleeslabs)
+- [Let Sleeping Dogs Lie](https://www.curseforge.com/minecraft/mc-mods/let-sleeping-dogs-lie)
+- [Macaw's Bridges](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges)
+- [Macaw's Doors](https://www.curseforge.com/minecraft/mc-mods/macaws-doors)
+- [Macaw's Roofs](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs)
+- [Macaw's Windows](https://www.curseforge.com/minecraft/mc-mods/macaws-windows)
+- [Mystical Agriculture](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture)
+- [Mystical Agradditions](https://www.curseforge.com/minecraft/mc-mods/mystical-agradditions)
+- [Nature's Aura](https://www.curseforge.com/minecraft/mc-mods/natures-aura)
+- [Nicephore](https://www.curseforge.com/minecraft/mc-mods/nicephore)
+- [Powah](https://www.curseforge.com/minecraft/mc-mods/powah) (+ [Lollipop](https://www.curseforge.com/minecraft/mc-mods/lollipop) )
+- [Pretty Pipes](https://www.curseforge.com/minecraft/mc-mods/pretty-pipes)
+- [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized)
+- [Rats](https://www.curseforge.com/minecraft/mc-mods/rats) (+ [Citadel](https://www.curseforge.com/minecraft/mc-mods/citadel) )
+- [Refined Relocation 2](https://www.curseforge.com/minecraft/mc-mods/refined-relocation-2)
+- [Shutup Experimental Settings](https://www.curseforge.com/minecraft/mc-mods/shutup-experimental-settings)
+- [Speedy Hoppers](https://www.curseforge.com/minecraft/mc-mods/speedy-hoppers)
+- [Simple Discord Rich Presence](https://www.curseforge.com/minecraft/mc-mods/simple-discord-rich-presence)
+- [Tips](https://www.curseforge.com/minecraft/mc-mods/tips)
+- [Industrial Foregoing](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing) (+ [Titanium](https://www.curseforge.com/minecraft/mc-mods/titanium) 
+- [Variant16x](https://www.curseforge.com/minecraft/mc-mods/variant16x)
+- [Waddles](https://www.curseforge.com/minecraft/mc-mods/waddles)
+- [Wawla](https://www.curseforge.com/minecraft/mc-mods/wawla)
+- [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)
+
+
+**Removed**
+- [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)
+- [Collective](https://www.curseforge.com/minecraft/mc-mods/collective)
+- [CraftTweaker](https://www.curseforge.com/minecraft/mc-mods/crafttweaker)
+- [CraftPresence](https://www.curseforge.com/minecraft/mc-mods/craftpresence)
+- [DoubleSlabs](https://www.curseforge.com/minecraft/mc-mods/double-slabs)
+- [Environmental Creepers](https://www.curseforge.com/minecraft/mc-mods/environmental-creepers)
+- [JEI Tweaker](https://www.curseforge.com/minecraft/mc-mods/jeitweaker)
+- [NoMoWanderer](https://www.curseforge.com/minecraft/mc-mods/nomowanderer)
+- [Pam's HC2 - Food Core](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core)
+
+
+
+**Changes**
+- Major changes between versions. Too much to keep track.
+- And some other changes within mod updates.
+
+
+**Fixes**
+- Fixed Ores and other worldgen features not generating.
+- Some fixes within mod updates.
+
+
+**Updated**
+- Updated Forge to version 34.1.0 
+- All mods in the pack have been updated.
+
+
+
+Need a server to play with your friends? or just don't know how to set one up?
+
+Get 25% off any game servers on your first month!
+
+**Code: Gbergz |** Bisecthosting.com/Gbergz https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>0.9.3-Release</h1>
 
 **Smaller update bringing some needed mod updates.**
