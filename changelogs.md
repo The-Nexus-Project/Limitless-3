@@ -1,4 +1,4 @@
-<h1>1.1.0</h1>
+<h1>v1.1.0</h1>
 
 **1.16.2 went by fast. Oh well.. here we are, the 1.16.3 update.**
 
@@ -94,7 +94,7 @@ Get 25% off any game servers on your first month!
 
 ---------------
 
-<h1>0.9.3-Release</h1>
+<h1>v0.9.3-Release</h1>
 
 **Smaller update bringing some needed mod updates.**
 
@@ -122,7 +122,7 @@ Get 25% off any game servers on your first month!
 
 ---------------
 
-<h1>1.0.0-Beta</h1>
+<h1>v1.0.0-Beta</h1>
 
 **The 1.16.2 Update.** - (**Beta Version!**)
 
@@ -245,7 +245,7 @@ Get 25% off any game servers on your first month!
 
 ---------------
 
-<h1>0.9.2</h1>
+<h1>v0.9.2</h1>
 
 **Extended Caves & Compact Ores Update (+ More!)**
 
@@ -294,7 +294,7 @@ Get 25% off any game servers on your first month!
 
 ---------------
 
-<h1>0.9.1a</h1>
+<h1>v0.9.1a</h1>
 
 **Smaller update bringing some mod updates to fix some issues.**
 
@@ -334,7 +334,7 @@ Get 25% off any game servers on your first month!
 
 ---------------
 
-<h1>0.9.1</h1>
+<h1>v0.9.1</h1>
 
 **Building Gadgets & Enigmatic Legacy Update (+ More!)**
 
@@ -389,7 +389,7 @@ Get 25% off any game servers on your first month!
 
 ---------------
 
-<h1>0.9.0</h1>
+<h1>v0.9.0</h1>
 
 **QoL, Silent's Mechanisms & Tinker's Mechworks Update (+ More!)**
 
@@ -457,7 +457,7 @@ Get 25% off any game servers on your first month!
 
 ---------------
 
-<h1>0.8.2</h1>
+<h1>v0.8.2</h1>
 
 **Applied Energistics 2 & Apotheosis Update (+ More) !**
 
@@ -515,7 +515,7 @@ Get 25% off any game servers on your first month!
 
 ---------------
 
-<h1>0.8.1</h1>
+<h1>v0.8.1</h1>
 
 **FTB Chunks (Chunk Claiming) Update!**
 
@@ -562,7 +562,7 @@ Get 25% off any game servers on your first month!
 
 ---------------
 
-<h1>0.8.0</h1>
+<h1>v0.8.0</h1>
 
 **Mystical Agriculture & Dungeon Crawl Update + more!**
 
@@ -640,7 +640,7 @@ Get 25% off any game servers on your first month!
 
 ---------------
 
-<h1>0.7.2</h1>
+<h1>v0.7.2</h1>
 
 **Botania & PneumaticCraft Update!**
 
@@ -687,7 +687,7 @@ Get 25% off any game servers on your first month!
 
 ---------------
 
-<h1>0.7.1</h1>
+<h1>v0.7.1</h1>
 
 **Iron Jetpacks & Productive Bees Update!**
 
@@ -751,7 +751,7 @@ Get 25% off any game servers on your first month!
 
 ---------------
 
-<h1>0.7.0</h1>
+<h1>v0.7.0</h1>
 
 **Cyclic & Excavation Update(Ultimine)!**
 
@@ -794,7 +794,7 @@ Get 25% off any game servers on your first month!
 
 ---------------
 
-<h1>0.6.4</h1>
+<h1>v0.6.4</h1>
 
 **Quality of Life & Simple Farming Update!**
 
@@ -845,7 +845,7 @@ Get 25% off any game servers on your first month!
 
 ---------------
 
-<h1>0.6.3a</h1>
+<h1>v0.6.3a</h1>
 
 **Minor update.**
 
@@ -894,7 +894,7 @@ Get 25% off any game servers on your first month!
 
 ---------------
 
-<h1>0.6.2</h1>
+<h1>v0.6.2</h1>
 
 **Industrial Foregoing, Portality & No more recipe conflicts update!**
 
@@ -931,7 +931,7 @@ Get 25% off any game servers on your first month!
 
 ---------------
 
-<h1>0.6.1</h1>
+<h1>v0.6.1</h1>
 
 **Always remember to backup your world(s) before updating!**
 
@@ -949,7 +949,7 @@ Get 25% off any game servers on your first month!
 
 ---------------
 
-<h1>0.6.0</h1>
+<h1>v0.6.0</h1>
 
 **A little Quality Of Life Update & Better Looking Mineshafts!**
 
@@ -1003,7 +1003,7 @@ Get 25% off any game servers on your first month!
 
 ---------------
 
-<h1>0.5.1</h1>
+<h1>v0.5.1</h1>
 
 **IMPORTANT! READ BEFORE UPDATING TO THIS VERSION.**
 
@@ -1040,7 +1040,7 @@ Get 25% off any game servers on your first month!
 
 ---------------
 
-<h1>0.5.0</h1>
+<h1>v0.5.0</h1>
 
 **The Refined Storage & Powah Update!**
 
