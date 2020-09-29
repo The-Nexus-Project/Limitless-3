@@ -854,7 +854,7 @@ Get 25% off any game servers on your first month!
 **Changes**
 - Updated Quark to fix some crashing issues with the mod.
 
-<h1>0.6.3</h1>
+<h1>v0.6.3</h1>
 
 **Quark & The Endergetic Expansion Update!**
 
