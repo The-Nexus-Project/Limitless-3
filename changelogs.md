@@ -1,3 +1,61 @@
+<h1>v1.2.0</h1>
+
+**The 1.16.3 update continuation - Enigmatic Legacy, Silent Gear + more!**
+
+**Some new world-gen features this update, but nothing world-breaking.**
+
+**If you're updating from 0.x.x or 1.0.0-Beta worlds are not compatible!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Botania Additions](https://www.curseforge.com/minecraft/mc-mods/botania-additions)
+- [Botany Pots](https://www.curseforge.com/minecraft/mc-mods/botany-pots)
+- [Crossroads MC](https://www.curseforge.com/minecraft/mc-mods/crossroads-mc)
+- [Enigmatic Legacy](https://www.curseforge.com/minecraft/mc-mods/enigmatic-legacy)
+- [Menu Companions](https://www.curseforge.com/minecraft/mc-mods/menu-companions)
+- [Pam's HarvestCraft 2 - Food Core](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core)
+- [Pam's HarvestCraft 2 - Crops](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-crops)
+- [Reliquary](https://www.curseforge.com/minecraft/mc-mods/reliquary-v1-3)
+- [RAD - Reload Audio Driver](https://www.curseforge.com/minecraft/mc-mods/reload-audio-driver-rad)
+- [Randomite Classic](https://www.curseforge.com/minecraft/mc-mods/randomite-classic)
+- [Silent Gear](https://www.curseforge.com/minecraft/mc-mods/silent-gear) (+ [Silent Lib](https://www.curseforge.com/minecraft/mc-mods/silent-lib) )
+- [Uppers](https://www.curseforge.com/minecraft/mc-mods/uppers)
+- [YUNG's Better Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Increased '**Dungeon Crawl**' dungeon generation probability slightly, 0.07 -> 0.10.
+- The Fire effect on screen is now less intrusive, (Lower Fire).
+- The Vanilla Shield on screen is now less intrusive, (lower).
+- Rain & Snow particles are now less annoying.
+- New Halloween themed Main Menu background.
+- And some other changes within mod updates.
+
+
+**Fixes**
+- Some fixes within mod updates.
+
+
+**Updated**
+- Updated Forge to version 34.1.1
+- All mods in the pack have been updated.
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** Bisecthosting.com/Gbergz https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.1.0</h1>
 
 **1.16.2 went by fast. Oh well.. here we are, the 1.16.3 update.**
