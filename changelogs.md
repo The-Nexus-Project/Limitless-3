@@ -4,6 +4,8 @@
 
 **The main ore generation has been swapped out for Silent's Mechanims, worlds are still compatible.**
 
+**If you're updating from 0.x.x or 1.0.0-Beta worlds are not compatible!**
+
 **Always remember to backup your world(s) before updating!**
 
 
