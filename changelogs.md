@@ -1,3 +1,57 @@
+<h1>v1.3.0</h1>
+
+**Applied Energistics 2, Silent's Mechanisms Update (+ More!)**
+
+**The main ore generation has been swapped out for Silent's Mechanims, worlds are still compatible.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)
+- [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau) (+ [GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib) )
+- [Bamboo Everything](https://www.curseforge.com/minecraft/mc-mods/bamboo-everything-forge)
+- [Craft and Hunt](https://www.curseforge.com/minecraft/mc-mods/craft-and-hunt)
+- [ExtraStorage](https://www.curseforge.com/minecraft/mc-mods/extrastorage)
+- [FTB Ultimine](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine) (**Almost like Ore Excavation**)
+- [Mana Gear](https://www.curseforge.com/minecraft/mc-mods/mana-gear)
+- [Modular Routers](https://www.curseforge.com/minecraft/mc-mods/modular-routers)
+- [Pandoras Creatures](https://www.curseforge.com/minecraft/mc-mods/pandoras-creatures)
+- [Portality](https://www.curseforge.com/minecraft/mc-mods/portality)
+- [Silent's Mechanisms](https://www.curseforge.com/minecraft/mc-mods/silents-mechanisms)
+- [SOL: Carrot Edition](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition)
+- [Simple Farming](https://www.curseforge.com/minecraft/mc-mods/simple-farming)
+- [Woodcutter](https://www.curseforge.com/minecraft/mc-mods/woodcutter-forge)
+
+
+**Removed**
+- [Menu Companions](https://www.curseforge.com/minecraft/mc-mods/menu-companions)
+
+
+**Changes**
+- The main ore generation has been swapped out for **Silent's Mechanisms**!
+- Unified alot of items. (Ingots & blocks etc.)
+- Nether Portal sounds are now quiter.
+- Some changes within mod updates.
+
+
+**Fixes**
+- Some fixes within mod updates.
+
+
+**Updated**
+- Updated Forge to version 34.1.10
+- All mods in the pack have been updated.
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** Bisecthosting.com/Gbergz https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.2.0</h1>
 
 **The 1.16.3 update continuation - Enigmatic Legacy, Silent Gear + more!**
