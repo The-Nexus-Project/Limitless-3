@@ -4,6 +4,8 @@
 
 **The main ore generation has been swapped out for Silent's Mechanims, worlds are still compatible.**
 
+**A reset/deletion of the 'serverconfig' folder is recommended with this update! It's located in the world folder.**
+
 **If you're updating from 0.x.x or 1.0.0-Beta worlds are not compatible!**
 
 **Always remember to backup your world(s) before updating!**
