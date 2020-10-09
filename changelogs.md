@@ -1,3 +1,66 @@
+<h1>v1.4.0</h1>
+
+**Ice and Fire, Mekanism Update (+ More!)**
+
+**IMPORTANT! A reset/deletion of the 'serverconfig' folder is highly recommended with this update! It's located in the world folder.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Botany Trees](https://www.curseforge.com/minecraft/mc-mods/botany-trees)
+- [Ice and Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)
+- [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
+- [Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators)
+- [Mekanism Additions](https://www.curseforge.com/minecraft/mc-mods/mekanism-additions)
+- [Mekanism Tools](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools)
+- [NoMoWanderer](https://www.curseforge.com/minecraft/mc-mods/nomowanderer)
+
+
+**Removed**
+- [Crossroads](https://www.curseforge.com/minecraft/mc-mods/crossroads-mc) (**Removed due to crashes. Might be readded.**)
+
+
+**Changes**
+- The command '**/back**' is now enabled.
+- Maximum amount of '**homes**' has been increased from 1 to 2. (**/sethome**)
+- Added some Ore to Dust recipes to the Quartz Grindstone from **AE2**.
+- Batwing from **Forbidden & Arcanus** can now be converted into a Batwing from **Reliquary**. (**And vice versa.**)
+- The **JEI** search bar is now centered.
+- Once again unified alot of different dusts, ingots etc..
+- **Sythian Stalk** can now be converted into regular Vanilla **Bamboo**.
+- Added a **JEI** information page to most ores describing what **Y Levels** they can generate at.
+- Disabled generation of the biome **Lush Tundra**.
+- Updated textures for **Silver Furnace** & **Copper Furnace** to better match their material.
+- Added **Food Book** as a starting item on new worlds/new player joins.
+- Decreased the amount of total food needed to get a new heart when player has achieved 10 hearts. (**15 -> 10.**)
+- Increased the total amount of hearts that can be gained by eating new food types. (**30 -> 50**)
+- Lowered Exhaustion per block when Excavating **65** -> **57.5**.
+- Adjusted the **Engineers House** loot table to contain the correct type of Ingots, nuggets etc.
+- And some other changes within mod updates.
+
+
+**Fixes**
+- Fixed the **Discord Rich Presence** displaying **Limitless 2** instead of **3**.
+- The Missing **Apple Skin** Food Tooltips & Saturation background overlays has been fixed.
+- Fixed some duplicate ores generating.
+- Some fixes within mod updates.
+
+
+**Updated**
+- Updated Forge to version 34.1.14
+- All mods in the pack have been updated.
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** Bisecthosting.com/Gbergz https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.3.0</h1>
 
 **Applied Energistics 2, Silent's Mechanisms Update (+ More!)**
