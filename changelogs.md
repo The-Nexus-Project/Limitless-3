@@ -18,7 +18,7 @@
 
 
 **Removed**
-- [Crossroads](https://www.curseforge.com/minecraft/mc-mods/crossroads-mc) (**Removed due to crashes. Might be readded.**)
+- No mods removed.
 
 
 **Changes**
