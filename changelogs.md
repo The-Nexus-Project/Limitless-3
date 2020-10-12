@@ -1,6 +1,6 @@
 <h1>v1.4.1</h1>
 
-**A smaller update, lets call it a QoL update!**
+**A smaller update, let's call it a QoL update!**
 
 **Always remember to backup your world(s) before updating!**
 
