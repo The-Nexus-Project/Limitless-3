@@ -1,3 +1,50 @@
+<h1>v1.4.1</h1>
+
+**A smaller update, lets call it a QoL update!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Neat](https://www.curseforge.com/minecraft/mc-mods/neat)
+- [Rats: Ratlantis](https://www.curseforge.com/minecraft/mc-mods/rats-ratlantis)
+- [Tiny Coal](https://www.curseforge.com/minecraft/mc-mods/tiny-coal)
+
+
+**Removed**
+- [Blame](https://www.curseforge.com/minecraft/mc-mods/blame)
+
+
+**Changes**
+- **Osmium Ore** can now be turned into **Osmium Chunks** in the **Crusher** from Silent's Mechanisms, which then can be turned into **Osmium Dust**.
+- **Fruit Log** can now be smelted into **Charcoal**.
+- **Dragons** can no longer grief blocks.
+- Vanilla **Sweet Berries** can now be turned into **Red Dye**.
+- Changed the **Bag of Yurting** recipe to prevent a recipe conflict.
+- And some changes within mod updates.
+
+
+**Fixes**
+- A crash when clicking on a **JEI** information tab has been fixed. (See [here](https://www.curseforge.com/minecraft/mc-mods/crossroads-mc/files/3077633) )
+- Fixed **JEI** showing items in the wrong order.
+- Fixed FTB Utils buttons overlapping items in the **JEI** bookmark section.
+- Plus some more fixes within mod updates.
+
+
+**Updated**
+- Updated Forge to version 34.1.18
+- All mods in the pack have been updated.
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.4.0</h1>
 
 **Ice and Fire, Mekanism Update (+ More!)**
