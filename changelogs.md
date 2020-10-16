@@ -1,3 +1,68 @@
+<h1>v1.5.0</h1>
+
+**Quests Update (+ More!)**
+
+**IMPORTANT! A reset/deletion of the 'serverconfig' folder is highly recommended with this update! It's located in the world folder.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Bigger Reactors](https://www.curseforge.com/minecraft/mc-mods/biggerreactors) (+ [Phosphophyllite](https://www.curseforge.com/minecraft/mc-mods/phosphophyllite) )
+- [CleanView](https://www.curseforge.com/minecraft/mc-mods/cleanview)
+- [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on)
+- [Environmental Creepers](https://www.curseforge.com/minecraft/mc-mods/environmental-creepers)
+- [FTB Quests](https://www.curseforge.com/minecraft/mc-mods/ftb-quests) (+ [Item Filters](https://www.curseforge.com/minecraft/mc-mods/item-filters) )
+- [Goblin Traders](https://www.curseforge.com/minecraft/mc-mods/goblin-traders)
+- [Loot Bag Mod](https://www.curseforge.com/minecraft/mc-mods/loot-bag-mod)
+- [MmmMmmMmmMmm](https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm)
+- [MrCrayfish's Furniture Mod](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Backups to keep has been increased from 3 to 4.
+- Lowered cooldown of the **/back** command, **120s** to **60s**.
+- Added **JEI** information pages to some items.
+- Upon grave retrieval Gravestones will now remember your predeath inventory layout.
+- You can now sneak on a grave to retrieve your items.
+- The Obituary(death note) will now be removed from the player inventory upon grave retrieval.
+- And some changes within mod updates.
+
+
+**Quests**
+- Added 19 Chapters.
+- Added 720+ Quests.
+
+
+**Fixes**
+- Fixed Light Level Overlay (F7) not working.
+- Fixed a recipe issue where **Treated Wood** couldn't be crafted.
+- Plus more fixes within mod updates.
+
+
+**Updated**
+- Updated Forge to version 34.1.19
+- All mods in the pack have been updated.
+
+
+**Known Issue(s)**
+- Ars Nouveau currently has some issues. (**Investigating**)
+- Crash when looking through modlist menu in-game. (**Investigating**)
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.4.1</h1>
 
 **A smaller update, let's call it a QoL update!**
