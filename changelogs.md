@@ -1,3 +1,73 @@
+<h1>v1.6.0</h1>
+
+**Extended Caves & Nether Ores Update (+ More!)**
+
+**IMPORTANT! A reset/deletion of the 'serverconfig' folder is highly recommended with this update! It's located in the world folder.**
+
+**It's also recommended to reset The Nether with this update, but obviously not required.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Basic Nether Ores](https://www.curseforge.com/minecraft/mc-mods/basic-nether-ores)
+- [Extended Caves](https://www.curseforge.com/minecraft/mc-mods/extended-caves)
+- [Overloaded Armor Bar](https://www.curseforge.com/minecraft/mc-mods/overloaded-armor-bar)
+- [Psi](https://www.curseforge.com/minecraft/mc-mods/psi)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Added more **Tips** to the loading screen.
+- Filtered out some more **trash** items in the lootbags.
+- Nests from **Productive Bees** no longer naturally generate in the world.
+- **Ice and Fire** worldgen features now generate in most **BYG** Biomes.
+- Added a new item called **Loot Bag Piece**, this item can only be acquired through **Quest Rewards** and can be used to craft **Loot Bags**.
+- Some changes within mod updates.
+
+
+**Fixes**
+- Fixed killtask for the **Angerment Issues** Quest.
+- Fixed recipe conflict for the **Watering Can** 
+- Issues regarding the **Ars Nouveau Spellbook GUI** and some other stuff has been fixed.
+- Fixed missing recipes for the Wither Tool items.
+- Fixed **Spawners** not dropping when mined with **Silk Touch**.
+- An issue regarding missing textures has been fixed.
+- Plus some more fixes within mod updates.
+
+
+**Quests**
+- Added a new Quest Chapter: **Dark Utilities**!
+- Removed some quests in the **Craft and Hunt** chapter due the items not being obtainable. 
+(**These will be re-added in the future once the items are actually obtainable.**)
+
+
+**Updated**
+- Updated Forge to version 34.1.21
+- All mods in the pack have been updated.
+
+
+**Known Issue(s)**
+- Crash when looking through modlist menu in-game. (**Investigating**)
+- **JEI** page buttons sometimes becoming massive for whatever weird reason.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-3/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.5.0</h1>
 
 **Quests Update (+ More!)**
