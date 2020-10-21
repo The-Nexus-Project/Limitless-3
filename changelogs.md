@@ -53,6 +53,7 @@
 **Known Issue(s)**
 - Crash when looking through modlist menu in-game. (**Investigating**)
 - **JEI** page buttons sometimes becoming massive for whatever weird reason.
+- Graves not spawning upon dying sometimes, this is currently under investigation. (**Turn on keepInventory!**)
 
 
 **Reporting Issues**
