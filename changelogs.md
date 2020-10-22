@@ -1,3 +1,66 @@
+<h1>v1.6.1</h1>
+
+**Quark & Mahou Tsukai Update (+ More!)**
+
+**Important!**
+
+**Right now in the pack there's an issue with graves not spawning sometimes when killed, to counter that please turn on keepInventory until this is solved.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Additional Enchanted Miner](https://www.curseforge.com/minecraft/mc-mods/additional-enchanted-miner)
+- [Mahou Tsukai](https://www.curseforge.com/minecraft/mc-mods/mahou-tsukai)
+- [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) (+ [AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib) )
+- [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities)
+
+
+**Removed**
+- [Extra Tags](https://www.curseforge.com/minecraft/mc-mods/extra-tags) (**No longer needed!**)
+
+
+**Changes**
+- New and improved item tooltips.
+- Variant animal textures.
+- Improved right-click to harvest.
+- Disabled the **Ice and Fire** Graveyard worldgen structure temporarily.
+- Updated the options background.
+- And some other changes within mod updates.
+
+
+**Fixes**
+- Fixed some issues in the **Mekanism** questing chapter.
+- Hopefully fixed **Bestiary** being blank sometimes.
+- Fixed some recipe conflicts.
+- Issues with squids being extremely rare has been fixed.
+- Plus other fixes within mod updates.
+
+
+**Updated**
+- Updated Forge to version 34.1.25
+- All mods in the pack have been updated.
+
+
+**Known Issue(s)**
+- Crash when looking through modlist menu in-game. (**Investigating**)
+- **JEI** page buttons sometimes becoming massive for whatever weird reason.
+- **Graves** not spawning when killed. (**Please turn on keepInventory gamerule!**) (**Currently Investigating**) 
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-3/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.6.0</h1>
 
 **Extended Caves & Nether Ores Update (+ More!)**
