@@ -1,3 +1,71 @@
+<h1>v1.6.2</h1>
+
+**Silent's Gems & Woot Update (+ More!)**
+
+**Important, read below:**
+
+**Right now in the pack there's an issue with graves not spawning sometimes when killed, to counter that please turn on keepInventory until this is solved.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [MythicBotany](https://www.curseforge.com/minecraft/mc-mods/mythicbotany) (+ [LibX](https://www.curseforge.com/minecraft/mc-mods/libx) )
+- [Silent's Gems](https://www.curseforge.com/minecraft/mc-mods/silents-gems)
+- [Woot](https://www.curseforge.com/minecraft/mc-mods/woot)
+
+
+**Removed**
+- [Morpheus](https://www.curseforge.com/minecraft/mc-mods/morpheus) (**Available in Quark.**)
+
+
+**Changes**
+- Silent's Gems overworld Ores can only spawn in Dimensions that is not the Overworld- i.e a Mining Dimension.
+- Blacklisted invalid items & some other items from the Loot Bags.
+- Re-enabled **Productive Bees** Nest Generation.
+- And some other changes within mod updates.
+
+
+**Fixes**
+- Excessive fish spawn rates has been fixed.
+- Fixed **Ice and Fire** loot tables being empty.
+- Some fixes within mod updates.
+
+
+**Updated**
+- All mods in the pack have been updated.
+
+
+**Quests**
+- Fixed missing Quest Activation Message for the **AE2** Chapter.
+- Fixed some some issues with a few quests.
+- Made some quests optional.
+
+
+**Additional Notes**
+- Downgraded **Aquaculture 2** version to fix excessive fish spawn rates.
+
+
+**Known Issue(s)**
+- Crash when looking through modlist menu in-game. (**Investigating**)
+- **JEI** page buttons sometimes becoming massive for whatever weird reason.
+- **Graves** not spawning when killed. (**Please turn on keepInventory gamerule!**) (**Currently Investigating**)
+- **Squids** are extremely rare. (**Known issue. Fixed soon!**)
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-3/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.6.1</h1>
 
 **Quark & Mahou Tsukai Update (+ More!)**
