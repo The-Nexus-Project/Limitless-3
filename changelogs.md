@@ -6,6 +6,8 @@
 
 **Right now in the pack there's an issue with graves not spawning sometimes when killed, to counter that please turn on keepInventory until this is solved.**
 
+**A reset/deletion of the 'serverconfig' folder is highly recommended with this update! It's located in the world folder.**
+
 **Always remember to backup your world(s) before updating!**
 
 
