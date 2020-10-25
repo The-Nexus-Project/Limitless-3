@@ -12,7 +12,7 @@
 
 
 **Added**
-- [Chisels & Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits)
+- [Chisels & Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits) (**Alpha version, unstable. Report issues on their issue-tracker!**)
 - [Flux Networks](https://www.curseforge.com/minecraft/mc-mods/flux-networks)
 
 
