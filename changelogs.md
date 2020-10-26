@@ -1,3 +1,54 @@
+<h1>v1.6.4</h1>
+
+**Smaller update with some bug fixes!**
+
+**Important, read below:**
+
+**Right now in the pack there's an issue with graves not spawning sometimes when killed, to counter that please turn on keepInventory until this is solved.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- No mods added.
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Some changes within mod updates.
+
+
+**Fixes**
+- Some nasty crashes in **Flux Networks** has been fixed.
+- And some more fixes within mod updates.
+
+
+**Updated**
+- All mods in the pack have been updated.
+
+
+**Known Issue(s)**
+- Crash when looking through **modlist** menu in-game.
+- **JEI** page buttons sometimes becoming massive for whatever weird reason.
+- **Graves** not spawning sometimes when killed. (**Please turn on keepInventory gamerule!**) (**Currently Investigating**)
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-3/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.6.3</h1>
 
 **Chisels & Bits, Flux Networks Update (+ More!)**
