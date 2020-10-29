@@ -9,7 +9,7 @@ assignees: ''
 
 <!-- NOTE! BEFORE REPORTING HERE- REPORT IT TO THE MOD AUTHOR IF YOU CAN IDENTIFY WHICH MOD CAUSED THE CRASH. Also, delete this before submitting. -->
 
-<!-- Are you using OptiFine? Please verify the issue without if before reporting. If not ignore and delete this part. -->
+<!-- Are you using OptiFine? Please verify the issue without it before reporting. And If not ignore and delete this part. -->
 
 ### Describe your issue, what happened?
 <!-- A clear and concise description of what the bug is. Delete this before submitting. -->
