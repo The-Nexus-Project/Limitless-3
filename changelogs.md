@@ -1,3 +1,81 @@
+<h1>v1.7.0</h1>
+
+**Better Default Biomes & Travel Anchors Update (+ More!)**
+
+**Important, read below:**
+
+**Right now in the pack there's an issue with graves not spawning sometimes when killed, to counter that please turn on keepInventory until this is solved.**
+
+**Note! A deletion of the 'serverconfig' folder is highly, highly recommended with this update! It's located inside the /world/ folder.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Better Default Biomes](https://www.curseforge.com/minecraft/mc-mods/better-default-biomes)
+- [Chocolate Fix](https://www.curseforge.com/minecraft/mc-mods/chocolate-fix)
+- [Damage Tilt](https://www.curseforge.com/minecraft/mc-mods/damage-tilt)
+- [Fairy Lights](https://www.curseforge.com/minecraft/mc-mods/fairy-lights)
+- [Light Overlay](https://www.curseforge.com/minecraft/mc-mods/light-overlay)
+- [Macaw's Trapdoors](https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors)
+- [Travel Anchors](https://www.curseforge.com/minecraft/mc-mods/travel-anchors)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- The **Dock** from **Dank Storage** can no longer be picked up with **Carry On** to prevent crashes.
+- The **Pixie Hovels** from **Ice and Fire** can no longer be picked up with **Carry On** to prevent certain issues.
+- The **Pixies** from **Ice and Fire** can no longer **steal** items from players.
+- You no longer receive the **Enigmatic Amulet** upon joining a new world / server.
+- Added some more invalid items to the Loot Bag blacklist.
+- Grid repairing an item no longer retains the enchantment(s).
+- Changed the recipes for the **Flux Point** & **Flux Plug** from **Flux Networks**.
+- Modified the **Tesseract** recipe a little bit.
+- Re-Enabled the **Ring of Sponge**.
+- Some changes within mod updates.
+
+
+**Fixes**
+- Fixed **Carry On** crashes.
+- Fixed multiple **conflicting** keybinds. (**For new/clean installs only.**)
+- Fixed recipe conflict between **Iron Ring** & **Chain Plating**.
+- Fixed recipe conflict between **Stone Button** & **Stone Pebble**.
+- Fixed multiple recipe conflicts between **Extra Storage** & **Extra Disks**.
+- Fixed **Light Level Overlay** not working.
+- Fixed **Sweet Potato** recipe conflicts.
+- And some more fixes within mod updates.
+
+
+**Updated**
+- All mods in the pack have been updated.
+
+
+**Quests**
+- Added a new Quest Chapter: **Rings of Ascension**!
+- Fixed some minor issues with some of the quests.
+
+
+**Known Issue(s)**
+- **JEI** page buttons sometimes becoming massive for whatever weird reason.
+- **Graves** not spawning when killed. (**Please turn on keepInventory gamerule!**) (**Currently Investigating**)
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-3/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.6.4</h1>
 
 **Smaller update with some bug fixes!**
