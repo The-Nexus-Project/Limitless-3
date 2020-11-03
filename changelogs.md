@@ -1,4 +1,4 @@
-<h1>v1.7.1 / 1.7.1a</h1>
+<h1>v1.7.1 / 1.7.1a / 1.7.1b</h1>
 
 **Thermal Series Update with Quests (+ More!)**
 
