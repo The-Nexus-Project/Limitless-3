@@ -42,6 +42,7 @@
 **Fixes**
 - Gravestones not spawning when dying has finally been fixed.
 - Fixed duplicate ores generating. (**Be sure to delete the 'serverconfig' folder as mentioned above.**)
+- Quest progress not saving between sessions. (1.7.1a)
 - Fixes within mod updates.
 
 
