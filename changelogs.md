@@ -54,6 +54,7 @@
 
 **Known Issue(s)**
 - **JEI** page buttons sometimes becoming massive for whatever weird reason.
+- **Quest** progress resetting with this specific update, probably won't happen again in future updates. Sorry about this!
 
 
 **Reporting Issues**
