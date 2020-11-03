@@ -1,4 +1,4 @@
-<h1>v1.7.1</h1>
+<h1>v1.7.1 / 1.7.1a</h1>
 
 **Thermal Series Update with Quests (+ More!)**
 
@@ -35,6 +35,7 @@
 - **AE2 Silicon** can now be crafted with **Silicon Essence**.
 - **Refined Storage Silicon** can now be used in the **AE2 Inscriber**.
 - Added missing recipe for **Maple Fence**.
+- Reverted FTB Quests Version to fix FTB Quests progress not saving when quitting and rejoining games. (**1.7.1a**)
 - Changes within mod updates.
 
 
