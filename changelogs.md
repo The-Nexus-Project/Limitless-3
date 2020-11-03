@@ -1,3 +1,74 @@
+<h1>v1.7.1</h1>
+
+**Thermal Series Update with Quests (+ More!)**
+
+**Grave spawning issues are finally fixed!**
+
+**The Main Ore Generation in the pack has been swapped out for Thermal Series!**
+
+**Old worlds are still compatible, new chunks or new worlds will contain the newest ores.**
+
+**Note! A deletion of the 'serverconfig' folder is HIGHLY, HIGHLY recommended with this update! It's located inside the /world/ folder.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Iron Shulker Boxes](https://www.curseforge.com/minecraft/mc-mods/iron-shulker-boxes)
+- [Thermal Cultivation](https://www.curseforge.com/minecraft/mc-mods/thermal-cultivation) (+ [CoFH Core](https://www.curseforge.com/minecraft/mc-mods/cofh-core)
+- [Thermal Expansion](https://www.curseforge.com/minecraft/mc-mods/thermal-expansion) (+ [CoFH Core](https://www.curseforge.com/minecraft/mc-mods/cofh-core) )
+- [Thermal Foundation](https://www.curseforge.com/minecraft/mc-mods/thermal-foundation) (+ [CoFH Core](https://www.curseforge.com/minecraft/mc-mods/cofh-core) )
+- [Thermal Innovation](https://www.curseforge.com/minecraft/mc-mods/thermal-innovation) (+ [CoFH Core](https://www.curseforge.com/minecraft/mc-mods/cofh-core) )
+- [Thermal Locomotion](https://www.curseforge.com/minecraft/mc-mods/thermal-locomotion) (+ [CoFH Core](https://www.curseforge.com/minecraft/mc-mods/cofh-core) )
+
+
+**Removed**
+- [Shulker ToolTip](https://www.curseforge.com/minecraft/mc-mods/shulker-tooltip) (**Already in Quark.**)
+- [Tubes Reloaded](https://www.curseforge.com/minecraft/mc-mods/tubes-reloaded)
+
+
+**Changes**
+- The Main Ore Generation in the pack(copper, tin etc.) has been swapped out for **Thermal Series**.
+- Lowered cooldown of the command **/spawn**, **120s** to **60s**.
+- Lowered cooldown of the command **/home**, **120s** to **60s**.
+- Lowered cooldown of the command **/tpa**, **60s** to **30s**.
+- **AE2 Silicon** can now be crafted with **Silicon Essence**.
+- **Refined Storage Silicon** can now be used in the **AE2 Inscriber**.
+- Added missing recipe for **Maple Fence**.
+- Changes within mod updates.
+
+
+**Fixes**
+- Gravestones not spawning when dying has finally been fixed.
+- Fixed duplicate ores generating. (**Be sure to delete the 'serverconfig' folder as mentioned above.**)
+- Fixes within mod updates.
+
+
+**Updated**
+- All mods in the pack have been updated.
+
+
+**Quests**
+- Added a new Quest Chapter: **Thermal Series**!
+
+
+**Known Issue(s)**
+- **JEI** page buttons sometimes becoming massive for whatever weird reason.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-3/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.7.0</h1>
 
 **Better Default Biomes & Travel Anchors Update (+ More!)**
