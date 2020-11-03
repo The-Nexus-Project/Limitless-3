@@ -36,6 +36,7 @@
 - **Refined Storage Silicon** can now be used in the **AE2 Inscriber**.
 - Added missing recipe for **Maple Fence**.
 - Reverted FTB Quests Version to fix FTB Quests progress not saving when quitting and rejoining games. (**1.7.1a**)
+- Disabled the Extradimensional Vessel. (**1.7.1b**)
 - Changes within mod updates.
 
 
