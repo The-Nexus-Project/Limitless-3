@@ -1,3 +1,85 @@
+<h1>v1.7.2</h1>
+
+**The Bumblezone & QuantumStorage Update (+ More!)**
+
+**Important, read below:**
+
+**It's highly recommended to reset The Nether & The End with this update since there's alot of new biomes. If you're willing you can reset the Overworld aswell.**
+
+**A deletion of the 'serverconfig' folder is also highly recommended with this update! It's located inside the /world/ folder.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Extreme Reactors 2](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors) (+ [ZeroCore 2](https://www.curseforge.com/minecraft/mc-mods/zerocore) )
+- [QuantumStorage](https://www.curseforge.com/minecraft/mc-mods/quantumstorage)
+- [The Bumblezone](https://www.curseforge.com/minecraft/mc-mods/the-bumblezone-forge)
+- [Tinkers' Mechworks](https://www.curseforge.com/minecraft/mc-mods/tinkers-mechworks)
+
+
+**Removed**
+- [Bigger Reactors](https://www.curseforge.com/minecraft/mc-mods/biggerreactors) (+ [Phosphophyllite](https://www.curseforge.com/minecraft/mc-mods/phosphophyllite) )
+- [Nicephore](https://www.curseforge.com/minecraft/mc-mods/nicephore)
+
+
+**Changes**
+- There are now **22 new** biomes in **Oh The Biomes You'll Go**, **6** new in the **Overworld**, **8** new in **The Nether** & **8** new in **The End**.
+- **Bigger Reactors** has been swapped out to **Extreme Reactors 2**, so any items/blocks from that mod will be removed on world load.
+- Added more **invalid items** to the **Loot Bag** Blacklist.
+- **Insanium Farmland** can now be used in **Botany Pots**.
+- Blocks from the mod **Quarry Plus** can no longer be picked up with **Carry On** to prevent possible crashes.
+- **Crimson Iron Ore & Ingot** can now be used in a **Pulverizer** from **Thermal Series**.
+- The **Mining Dimension** now contains caves & ores. No more lava lakes etc. (**It's recommended to reset this dimension.**)
+- Updated the recipe & texture for the **Mining Dimension Teleporter Block**.
+- Lowered **Totem** drop chances, **1** -> **0.5**.
+- Lowered Oil Lakes Generation chances.
+- Changed the recipe for the **Eternal Stella** item.
+- Re-balanced **Raw Plastic** from the **Rats Mod**. (**New recipes.**)
+- Randomly generated chests found around the world now contains **Loot Bag Pieces** instead of the actual full **Loot Bag(s)**.
+- Blocks from **Mekanism** & **RFTools** can no longer be picked up with **Carry On** to prevent possible crashes.
+- Some small performance improvements.
+- Lowered **Dragon Caves** generation chances.
+- Tweaked **Dragon Roosts** generation chances.
+- Changes within mod updates.
+
+
+**Fixes**
+- Fixed some **Ore Chunks** from **Silent's Mechanisms** not being able to be crushed.
+- Fixed some items in the **Silent's Mechanisms** Questing-chapter not being obtainable.
+- Fixed **Dirty Uranium Dust** from **Mekanism** having no processing output.
+- Fixed a recipe conflict between the **Jar** from **Ice and Fire** and the **Bottle Block** from **Forbidden & Arcanus**.
+- A crash when using the **Twilight Cloak** while in the **Nether** has been fixed.
+- Fixed/added generation for the following Ores in the **Mining Dimension**: **Copper Ore, Tin Ore, Lead Ore, Silver Ore & Nickel Ore.**
+- Fixed a huge lag spike when new players were joining a world/server.
+- Fixed **Simple Discord Rich Presence** displaying the wrong status & having no images.
+- Fixed duplicate **Item Descriptions** & **Enchantment Descriptions**.
+- Fixed a crash when trying to mine 1-hit blocks with a "**BROKEN**" tool.
+- Fixes within mod updates.
+
+
+**Updated**
+- Updated Forge to version 34.1.42
+- All mods in the pack have been updated.
+
+
+**Known Issue(s)**
+- **JEI** page buttons sometimes becoming massive for whatever weird reason.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-3/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.7.1 / 1.7.1a / 1.7.1b</h1>
 
 **Thermal Series Update with Quests (+ More!)**
