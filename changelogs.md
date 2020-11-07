@@ -4,7 +4,7 @@
 
 **Important, read below:**
 
-**It's highly recommended to reset The Nether & The End with this update since there's alot of new biomes. If you're willing you can reset the Overworld aswell.**
+**It's highly recommended to reset The Nether & The End with this update since there's alot of new biomes. If you're willing you can reset the Overworld aswell. (All optional!)**
 
 **A deletion of the 'serverconfig' folder is also highly recommended with this update! It's located inside the /world/ folder.**
 
