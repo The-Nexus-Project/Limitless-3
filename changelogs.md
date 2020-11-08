@@ -1,4 +1,4 @@
-<h1>v1.7.2</h1>
+<h1>v1.7.2 / 1.7.2a</h1>
 
 **The Bumblezone & QuantumStorage Update (+ More!)**
 
@@ -41,6 +41,7 @@
 - Some small performance improvements.
 - Lowered **Dragon Caves** generation chances.
 - Tweaked **Dragon Roosts** generation chances.
+- Updated Extreme Reactors & Zero Core. - (v1.7.2a)
 - Changes within mod updates.
 
 
