@@ -1,3 +1,66 @@
+<h1>v1.7.3</h1>
+
+**Smaller update with some fixes & mod updates. (+ More!)**
+
+**Note! If you've visited The Bumblezone It's recommended to reset that dimension with this update.**
+
+**A deletion of the 'serverconfig' folder is also highly recommended with this update! It's located inside the /world/ folder.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- No mods added.
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- The **Main Menu** now scales properly across all GUI sizes.
+- Disabled the rest of **BYGs** Crafting Table variants.
+- Disabled **Variant 16x** **Wool** buttons.
+- Any **Wool** block can now be turned into 4x **String**.
+- New item: **Compressed Xpetrified Orb**, used in crafting recipes.
+- The **Big Dungeon** from **Quark** should no longer generate in **The End**.
+- **Item** durability is now shown in the **tooltip** by default.
+- And some changes within mod updates.
+
+
+**Fixes**
+- Fixed the **Mining Dimension Teleporter Block** using the wrong **Oak Logs** tag in its recipe.
+- Some issues in the **Bumblezone Dimension** has been fixed. (**It's recommended to reset this dimension If you've visited it.**)
+- **Comb Blocks** from **Productive Bees** now drop again when harvested.
+- Some random **crashes** when dying have been fixed.
+- Plus fixes within mod updates.
+
+
+**Updated**
+- All mods in the pack have been updated.
+
+
+**Quests**
+- Fixed **AE2 Controller** having the wrong quest-dependency.
+
+
+**Known Issue(s)**
+- **JEI** page buttons sometimes becoming massive for whatever weird reason.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-3/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.7.2 / 1.7.2a</h1>
 
 **The Bumblezone & QuantumStorage Update (+ More!)**
