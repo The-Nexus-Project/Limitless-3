@@ -4,6 +4,8 @@
 
 **Tetra & Backpacker Update (+ More!)**
 
+**A clean install of the pack is recommended with this update.**
+
 **Warning, before updating be sure to empty out your backpack from the mod **Backpacked** if it's located in a Curious slot! Otherwise it'll be removed/wiped.**
 
 
