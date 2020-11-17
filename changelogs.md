@@ -1,3 +1,51 @@
+<h1>v1.7.5</h1>
+
+<h2>Note, if you're updating from 1.7.3a to to this version- it's HIGHLY recommended backup your worlds. Scroll down for the 1.7.4 changelog!</h2>
+
+**A minor update. Updates mods & fixes some stuff!**
+
+
+**Added**
+- [Immersive Petroleum](https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Added more invalid items to the Loot Bag Blacklist.
+- Some changes in mod updates.
+
+
+**Fixes**
+- A **crash** when activating **JEI Cheat Mode** has been fixed.
+- A **crash** when placing a **Large Fluid Tank** has been fixed.
+- Some fixes in mod updates.
+
+
+**Updated**
+- All mods in the pack that could be updated have been updated.
+
+
+**Known Issue(s)**
+- **JEI** page buttons sometimes becoming massive for whatever weird reason.
+- **Silent Gear** parts, armor & tools have some missing textures.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-3/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.7.4</h1>
 
 <h2>Updated to MC 1.16.4 - BACKUP YOUR WORLD(S) BEFORE UPDATING!</h2>
