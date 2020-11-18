@@ -14,6 +14,7 @@
 
 
 **Changes**
+
 - Added more **invalid items** to the **Loot Bag Blacklist**.
 - Some changes in mod updates.
 
