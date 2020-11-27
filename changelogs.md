@@ -1,3 +1,83 @@
+<h1>v1.8.0</h1>
+
+<h2>Note, if you're updating from 1.7.3a to to this version- it's HIGHLY recommended backup your worlds!</h2>
+
+**Astral Sorcery, Elemental Craft & Bigger Reactors Update + more!**
+
+**A deletion of the 'serverconfig' folder is highly recommended with this update! It's located inside the /world/ folder.**
+
+**Also, a reset of The End dimension is recommended if you didn't get a dragon to spawn in previous pack updates.**
+
+
+**Added**
+- [AE2 Extras](https://www.curseforge.com/minecraft/mc-mods/ae2-extras)
+- [Astral Sorcery](https://www.curseforge.com/minecraft/mc-mods/astral-sorcery) (+ [ObserverLib](https://www.curseforge.com/minecraft/mc-mods/observerlib) )
+- [Bigger Reactors](https://www.curseforge.com/minecraft/mc-mods/biggerreactors) (+ [Phosphophyllite](https://www.curseforge.com/minecraft/mc-mods/phosphophyllite) )
+- [Curios Jetpacks](https://www.curseforge.com/minecraft/mc-mods/curious-jetpacks)
+- [Demagnetize](https://www.curseforge.com/minecraft/mc-mods/demagnetize)
+- [Elemental Craft](https://www.curseforge.com/minecraft/mc-mods/elemental-craft)
+- [Extended Lights](https://www.curseforge.com/minecraft/mc-mods/extended-lights-mod)
+- [Faster Ladder Climbing](https://www.curseforge.com/minecraft/mc-mods/faster-ladder-climbing)
+- [Mystical Adaptations](https://www.curseforge.com/minecraft/mc-mods/mystical-adaptations)
+
+
+**Removed**
+- [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on) (**This mod caused way too many crashes and issues.**)
+
+
+**Changes**
+- Blacklisted **Cyclic - Obsidian Shears** in **Mahou Tsukai**.
+- Blacklisted **Silent Gear items** in **Mahou Tsukai**.
+- Disabled the **Heart Container** item from **Cyclic**.
+- Nerfed **Cyclic Uncrafting Grinder** energy per use, **1000** -> **48000**.
+- Changed the recipe for the **Cyclic Uncrafting Grinder**.
+- **Ice and Fire** worldgen features in **BYG** biomes should now be fully configured.
+- Re-Enabled the **Ice and Fire** **Graveyard** worldgen structure.
+- Lowered **Graveyard** generation chances by alot.
+- Made the **Fox Tail** from **Craft and Hunt** unobtainable.
+- The **Crafting Station** can no longer be picked up with **Carry On** to prevent dupes.
+- Added more **invalid items** to the **Loot Bag Blacklist**.
+- Changed the recipe for the **Eternal Stella** once again.
+- The **Hunter's Book** from **Craft and Hunt** will no longer be given to the player when killing a mob.
+- Disabled **Tall Water Reeds** generation from **Better Default Biomes**.
+- You can now equip any jetpack from **Iron Jetpacks** in a **Curios Back Slot**.
+- Some changes in mod updates.
+
+
+**Fixes**
+- A **Crash** associated with **Reliquary** and any **Spawn Egg** has been fixed.
+- Fixed Ender Dragon not spawning in some cases. (**Resetting The End is recommended if you didn't get an Ender Dragon!**)
+- Fixed **Bamboo Block** recipe conflict.
+- Plus some other fixes in mod updates.
+
+
+**Updated**
+- Updated **Forge** to Version **35.1.4**
+- All mods in the pack that could be updated have been updated.
+
+
+**Quests**
+- Added a new Quest Chapter: **Powah!** - (**Created by: WiseHorror**)
+
+
+**Known Issue(s)**
+- **JEI** page buttons sometimes becoming massive for whatever weird reason.
+- **Silent Gear** parts, armor & tools have some missing textures.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-3/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.7.5</h1>
 
 <h2>Note, if you're updating from 1.7.3a to to this version- it's HIGHLY recommended backup your worlds. Scroll down for the 1.7.4 changelog!</h2>
