@@ -35,7 +35,6 @@
 - Re-Enabled the **Ice and Fire** **Graveyard** worldgen structure.
 - Lowered **Graveyard** generation chances by alot.
 - Made the **Fox Tail** from **Craft and Hunt** unobtainable.
-- The **Crafting Station** can no longer be picked up with **Carry On** to prevent dupes.
 - Added more **invalid items** to the **Loot Bag Blacklist**.
 - Changed the recipe for the **Eternal Stella** once again.
 - The **Hunter's Book** from **Craft and Hunt** will no longer be given to the player when killing a mob.
