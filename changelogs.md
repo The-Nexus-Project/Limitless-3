@@ -1,3 +1,79 @@
+<h1>v1.8.1</h1>
+
+**New Quests, New Mobs + More!**
+
+**Xaero's Minimap & World Map has been replaced by FTB Chunks Map. Save any Coordinates you need before updating!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Alexs Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs)
+- [Bad Mobs](https://www.curseforge.com/minecraft/mc-mods/bad-mobs)
+- [Blood Magic](https://www.curseforge.com/minecraft/mc-mods/blood-magic)
+- [Pam's HC2 Trees](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-trees)
+
+
+**Removed**
+- [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
+- [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
+
+
+**Changes**
+- Made **Shrines** from **Astral Sorcery** generate more frequently.
+- **Shrines** from **Astral Sorcery** now generate in lots of new biomes.
+- Added more **invalid items** to the **Loot Bag Blacklist**.
+- New **Main Menu** background. (**Winter Themed.**)
+- New **Options Menu** background. (**Winter Themed.**)
+- Added recipes for the **AE2 Presses**.
+- Made recipes for **Imperium, Supremium, Insanium- Essence, Ingot, Gemstone & Farmland** more expensive.
+- **Skeleton Horses** can no longer spawn naturally in the world or from spawners. (**To prevent crashes.**)
+- Some changes in mod updates.
+
+
+**Fixes**
+- Fixed the **Astral Sorcery Shrines** basically not existing due to them being very rare.
+- Fixed **Yellorium Ingot** not being accepted into a **Bigger Reactor**.
+- Fixed a lot of dependency weirdness in many Quest Chapters. (**Report if you find any issues!**)
+- Hopefully fixed some **Timed out** / **Took too long to log in** issues when logging into a server.
+- Fixed not being able to open the **Backpacked** backpack on the **B** keybind. (**For new instances. Or Reset keybinds.**)
+- **JEI** page buttons sometimes becoming massive has been fixed.
+- Some fixes in mod updates.
+
+
+**Updated**
+- Updated **Forge** to version **35.1.13**
+- All mods in the pack that could be updated have been updated.
+
+
+**Quests**
+- Added a new Quest Chapter: **Ice and Fire**! (*140 New Quests!*)
+- Added **Insanium** items to the **Mystical Agriculture** chapter.
+- Renamed various Quest titles.
+
+
+**Additional Notes**
+- There might be some issues with Quests and their dependencies. If you find any that seem VERY off please report them on the issue tracker.
+
+
+**Known Issue(s)**
+- **Silent Gear** parts, armor & tools have some missing textures.
+- A crash when upgrading a **Shulker Box**.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-3/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.8.0</h1>
 
 <h2>Note, if you're updating from 1.7.3a to to this version- it's HIGHLY recommended backup your worlds!</h2>
