@@ -1,3 +1,52 @@
+<h1>v1.8.2</h1>
+
+**Create Update** (**+ More!**)
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Create](https://www.curseforge.com/minecraft/mc-mods/create)
+- [Dragon Gear](https://www.curseforge.com/minecraft/mc-mods/dragon-gear)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Added more **invalid items** to the **Loot Bag Blacklist**.
+- **Create** worldgen stones have been disabled. (**There's still recipes for them however.**)
+- Some changes in mod updates.
+
+
+**Fixes**
+- Fixed a **Mystical Agriculture** Essence Block Duplication Bug.
+- Some fixes in mod updates.
+
+
+**Updated**
+- All mods in the pack that could be updated have been updated.
+
+
+**Known Issue(s)**
+- **Silent Gear** parts, armor & tools have some missing textures.
+- A possible crash when upgrading a **Shulker Box**.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-3/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.8.1</h1>
 
 **New Quests, New Mobs + More!**
