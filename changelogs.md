@@ -1,3 +1,32 @@
+<h1>v1.8.3a</h1>
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- No mods added.
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- **Mimicubes** can no longer duplicate items.
+- Disabled the **Excavate** enchantment from **Cyclic**.
+- Some changes in mod updates.
+
+
+**Fixes**
+- Hopefully fixed a performance issue.
+- Some fixes in mod updates.
+
+
+**Updated**
+- All mods in the pack that could be updated have been updated.
+
+---------------
+
 <h1>v1.8.3</h1>
 
 **Performant & Scannable Update** (**+ More!**)
