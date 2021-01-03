@@ -1,6 +1,6 @@
 <h1>v1.8.3</h1>
 
-**Performant & Scannable Update (**+ More!**)
+**Performant & Scannable Update** (**+ More!**)
 
 **Xaero's Minimap & World Map makes a return this update.**
 
