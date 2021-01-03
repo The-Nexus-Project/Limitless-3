@@ -1,3 +1,92 @@
+<h1>v1.8.3</h1>
+
+**Performant & Scannable Update (**+ More!**)
+
+**Xaero's Minimap & World Map makes a return this update.**
+
+**It's recommended to reset The End dimension with this update, (ID: 1).**
+
+**Also note that a deletion of the 'serverconfig' folder is highly recommended with this update! It's located inside the /world/ folder.**
+
+**THE MOD **Iron Shulkerboxes** HAS BEEN REMOVED THIS UPDATE, PLEASE EMPTY OUT ANY IMPORTANT STUFF BEFORE UPDATING!**
+
+**And always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Performant](https://www.curseforge.com/minecraft/mc-mods/performant)
+- [Scannable](https://www.curseforge.com/minecraft/mc-mods/scannable)
+- [The Endergetic Expansion](https://www.curseforge.com/minecraft/mc-mods/endergetic) (+ [Abnormals Core](https://www.curseforge.com/minecraft/mc-mods/abnormals-core) )
+- [Upgrade Aquatic](https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic)
+- [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
+- [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
+
+
+**Removed**
+- [Bag of Yurting](https://www.curseforge.com/minecraft/mc-mods/bag-of-yurting)
+- [CraftingCraft](https://www.curseforge.com/minecraft/mc-mods/craftingcraft)
+- [Curious Shulker Boxes](https://www.curseforge.com/minecraft/mc-mods/curious-shulker-boxes) (**No longer operational.**)
+- [Fairy Lights](https://www.curseforge.com/minecraft/mc-mods/fairy-lights) (**Performance issues.**)
+- [Game Menu Mod Option](https://www.curseforge.com/minecraft/mc-mods/gamemenumodoption)
+- [Grid](https://www.curseforge.com/minecraft/mc-mods/grid)
+- [Iron Shulker Boxes](https://www.curseforge.com/minecraft/mc-mods/iron-shulker-boxes)
+- [Light Overlay](https://www.curseforge.com/minecraft/mc-mods/light-overlay) (**Available in MoreOverlays**.)
+- [Pandoras Creatures](https://www.curseforge.com/minecraft/mc-mods/pandoras-creatures)
+- [Tiny Coal](https://www.curseforge.com/minecraft/mc-mods/tiny-coal) (**Available in PickleTweaks.**)
+- [Vanilla Hammers](curseforge.com/minecraft/mc-mods/vanilla-hammers-forge) (**Available in Silent Gear.**)
+- [Vanilla Excavators](https://www.curseforge.com/minecraft/mc-mods/vanilla-excavators-forge) (**Available in Silent Gear.**)
+
+
+**Changes**
+- Added Normal + Charged **Certus Quartz Ore** to the **Mining Dimension**.
+- Increased **Zinc Ore** vein size.
+- Increased **Zinc Ore** generation chances slightly.
+- Added more **invalid items** to the **Loot Bag Blacklist**.
+- Increased **PneumaticCraft Oil Lake** generation chances slightly.
+- Added **IE Cloche** support for **Mystical Agriculture Seeds**. (**Cloche does not produce bonus seeds.**)
+- Added **IE Cloche** support for **Simple Farming Seeds**.
+- Added **IE Cloche** support for **Pam's HC2 Seeds**.
+- Disabled the **FTB Chunks** minimap, **Xaero's Minimap** re-added.
+- Disabled **Inventory Sorting** for the **Tetra Workbench** and some other **GUIs**.
+- Disabled **Short Grass** generation from **Better Default Biomes**.
+- Some new **mobs**.
+- Plus some changes in mod updates.
+
+
+**Fixes**
+- Fixed the Quest **'A magical, beautiful thief.'** not triggering when completed.
+- Fixed some issues with Quest dependencies.
+- A crash when using the **Cyclic Workbench** has been fixed.
+- Fixed some cases where the **Polymorph** recipe select button was showing multiple outputs of the same item.
+- An attempt has been made to fix **Crossroads** ores sometimes generating despite being disabled.
+- Fixed a possible issue with **The End** & **Nether** portals going nowhere.
+- Fixed a **duplication exploit** in the **Tetra Workbench**.
+- Fixed a few recipe conflicts.
+- And quite alot of fixes in mod updates.
+
+
+**Updated**
+- Updated **Forge** to version **35.1.28**
+- All mods in the pack that could be updated have been updated.
+
+
+**Quests**
+- Added various new quests.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-3/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.8.2</h1>
 
 **Create Update** (**+ More!**)
