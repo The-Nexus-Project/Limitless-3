@@ -2,6 +2,8 @@
 
 **Always remember to backup your world(s) before updating!**
 
+**Scroll down for the full 1.8.3 changelog!**
+
 
 **Added**
 - No mods added.
