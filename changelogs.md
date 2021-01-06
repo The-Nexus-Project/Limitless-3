@@ -1,3 +1,55 @@
+<h1>v1.8.4</h1>
+
+**A "smaller" but useful update, it updates mods & improves memory usage. (+ A Void Dimension!)**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore)
+- [Just Another Void Dimension](https://www.curseforge.com/minecraft/mc-mods/just-another-void-dimension)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Disabled **Mimicube** spawning entirely.
+- Made the quests [**Furious Cocktail**] & [**"How Did We Get Here?"**] both optional.
+- Added more **invalid items** to the **Loot Bag Blacklist**.
+- Memory usage has been improved.
+- And some other changes in mod updates.
+
+
+**Fixes**
+- Fixed the quest [**Eye Spy**] not triggering properly.
+- A "crash" when starting the server / client has been fixed. (**Mod loading error has occurred.**)
+- An issue with **Refined Storage** disks disappearing / not saving has been fixed.
+- Plus some fixes in mod updates.
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Additional Notes**
+- The **Void Dimension** features a day & night cycle, mob spawning- friendly & hostiles.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-3/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.8.3a</h1>
 
 **Always remember to backup your world(s) before updating!**
