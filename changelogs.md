@@ -1,3 +1,57 @@
+<h1>v1.8.5</h1>
+
+**Druidcraft & Eidolon Update (**+ More!**)
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Druidcraft](https://www.curseforge.com/minecraft/mc-mods/druidcraft)
+- [Eidolon](https://www.curseforge.com/minecraft/mc-mods/eidolon)
+- [Spawner Bug Fix](https://www.curseforge.com/minecraft/mc-mods/spawner-fix)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Strongholds no longer generate in the **Void Dimension**.
+- Made the advancement **Vanilla Tweaks** silent.
+- Re-Enabled the **Excavate** enchantment from **Cyclic**.
+- Some new mobs added.
+- Added a new item **Bone Fragment**, used in various recipes. (**Mainly to prevent recipe conflicts.**)
+- And some other changes in mod updates.
+
+
+**Fixes**
+- Fixed being unable to move at low tps conditions. (**Stuttery movement.**)
+- Fixed crops and other **randomTick** blocks not growing / working properly.
+- A crash with **Elevators** + **Chisels & Bits** has been fixed.
+- A crash with **Skeleton Horses** has been fixed.
+- A crash when using the **Cyclic Excavate Enchantment** has been fixed.
+- Servers not shutting down properly(freezing after stop) has *hopefully* been fixed.
+- Plus some fixes in mod updates.
+
+
+**Updated**
+- Updated **Forge** to version **35.1.36**
+- All mods that could be updated have been updated.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-3/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.8.4</h1>
 
 **A "smaller" but useful update, it updates mods & improves memory usage. (+ A Void Dimension!)**
