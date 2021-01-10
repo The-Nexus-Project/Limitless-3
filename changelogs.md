@@ -1,6 +1,6 @@
 <h1>v1.8.5</h1>
 
-**Druidcraft & Eidolon Update (**+ More!**)
+**Druidcraft & Eidolon Update** (**+ More!**)
 
 **Always remember to backup your world(s) before updating!**
 
