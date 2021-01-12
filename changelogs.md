@@ -2,6 +2,8 @@
 
 **A General update that brings some needed mod updates to fix a few crashes.**
 
+**Scroll down for the full 1.8.5 changelog!**
+
 **Always remember to backup your world(s) before updating!**
 
 
