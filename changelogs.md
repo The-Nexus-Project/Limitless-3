@@ -2,8 +2,6 @@
 
 **A General update that brings some needed mod updates to fix a few crashes.**
 
-**Scroll down for the full 1.8.5 changelog!**
-
 **Always remember to backup your world(s) before updating!**
 
 
@@ -22,7 +20,8 @@
 
 **Fixes**
 - A crash when placing a **BYG** boat has been fixed.
-- Plus some other fixes in mod updates.
+- A crash with the **Blood Magic** altar has been fixed.
+- Plus other fixes in mod updates!
 
 
 **Updated**
