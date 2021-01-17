@@ -1,6 +1,6 @@
 <h1>v1.9.0</h1>
 
-**Minecraft 1.16.5, The Outer End & Dimensional Dungeons Update (**+ More!**)
+**Minecraft 1.16.5, The Outer End & Dimensional Dungeons Update** (**+ More!**)
 
 **A clean installation is recommended/required for this update.**
 
