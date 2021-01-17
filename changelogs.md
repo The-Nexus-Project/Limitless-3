@@ -1,3 +1,70 @@
+<h1>v1.9.0</h1>
+
+**Minecraft 1.16.5, The Outer End & Dimensional Dungeons Update (**+ More!**)
+
+**A clean installation is recommended/required for this update.**
+
+**A reset of The End dimension is also recommended with this update, though it's completely optional.** - (**Google if you're unsure how to properly reset The End.**)
+
+**And.. A deletion of the 'serverconfig' folder is ALSO recommended with this update! It's located inside the /world/ folder.**
+
+**And as always remember to backup your world(s) before updating! Especially since we're on MC 1.16.5 now.**
+
+
+**Added**
+- [Akashic Tome](https://www.curseforge.com/minecraft/mc-mods/akashic-tome)
+- [Dimensional Dungeons](https://www.curseforge.com/minecraft/mc-mods/dimensional-dungeons)
+- [Dynamic View](https://www.curseforge.com/minecraft/mc-mods/dynamic-view)
+- [Morph-o-Tool](https://www.curseforge.com/minecraft/mc-mods/morph-o-tool)
+- [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries)
+- [TerraForged](https://www.curseforge.com/minecraft/mc-mods/terraforged) (**Mod is currently in Beta, things *could* break. Use at your own risk!**)
+- [The Outer End](https://www.curseforge.com/minecraft/mc-mods/the-outer-end)
+- [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe)
+
+
+**Removed**
+- [Bad Mobs](https://www.curseforge.com/minecraft/mc-mods/bad-mobs)
+- [Waddles](https://www.curseforge.com/minecraft/mc-mods/waddles)
+- [Hwyla](https://www.curseforge.com/minecraft/mc-mods/hwyla)
+- [Waila Harvestability](https://www.curseforge.com/minecraft/mc-mods/waila-harvestability)
+- [Wawla](https://www.curseforge.com/minecraft/mc-mods/wawla)
+
+
+**Changes**
+- Added more **invalid items** to the **Loot Bag Blacklist**.
+- Removed an unnused Tag in the LL3 datapack.
+- Made **BYG** End biomes a bit more rare / spread out.
+- The **Vanilla** End Biomes are now more common.
+- Updated rewards for some Quests.
+- The **Ender Dragon** now has **350** health, was **200**.
+- Lowered cooldown of some commands.
+- And some other changes in mod updates.
+
+
+**Fixes**
+- Fixed the Quest '**Energy Acceptor**'' not having a reward.
+- Plus other fixes in mod updates!
+
+
+**Updated**
+- Updated **Minecraft** to version **1.16.5**
+- Updated **Forge** to version **36.0.0**
+- All mods that could be updated have been updated.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-3/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.8.5a</h1>
 
 **A General update that brings some needed mod updates to fix a few crashes.**
