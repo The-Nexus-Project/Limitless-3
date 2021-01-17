@@ -1,5 +1,5 @@
 # Limitless-3
-Limitless 3 modpack maintained and developed by Gbergz - *Operating on Minecraft 1.16.4!*
+Limitless 3 modpack maintained and developed by Gbergz - *Operating on Minecraft 1.16.5!*
 
 **CurseForge Page:** https://www.curseforge.com/minecraft/modpacks/tnp-limitless-3
 
