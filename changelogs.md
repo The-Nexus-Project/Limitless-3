@@ -43,6 +43,7 @@
 
 **Fixes**
 - Fixed the Quest '**Energy Acceptor**'' not having a reward.
+- A crash with the SM Coal Generator has been fixed, (hopefully).
 - Plus other fixes in mod updates!
 
 
