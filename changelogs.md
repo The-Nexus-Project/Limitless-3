@@ -12,13 +12,13 @@
 
 
 **Changes**
-- And some other changes in mod updates.
+- Some changes in mod updates.
 
 
 **Fixes**
 - Villagers being unable to take jobs from Blast Furnaces & Smokers has been fixed.
 - An issue with bees not going into hives has been resolved.
-- Fixed Reward for the "Who You Gonna Call?" Quest.
+- Fixed Reward for the "**Who You Gonna Call?**" Quest.
 - Fixed Melon Seeds in a **Cloche** not producing a **Melon Block**.
 - Plus other fixes in mod updates!
 
