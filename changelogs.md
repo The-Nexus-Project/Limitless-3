@@ -1,4 +1,4 @@
-<h1>v1.9.1</h1>
+<h1>v1.9.1 / 1.9.1a</h1>
 
 **Always remember to backup your world(s) before updating!**
 
@@ -12,6 +12,7 @@
 
 
 **Changes**
+- Re-added YUNG'S Better Mineshafts, because for whatever reason it got deleted. (**v1.9.1a**)
 - Some changes in mod updates.
 
 
