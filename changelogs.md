@@ -1,3 +1,45 @@
+<h1>v1.9.1</h1>
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- No mods added.
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- And some other changes in mod updates.
+
+
+**Fixes**
+- Villagers being unable to take jobs from Blast Furnaces & Smokers has been fixed.
+- An issue with bees not going into hives has been resolved.
+- Fixed Reward for the "Who You Gonna Call?" Quest.
+- Fixed Melon Seeds in a **Cloche** not producing a **Melon Block**.
+- Plus other fixes in mod updates!
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-3/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.9.0</h1>
 
 **Minecraft 1.16.5, The Outer End & Dimensional Dungeons Update** (**+ More!**)
