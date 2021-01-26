@@ -1,3 +1,75 @@
+<h1>v1.9.2</h1>
+
+**Integrated Mods & New Quests!** (**+ More!**)
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Crash Utilities](https://www.curseforge.com/minecraft/mc-mods/crash-utilities)
+- [Integrated Dynamics](https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics) (+ [Common Capabilities](https://www.curseforge.com/minecraft/mc-mods/common-capabilities)) (+ [Cyclops Core](https://www.curseforge.com/minecraft/mc-mods/cyclops-core))
+- [Integrated Tunnels](https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels)
+- [Integrated Terminals](https://www.curseforge.com/minecraft/mc-mods/integrated-terminals)
+- [Integrated Crafting](https://www.curseforge.com/minecraft/mc-mods/integrated-crafting)
+- [Integrated NBT](https://www.curseforge.com/minecraft/mc-mods/integrated-nbt)
+- [Psionic Peripheral](https://www.curseforge.com/minecraft/mc-mods/psionic-peripherals)
+- [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot-forge)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Added more **invalid items** to the **Loot Bag Blacklist**.
+- "Re-enabled" the **Ring of Seven Curses** (**Added a recipe for it.**)
+- Default world generation is now set to '**Realistic**' upon creating a world.
+- Added **Shark Skin** to **Hammerhead Shark** loot table.
+- Added **Brown Bear Leather** to **Grizzly Bear** loot table.
+- Striders now actually drop **Strider Rocks**.
+- Strays now drop **Cloth of the Stray**.
+- Added around 30 new tips to the loading screen.
+- Disabled the default Tips in the mod **Tips.**
+- Enabled special **Astral Sorcery** sky rendering in the **Void Dimension**.
+- Added a recipe to the **Mystical Agriculture Rubber Seed**.
+- Added a recipe to the **Mystical Agriculture Starmetal Seed**.
+- **Rubber Essence** can now be used to craft **Thermal Rubber** & **Industrial Foregoing Dry Rubber**.
+- And some other changes in mod updates.
+
+
+**Fixes**
+- Fixed a Quest reward mixup.
+- A crash when activating the **Jetpack Engine** or **Hovermode** while in a Curios slot has been fixed.
+- A worldgen bug that caused messed up biome generation in **The End** & maybe **other dimensions** has HOPEFULLY been fixed.
+- Huge memory leak when Chisels & Bits was placed in the world has been fixed.
+- Hopefully fixed server disconnect "**Took too long to log in**" on slower PCs.
+- Plus some more fixes in mod updates.
+
+
+**Quests**
+- Added a new Quest Chapter: **PSI**! (**Courtesy of @TeuFox!**)
+- Added credit to **@WiseHorror** in the **Powah** questline.
+- Revamped the **Craft and Hunt** chapter.
+
+
+**Updated**
+- Updated **Forge** to version **36.0.1**
+- All mods that could be updated have been updated.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-3/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.9.1 / 1.9.1a</h1>
 
 **Always remember to backup your world(s) before updating!**
