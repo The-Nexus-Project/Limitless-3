@@ -1,3 +1,57 @@
+<h1>v1.9.4</h1>
+
+**The current gravestone mod has been replaced this update. Please empty out any important graves before updating!**
+
+**Note! A deletion of the '**serverconfig**' folder is recommended with this update! It's located inside the /world/ folder.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Compact Machines](https://www.curseforge.com/minecraft/mc-mods/compact-machines)
+- [Corail Tombstone](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
+- [FTB Ranks](https://www.curseforge.com/minecraft/mc-mods/ftb-ranks)
+- [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge)
+- [Save My Stronghold!](https://www.curseforge.com/minecraft/mc-mods/save-my-stronghold)
+
+
+
+**Removed**
+- [Gravestone Mod](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
+
+
+**Changes**
+- Added new tips to the loading screen. (**Request your loading screen Tips in our Discord under #tips!**)
+- Added more **invalid items** to the **Loot Bag Blacklist**.
+- Almost all Productive Bees Honeycombs(Signalum, Supremium, Insanium etc-) no longer generate in The **Bumblezone Dimension**. (**Vanilla Ore combs and some other combs still generate.**)
+- Disabled multiple **Right-Click to Harvest** options to prevent possible issues.
+- The **Rainbow Furnace** is now a little bit faster.
+- The total amount of **Forceloaded Chunks** has been raised from 8 **->** 20.
+- And some other changes in mod updates.
+
+
+**Fixes**
+- Fixes in mod updates!
+
+
+**Updated**
+- Updated **Forge** to version **36.0.18**
+- All mods that could be updated have been updated.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-3/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.9.3</h1>
 
 **Always remember to backup your world(s) before updating!**
