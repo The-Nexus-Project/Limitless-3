@@ -1,3 +1,72 @@
+<h1>v1.9.5</h1>
+
+**Mana and Artifice, Better End Update (+ More!)**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Better End](https://www.curseforge.com/minecraft/mc-mods/betterend-forge-port)
+- [Exotic Birds](https://www.curseforge.com/minecraft/mc-mods/exotic-birds)
+- [Mana and Artifice](https://www.curseforge.com/minecraft/mc-mods/mana-and-artifice)
+- [Savage and Ravage](https://www.curseforge.com/minecraft/mc-mods/savage-and-ravage)
+- [Server Tab Info](https://www.curseforge.com/minecraft/mc-mods/server-tab-info)
+- [XNet Gases](https://www.curseforge.com/minecraft/mc-mods/xnet-gases)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Added new **tips** to the **loading screen**.
+- Added more **invalid items** to the **Loot Bag Blacklist**.
+- **Spawn Eggs** can no longer be acquired through **Loot Bag** loot.
+- Hid **Silent's Mechanisms** canisters from view in JEI to prevent intense FPS drops.
+- Disabled the **Eternal Stella** item. (**Removed the Recipe.**)
+- **Creepers** no longer destroy blocks upon exploding- instead quite a few Creepies emerge from the spores.
+- Gardens from **Pam's HC2 Crops** now drop **2** items instead of **1**.
+- Lots of new birds!
+- And some changes in mod updates.
+
+
+**Fixes**
+- Fixed duplicate saturation tooltip.
+- Fixed some **Crushed Ores** from **Create** not being washed properly.
+- Plus more fixes in mod updates.
+
+
+**Quests**
+- Added a new Quest Chapter: **Druidcraft**!
+- Added some new Quests to the **Industrial Foregoing** chapter.
+- Added one new quest to the **Reliquary** chapter.
+- Made some quests optional.
+
+
+**Updated**
+- Updated Forge to version 36.0.25
+- All mods that could be updated have been updated.
+
+
+**Addtional Notes**
+- The new End biomes from **Better End** only generate on a freshly new made world. With a little work you could probably get it to work on an existing world.
+- Be careful when excavating(ftb ultimining) Compact Ores, right now there's an issue where your saturation drains abnormally fast.
+
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-3/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.9.4</h1>
 
 **The current gravestone mod has been replaced this update. Please empty out any important graves before updating!**
