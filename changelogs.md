@@ -1,3 +1,73 @@
+<h1>v1.9.6</h1>
+
+**Pipez, Atmospheric & Time in a Bottle Update (+ More!)**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Advanced Peripherals](https://www.curseforge.com/minecraft/mc-mods/advanced-peripherals)
+- [Atmospheric](https://www.curseforge.com/minecraft/mc-mods/atmospheric)
+- [Bountiful](https://www.curseforge.com/minecraft/mc-mods/bountiful)
+- [Compact Crafting](https://www.curseforge.com/minecraft/mc-mods/compact-crafting)
+- [Pipez](https://www.curseforge.com/minecraft/mc-mods/pipez)
+- [RecipeBuffers](https://www.curseforge.com/minecraft/mc-mods/recipebuffers)
+- [RS: Requestify](https://www.curseforge.com/minecraft/mc-mods/rs-requestify)
+- [RSInfinityBooster](https://www.curseforge.com/minecraft/mc-mods/rsinfinitybooster)
+- [Tetranomicon](https://www.curseforge.com/minecraft/mc-mods/tetranomicon)
+- [Time in a Bottle Standalone](https://www.curseforge.com/minecraft/mc-mods/time-in-a-bottle-standalone)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Added new **tips** to the **loading screen**.
+- The Backpack from **Backpacked** is now 3 rows instead of 2.
+- Moved the position of the **Potion HUD** from middle right to top left.
+- New **Main Menu** background.
+- New **Options Menu** background.
+- And some changes in mod updates.
+
+
+**Fixes**
+- Fixed the Quest '**The Parrots and the Bats**' not completing.
+- Fixed recipe conflicts with **Druidcraft Beams**.
+- Fixed recipe conflicts with **Variant16x Buttons**.
+- Fixed recipe conflicts with **MCW-Roofs Tiles**. 
+- Plus more fixes in mod updates.
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Quests**
+- Made the Quest '**Cover me in Debris**' optional.
+- Added missing rewards for the **Infinity Backpack** & **Infinity Trident** quests.
+- The reward for the '**Monster Hunter**' quest is now 3x **Gold Ingots** instead of **Iron Ingots**.
+
+
+**Addtional Notes**
+- The End biomes in **Better End**, (from v1.9.5) only generate on a freshly new made world. With a little work you could probably get it to work on an existing world from v1.9.4!
+- Be careful when excavating(ftb ultimining) Compact Ores, right now there's an issue where your saturation drains abnormally fast.
+
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-3/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.9.5</h1>
 
 **Mana and Artifice, Better End Update (+ More!)**
