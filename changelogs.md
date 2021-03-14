@@ -1,3 +1,78 @@
+<h1>v1.9.7</h1>
+
+**Got a Jetpack from @IronJetpacks in a Curious Slot? Please take it out before updating!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [JEI Professions](https://www.curseforge.com/minecraft/mc-mods/jei-professions)
+- [Macaw's Fences and Walls](https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls)
+- [Nicephore](https://www.curseforge.com/minecraft/mc-mods/nicephore)
+- [Ore Excavation](https://www.curseforge.com/minecraft/mc-mods/ore-excavation)
+- [Shrink](https://www.curseforge.com/minecraft/mc-mods/shrink_)
+- [Snow Under Trees](https://www.curseforge.com/minecraft/mc-mods/snow-under-trees)
+
+
+**Removed**
+- [Curious Jetpacks](https://www.curseforge.com/minecraft/mc-mods/curious-jetpacks)
+- [FTB Ultimine](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine)
+
+
+**Changes**
+- Compact Ores & Normal Ores will now be mined together if Excavate is active on either ore.
+- Added a recipe to convert any block w/ tag 'forge:sand' to normal vanilla sand.
+- Turned off the **Vanilla Stronghold** in favour of the **Repurposed Structures - Strongold** and to fix some issues. 
+(**Locate command /locate repurposed_structures:stronghold_stonebrick**)
+- Increased how many blocks can be **Excavated** at once, from **64** blocks to **128**.
+- Increased the maximum distance which the **Excavation** can travel, from **64** blocks to **128**.
+- Disabled the **Enigmatic Legacy** update handler.
+- Added "**Mods**", "**Issue Tracker**" & "**Changelogs**" buttons to the in-game **Pause Menu**.
+- Added a "**Note!**" message when loading into worlds/servers. Located top left.
+- **Forge**: Enabled the client config option "**experimentalForgeLightPipelineEnabled**".
+- **Crude Oil** & **Oil** from **Thermal Series** + **Silent's Mechanisms** can now be processed in the **Pneumaticcraft Refinery**.
+- Plus some other changes in mod updates.
+
+
+**Fixes**
+- Placed Bits from **Chisels And Bits** being shuffled after a modpack update has hopefully been fixed.
+- Saturation draining abnormally fast when Excavating a Compact Ore has been fixed.
+- Fixed the first & third person viewmodel for the '**Cyclic - Cyan Rose**'.
+- Fixed '**Material Stonework Factory**' turning gravel into **White Sand** instead of normal **Sand**.
+- Hopefully fixed a rare case where '**@Crossroads Tin & Copper Ores**' were generating. (**Probably not though, mod issue. Awaiting fix.**)
+- And some fixes in mod updates.
+
+
+**Updated**
+- Updated Forge to version **36.0.58**.
+- All mods that could be updated have been updated.
+
+
+**Quests**
+- Added a new Quest Chapter: **Repurposed Structures**! (**Roughly 65 new quests!**)
+- Fixed quest reward for the '**Return to Sender**' quest.
+- Fixed the quest '**Cover Me in Debris**' not completing properly.
+
+
+**Addtional Notes**
+- Loading into worlds/servers may take awhile. Be patient! You'll get in eventually.
+- Leave your Loading Screen Tips in our Discord under #tips join here: [https://discord.gg/gwzpyQb](https://discord.gg/gwzpyQb) !
+
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-3/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.9.6</h1>
 
 **Pipez, Atmospheric & Time in a Bottle Update (+ More!)**
