@@ -54,7 +54,7 @@
 - Fixed the quest '**Cover Me in Debris**' not completing properly.
 
 
-**Addtional Notes**
+**Additional Notes**
 - Loading into worlds/servers may take awhile. Be patient! You'll get in eventually.
 - Leave your Loading Screen Tips in our Discord under #tips join here: [https://discord.gg/gwzpyQb](https://discord.gg/gwzpyQb) !
 
