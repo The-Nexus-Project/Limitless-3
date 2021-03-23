@@ -1,6 +1,8 @@
-<h1>v1.9.8 / v1.9.8a</h1>
+<h1>v1.9.8 / v1.9.8a / 1.9.8b</h1>
 
 **! Rollbacked AE2 to version 8.3.0-alpha.1 to fix some critical issues !**
+
+**1.9.8b fixes the issue with #forge:stone tag not working properly.**
 
 **( If you're on 1.9.8, please update to this version! )**
 
@@ -21,6 +23,7 @@
 
 
 **Changes**
+- (**v1.9.8b**) An issue with the tag "forge:stone" not working has been fixed. (**v1.9.8b**)
 - (**v1.9.8a**) Rollbacked AE2 to version 8.3.0-alpha.1 to fix some critical issues. (**v1.9.8a**)
 - Added **Holly & Mana Berry** to the **forge:fruits** tag, allowing them to be used in various recipes.
 - Added more blocks to the '**Ore Excavate - Block Group**' list.
