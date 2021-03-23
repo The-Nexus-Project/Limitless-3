@@ -1,3 +1,81 @@
+<h1>v1.9.8</h1>
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Cable Tiers](https://www.curseforge.com/minecraft/mc-mods/cable-tiers)
+- [Chiseled](https://www.curseforge.com/minecraft/mc-mods/chiseled) (+ [ConnectedTexturesMod](https://www.curseforge.com/minecraft/mc-mods/ctm))
+- [Configured](https://www.curseforge.com/minecraft/mc-mods/configured)
+- [Ender Storage](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8) (+ [CodeChicken Lib](https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8))
+- [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling)
+- [Mob Grinding Utils](https://www.curseforge.com/minecraft/mc-mods/mob-grinding-utils)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Added **Holly & Mana Berry** to the **forge:fruits** tag, allowing them to be used in various recipes.
+- Added more blocks to the '**Ore Excavate - Block Group**' list.
+- Added more **invalid items** to the **Loot Bag Blacklist**.
+- Added a Compact Ore variant of the **AE2 Charged & Normal Certus Quartz Ore**.
+- Updated textures from **@AE2Extras** to fit in with normal **AE2** textures.
+- Some new animals have been added. (**Alex's Mobs**.) (**See** [**here**](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs/files/3245951).)
+- Adjusted the recipe for **Packing Tape** to allow any type of **Slime** & **String**.
+- Added an Advancement for obtaining the item **Time in a Bottle**.
+- The **Fox Tail** from **Craft and Hunt** can no longer be obtained through **Bountiful - Bounty Boards**.
+- The Color of the **Modpack Loading Bar** has been changed to better fit the **LL3 Color Theme**.
+- Added more **Tips** to the loading screen.
+- Unregisted an unnused **KubeJS item**.
+- Changes in mod updates.
+
+
+**Fixes**
+- Fixed **Creeper Explosions** destroying blocks.
+- An issue with invisible **Bees** has been fixed.
+- An issue with curio-equipped items from **Enigmatic Legacy** being unequipped when re-joining a world has been fixed.
+- Fixed a recipe conflict between **Forbidden & Arcanus - Iron Chain** & **Vanilla MC Chain**.
+- A rare case where **@Crossroads Tin & Copper Ore** were generating despite being disabled has been fixed.
+- Fixed the **Astral Sorcery** - **Sooty Marble** & **Marble** Stairs & Slab recipes.
+- A **crash** when opening certain **GUIs** has been fixed.
+- Fixes in mod updates.
+
+
+**Quests**
+- Added **16** new quests to the **Refined Storage** Chapter. (**All Optional.**)
+- Added **8** new quests to the **Applied Energistics 2** Chapter. (**All Optional.**)
+- Added **8** new quests to the **Thermal Series** Chapter.
+- Made the Quest '**Adventuring Time**' optional.
+- Fixed a minor issue in the **Mekanism** Chapter.
+
+
+**Updated**
+- Updated Forge to version **36.1.2**
+- All mods that could be updated have been updated.
+
+
+**Additional Notes**
+- Loading into worlds/servers may take awhile. Be patient! You'll get in eventually.
+- Leave your Loading Screen Tips in our Discord under #tips join here: [https://discord.gg/gwzpyQb](https://discord.gg/gwzpyQb) !
+- **@Crossroads** Ores are generating despite being disabled. (Tin & Copper.) This issue is reported and will be fixed in a future update!
+
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-3/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.9.7</h1>
 
 **Got a Jetpack from @IronJetpacks in a Curious Slot? Please take it out before updating!**
