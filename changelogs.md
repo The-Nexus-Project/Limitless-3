@@ -37,7 +37,6 @@
 - An issue with invisible **Bees** has been fixed.
 - An issue with curio-equipped items from **Enigmatic Legacy** being unequipped when re-joining a world has been fixed.
 - Fixed a recipe conflict between **Forbidden & Arcanus - Iron Chain** & **Vanilla MC Chain**.
-- A rare case where **@Crossroads Tin & Copper Ore** were generating despite being disabled has been fixed.
 - Fixed the **Astral Sorcery** - **Sooty Marble** & **Marble** Stairs & Slab recipes.
 - A **crash** when opening certain **GUIs** has been fixed.
 - Fixes in mod updates.
