@@ -1,6 +1,7 @@
 <h1>v1.9.8 / v1.9.8a</h1>
 
 **! Rollbacked AE2 to version 8.3.0-alpha.1 to fix some critical issues !**
+
 **( If you're on 1.9.8, please update to this version! )**
 
 **Always remember to backup your world(s) before updating!**
