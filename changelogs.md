@@ -1,4 +1,7 @@
-<h1>v1.9.8</h1>
+<h1>v1.9.8a</h1>
+
+**! Rollbacked AE2 to version 8.3.0-alpha.1 to fix some critical issues !**
+**( If you're on 1.9.8, please update to this version! )**
 
 **Always remember to backup your world(s) before updating!**
 
@@ -17,6 +20,7 @@
 
 
 **Changes**
+- (**v1.9.8a**) Rollbacked AE2 to version 8.3.0-alpha.1 to fix some critical issues. (**v1.9.8a**)
 - Added **Holly & Mana Berry** to the **forge:fruits** tag, allowing them to be used in various recipes.
 - Added more blocks to the '**Ore Excavate - Block Group**' list.
 - Added more **invalid items** to the **Loot Bag Blacklist**.
