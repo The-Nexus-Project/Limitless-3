@@ -1,15 +1,16 @@
-<h1>v1.9.9</h1>
+<h1>v1.9.9 / 1.9.9a</h1>
 
 **Ore Processing Compatibility, Fixes & Mod Additions + More!**
 
 **Note! A reset/deletion of the 'serverconfig' folder is highly recommended with this update! It's located inside the /world/ folder.**
+
+**1.9.9a removed Curious Jetpacks as it was causing some issues after further inspection.**
 
 **Always remember to backup your world(s) before updating!**
 
 
 **Added**
 - [Creatures and Beasts](https://www.curseforge.com/minecraft/mc-mods/creatures-and-beasts)
-- [Curious Jetpacks](https://www.curseforge.com/minecraft/mc-mods/curious-jetpacks)
 - [FramedBlocks](https://www.curseforge.com/minecraft/mc-mods/framedblocks)
 - [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazy-dfu-forge)
 - [Tinkers Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct) (**ALPHA! THERE'S BUGS. REPORT THEM** [**HERE**](https://github.com/SlimeKnights/TinkersConstruct/issues) )
@@ -17,6 +18,7 @@
 
 **Removed**
 - [BlockCarpentry](https://www.curseforge.com/minecraft/mc-mods/blockcarpentry)
+- [Curious Jetpacks](https://www.curseforge.com/minecraft/mc-mods/curious-jetpacks)
 - [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot-forge)
 
 
