@@ -1,3 +1,106 @@
+<h1>v1.9.9</h1>
+
+**Ore Processing Compatibility, Fixes & Mod Additions + More!**
+
+**Note! A reset/deletion of the 'serverconfig' folder is highly recommended with this update! It's located inside the /world/ folder.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Creatures and Beasts](https://www.curseforge.com/minecraft/mc-mods/creatures-and-beasts)
+- [Curious Jetpacks](https://www.curseforge.com/minecraft/mc-mods/curious-jetpacks)
+- [FramedBlocks](https://www.curseforge.com/minecraft/mc-mods/framedblocks)
+- [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazy-dfu-forge)
+- [Tinkers Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct) (**ALPHA! THERE'S BUGS. REPORT THEM** [**HERE**](https://github.com/SlimeKnights/TinkersConstruct/issues) )
+
+
+**Removed**
+- [BlockCarpentry](https://www.curseforge.com/minecraft/mc-mods/blockcarpentry)
+- [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot-forge)
+
+
+**Changes**
+- **Vinteum Ore** can now be processed in The **Pulverizer** from **@Thermal Series**.
+- **Bismuth Ore** can now be processed in the **Pulverizer** from **@Thermal Series**.
+- **Platinum Ore** can now be processed in the **Pulverizer** from **@Thermal Series**.
+- **Ancient Debris** can now be processed in the **Pulverizer** from **@Thermal Series**.
+- **Azure Silver Ore** can now be processed in the **Pulverizer** from **@Thermal Series**.
+- **Certus Quartz & Fluix Crystal** can now be processed in the **Pulverizer** from **@Thermal Series**.
+- **Fluix Crystal & Certus Quartz** can now be processed in the **Crusher** from **@Immersive Engineering**.
+- **Cherrywood Trees** (**Forbidden & Arcanus**) & **Archwood Trees** (**Ars Nouveau**) no longer generate, instead the **Sapling** for them can be bought from the **Market, (Farming for Blockheads)**.
+- Dragon Roosts, Caves that contain **Copper & Silver Piles** will now drop the correct **Nugget** when harvested.
+- **Ice and Fire** Chest loot tables now contain the correct **Silver & Copper Ingots, Nuggets.**
+- **Thrashers** & **Great Thrashers** now drop **Thrasher Tooth** from **@Craft and Hunt** upon death.
+- Added **Cherry Peach** to the **forge:fruits** tag, allowing it to be used in various recipes.
+- Added a **@Powah - Energizing** recipe to convert **Uranium Ingots** to **Uraninite**.
+- **Constantan Ingot** can now be made in the **Silent's Mechanisms - Alloy Smelter**.
+- Added all **Saplings** from **Quark**, **Atmospheric**, **BYG**, **Druidcraft**, **SilentGear**, **BetterEnd**, **Ars Nouveau**, **Upgrade Aquatic** & **Integrated Dynamics** to the **Market, (Farming for Blockheads)**.
+- The **Ice and Fire** - **Sea Serpents** now only spawn in **Deep Ocean Biomes**.
+- Added **Hammer Crushing** recipes for **Crimson Iron** & **Azure Silver**.
+- **Soulium Ore** can now be processed in a lot of various **machines**.
+- Added **JEI** information pages to the **@Powah - Uraninite Ores**.
+- **Apatite Seeds** can now be used in the **IE - Garden Cloche**.
+- Added more **invalid items** to the **Loot Bag Blacklist**.
+- Added additional **@Crossroads Millstone** recipes.
+- Added more **Tips** to the **loading screen**.
+- Plus some changes in mod updates.
+
+
+**Fixes**
+- Hopefully fixed an instance where **servers** wouldn't **ping** if added to the **Multiplayer** section.
+- Fixed **Integrated Dynamics - Squeezer** not outputting the correct type of **Ore Dusts**.
+- Fixed **Soil Requirement** for **Iridium & Platinum** Seeds in the **Garden Cloche**.
+- Fixed **Fermented Spider Tools** & **Poison Spider Tools** not being craftable.
+- Fixed **Limitless 3 Welcome Advancement** not triggering on first world join. (**May cause this to re-trigger on some worlds!**)
+- Fixed **lang file** for multiple items having **unlocalized names**.
+- Fixed **Aluminum Ore** output in the **Thermal Pulverizer**.
+- Fixed **Zinc Ore** output in the **Thermal Pulverizer**.
+- Fixed **Pumpkin Seed** not processing correctly in the **Garden Cloche**.
+- Fixed **Yellorite Ore & Dust** not processing in the **Arc Furnace**.
+- Fixed **Yellorite Dust & Ore** not smelting into the correct **Ingot**.
+- Fixed a recipe conflict with **Leather Scrap** & **Leather Stripe**.
+- Fixed multiple **Crossroads Mill** recipes not working correctly.
+- Fixed **MA Essentials** not displaying cooldown timers correctly.
+- **Chiseled** not functioning on servers has been fixed.
+- Fixed a **Mahou Tsukai - Projection** duplication.
+- Fixed output for some **Centrifuge** recipes.
+- Fixed a lot of **Hammer Crushing** recipes.
+- Fixed recipe conflicts with **Paxels**.
+- Fixed a **Blaze Rod** dupe.
+- Fixed **Ladder** recipe.
+- Plus fixes in mod updates.
+
+
+**Quests**
+- Added **ME Drive** Quest to the **AE2 Chapter**.
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Additional Notes**
+- Loading into **worlds/servers** may take awhile. Be patient! You'll get in eventually.
+- Leave your Loading Screen Tips in our Discord under #tips join here: [https://discord.gg/gwzpyQb](https://discord.gg/gwzpyQb) !
+- Some **@Crossroads** Ores might generate despite being disabled. (**Tin & Copper.**) This issue is reported and will be fixed in a future update!
+- Some **Curios-equipped** items gets un-equipped on every world join. (**Known issue, no eta on a fix.**)
+
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-3/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.9.8 / v1.9.8a / 1.9.8b</h1>
 
 **! Rollbacked AE2 to version 8.3.0-alpha.1 to fix some critical issues !**
