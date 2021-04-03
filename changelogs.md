@@ -1,10 +1,12 @@
-<h1>v1.9.9 / 1.9.9a</h1>
+<h1>v1.9.9 / 1.9.9a / 1.9.9b</h1>
 
 **Ore Processing Compatibility, Fixes & Mod Additions + More!**
 
 **Note! A reset/deletion of the 'serverconfig' folder is highly recommended with this update! It's located inside the /world/ folder.**
 
 **1.9.9a removed Curious Jetpacks as it was causing some issues after further inspection.**
+
+**1.9.9b updates Tinkers Construct to its latest version which includes some needed bug fixes.**
 
 **Always remember to backup your world(s) before updating!**
 
@@ -79,6 +81,7 @@
 
 
 **Updated**
+- Updated **Tinkers Construct** to its latest version to fix some nasty bugs.
 - All mods that could be updated have been updated.
 
 
