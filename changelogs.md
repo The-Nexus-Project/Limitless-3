@@ -18,7 +18,7 @@
 
 **Removed**
 - [BlockCarpentry](https://www.curseforge.com/minecraft/mc-mods/blockcarpentry)
-- [Curious Jetpacks](https://www.curseforge.com/minecraft/mc-mods/curious-jetpacks)
+- [Curious Jetpacks](https://www.curseforge.com/minecraft/mc-mods/curious-jetpacks) (**1.9.9a**)
 - [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot-forge)
 
 
