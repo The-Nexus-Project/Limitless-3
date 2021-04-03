@@ -81,7 +81,7 @@
 
 
 **Updated**
-- Updated **Tinkers Construct** to its latest version to fix some nasty bugs.
+- Updated **Tinkers Construct** to its latest version to fix some nasty bugs. (**1.9.9b**)
 - All mods that could be updated have been updated.
 
 
