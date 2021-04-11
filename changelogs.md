@@ -1,3 +1,73 @@
+<h1>v1.10.0</h1>
+
+**Always remember to backup your world(s) before updating!**
+
+**A reset of the Mining Dimension is recommended with this update! (Located inside the 'dimensions' folder within the 'world' folder.)**
+
+**Added**
+- [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) (**Beta! May have issues.**)
+- [TOP Addons](https://www.curseforge.com/minecraft/mc-mods/top-addons)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Added more **Ore Processing Compatibility** to the **Crossroads Machines / Blocks**.
+- Added more **invalid items** to the **Loot Bag Blacklist**.
+- Actually made the **Ice and Fire - Sea Serpents** only spawn in Deep Ocean Biomes. (**Exception to Deep Luke Warm Ocean.**)
+- Added **Saplings** from **Twilight Forest** to the **Market, (Farming for Blockheads)**.
+- **Entity Names** can now be seen on the **Minimap** while holding down **[TAB]**.
+- Disabled duplicate **Item Quick View** located next to the hotbar.
+- **Mineshafts** no longer generates in the **Mining Dimension**.
+- **Oil Lakes** no longer generate in the **Mining Dimension**.
+- **Dirt**, **Gravel**, **Diorite**, **Granite**, **Andesite** & **Clay** no longer generates in the **Mining Dimension**.
+- Lowered the generation chances of **ExtCaves** mushrooms.
+- Lowered spawn rates of the **Ars Nouveau - Wilden Mobs**.
+- Moved the **Mana and Artifice - HUD** to the **Bottom Left**.
+- Re-enabled the **TConstruct - Crafting Station** recipe.
+- **Village Road Signs** now generate less frequently.
+- Enabled Entity **Mob Heads** on the **Minimap**. (**For supported entities**.)
+- Added more **Tips** to the **loading screen**.
+- Changed the **Minimap** style.
+- Some new mobs added. (**Alex's Mobs**: See [Here](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs/files/3268684))
+- Some changes in mod updates.
+
+
+**Fixes**
+- Fixed **TCon Smeltery** not casting stuff correctly.
+- Fixed **Ice and Fire - Sea Serpents** not spawning.
+- Fixed **Minimap** not displaying what day it is.
+- Fixed a few recipe conflicts.
+- Fixes in mod updates.
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Additional Notes**
+- Loading into **worlds/servers** may take awhile. Be patient! You'll get in eventually.
+- Leave your Loading Screen Tips in our Discord under #tips join here: [https://discord.gg/gwzpyQb](https://discord.gg/gwzpyQb) !
+- Some **@Crossroads** Ores might generate despite being disabled. (**Tin & Copper.**) This issue is reported and will be fixed in a future update!
+- Some **Curios-equipped** items gets un-equipped on every world join. (**Known issue, no eta on a fix.**)
+
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-3/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.9.9 / 1.9.9a / 1.9.9b</h1>
 
 **Ore Processing Compatibility, Fixes & Mod Additions + More!**
