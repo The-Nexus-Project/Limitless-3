@@ -1,8 +1,10 @@
 <h1>v1.10.0</h1>
 
-**Always remember to backup your world(s) before updating!**
+**Twilight Forest. Some more Ore Processing Compatibility, Fixes + More!**
 
 **A reset of the Mining Dimension is recommended with this update! (Located inside the 'dimensions' folder within the 'world' folder.)**
+
+**Always remember to backup your world(s) before updating!**
 
 **Added**
 - [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) (**Beta! May have issues.**)
@@ -31,7 +33,7 @@
 - Enabled Entity **Mob Heads** on the **Minimap**. (**For supported entities**.)
 - Added more **Tips** to the **loading screen**.
 - Changed the **Minimap** style.
-- Some new mobs added. (**Alex's Mobs**: See [Here](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs/files/3268684))
+- Some new mobs added. (**Alex's Mobs**: See [Here](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs/files/3268781))
 - Some changes in mod updates.
 
 
