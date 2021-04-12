@@ -43,7 +43,7 @@
 - Fixed **TCon Smeltery** not casting stuff correctly.
 - Fixed **Ice and Fire - Sea Serpents** not spawning.
 - Fixed **Minimap** not displaying what day it is.
-- Fixed the **Gold Nugget** recipe as it was broken.
+- Fixed the **Gold Nugget** recipe as it was broken. (**v1.10.0a**)
 - Fixed a few recipe conflicts.
 - Fixes in mod updates.
 
