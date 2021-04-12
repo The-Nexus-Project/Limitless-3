@@ -4,7 +4,7 @@
 
 **A reset of the Mining Dimension is recommended with this update! (Located inside the 'dimensions' folder within the 'world' folder.)**
 
-**v1.10.0a fixes the gold nugget recipe as it was broken.**
+**v1.10.0a fixes the gold nugget recipe as it was broken. (Quick note, v1.10.0a is compatible with v1.10.0)!**
 
 **Always remember to backup your world(s) before updating!**
 
