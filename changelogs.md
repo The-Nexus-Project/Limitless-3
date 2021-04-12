@@ -1,8 +1,10 @@
-<h1>v1.10.0</h1>
+<h1>v1.10.0 / v1.10.0a</h1>
 
 **Twilight Forest. Some more Ore Processing Compatibility, Fixes + More!**
 
 **A reset of the Mining Dimension is recommended with this update! (Located inside the 'dimensions' folder within the 'world' folder.)**
+
+**v1.10.0a fixes the gold nugget recipe as it was broken.**
 
 **Always remember to backup your world(s) before updating!**
 
@@ -41,6 +43,7 @@
 - Fixed **TCon Smeltery** not casting stuff correctly.
 - Fixed **Ice and Fire - Sea Serpents** not spawning.
 - Fixed **Minimap** not displaying what day it is.
+- Fixed the **Gold Nugget** recipe as it was broken.
 - Fixed a few recipe conflicts.
 - Fixes in mod updates.
 
