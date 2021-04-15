@@ -1,5 +1,7 @@
 <h1>v1.10.1</h1>
 
+**An update with some needed bug fixes- (+ more!)**
+
 **Always remember to backup your world(s) before updating!**
 
 
