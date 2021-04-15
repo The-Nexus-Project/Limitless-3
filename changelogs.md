@@ -1,3 +1,55 @@
+<h1>v1.10.1</h1>
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- No mods added.
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Updated the **Vanilla Ore** textures to the **MC1.17 update textures**. (**They're better for color blind people!**)
+- Added more **invalid items** to the **Loot Bag Blacklist**.
+- Added more **Tips** to the **loading screen**.
+- Some changes in mod updates.
+
+
+**Fixes**
+- Multiple blocks like the **Garden Cloche** not functioning on servers has been fixed.
+- Fixed an issue in the **Mystical Agriculture** questline.
+- Fixed **Iron Jetpacks** not being craftable.
+- Fixes in mod updates
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Additional Notes**
+- Loading into **worlds/servers** may take awhile. Be patient! You'll get in eventually.
+- Leave your Loading Screen Tips in our Discord under #tips join here: [https://discord.gg/gwzpyQb](https://discord.gg/gwzpyQb) !
+- Some **@Crossroads** Ores might generate despite being disabled. (**Tin & Copper.**) This issue is reported and will be fixed in a future update!
+- Some **Curios-equipped** items gets un-equipped on every world join. (**Known issue, no eta on a fix.**)
+
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-3/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.10.0 / v1.10.0a</h1>
 
 **Twilight Forest. Some more Ore Processing Compatibility, Fixes + More!**
