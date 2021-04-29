@@ -1,3 +1,86 @@
+<h1>v1.10.2</h1>
+
+**Environmental Tech, Pedestals & Farmer's Delight + More!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue)
+- [Environmental Tech](https://www.curseforge.com/minecraft/mc-mods/environmental-tech) (+ [Environmental Core](https://www.curseforge.com/minecraft/mc-mods/environmental-core) & [ValkyrieLib](https://www.curseforge.com/minecraft/mc-mods/valkyrielib) )
+- [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight)
+- [Farmer's Delight Compats](https://www.curseforge.com/minecraft/mc-mods/farmers-delight-compats)
+- [FastSuite](https://www.curseforge.com/minecraft/mc-mods/fastsuite)
+- [Macaw's Furniture](https://www.curseforge.com/minecraft/mc-mods/macaws-furniture)
+- [Pedestals](https://www.curseforge.com/minecraft/mc-mods/pedestals)
+- [SmoothFocus](https://www.curseforge.com/minecraft/mc-mods/smoothfocus) (**A configurable zoom mod!**) (**X button by default.**)
+
+
+**Removed**
+- [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements)
+
+
+**Changes**
+- Added an **item tooltip** to a lot of items that are usually unobtainable, these items can now also be converted to the correct item.
+- **Wilden Mobs** no longer spawns in the **Twilight Forest**, **Mining Dimension** & **Void Dimension**.
+- Adjusted the **Nether Dimensional Shard Ore** texture to match the 1.14+ Netherrack texture.
+- Made **Dragon Roosts** & **Underground Dragon Caves** a little bit more common.
+- Added support for the **Thermal Series** Seeds in the **IE Garden Cloche**, (+ a few other seeds)!
+- Added a **Resource Pack** to let users use the **previous 1.16 ore textures**.
+- The number of world **Backups** to keep has been increased from **4** to **6**.
+- Disabled the **Uncrafting Table**, (removed the recipe). (**Duping issues.**)
+- Adjusted the **Mining Dimension Teleporter** recipe & texture.
+- Disabled **Ma Enchants - Lifesteal** to prevent some issues.
+- Filtered out some **bad junk** from the **Loot Bag** loot.
+- Made **Ladder Climbing** a little bit slower.
+- Added **7** new tips to the loading screen.
+- Added a new item: **Baked Apple**.
+- Changes in mod updates.
+
+
+**Fixes**
+- Fixed a **specific message** spamming the **logs** while in the **Main Menu**.
+- **Villagers** not being eligible for the **Fletcher** job has been fixed.
+- Fixed a lot of **Arc Furnace & Recycling** recipes.
+- Fixed outputs in the **IF - Laser Drill**.
+- Fixed a few **unlocalized** item names.
+- Fixes in mod updates
+
+
+**Quests**
+- Added **5** new quests to the **Mekanism** Chapter.
+- Added **4** new quests to the **Reliquary** Chapter.
+- Added **1** new quest to the **Craft and Hunt** Chapter.
+- Added **1** new quest to the **MC - Adventure** Chapter.
+- Added **1** new quest to the **Traveller's Boots** Chapter.
+- Changed the reward for the **Getting an Upgrade** quest.
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Additional Notes**
+- Loading into **worlds/servers** may take awhile. Be patient! You'll get in eventually.
+- Leave your Loading Screen Tips in our Discord under #tips join here: [https://discord.gg/gwzpyQb](https://discord.gg/gwzpyQb) !
+- Some **@Crossroads** Ores might generate despite being disabled. (**Tin & Copper.**) This issue is reported and will be fixed in a future update!
+- Some **Curios-equipped** items gets un-equipped on every world join. (**Known issue, no eta on a fix.**)
+
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-3/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.10.1</h1>
 
 **An update with some needed bug fixes- (+ more!)**
