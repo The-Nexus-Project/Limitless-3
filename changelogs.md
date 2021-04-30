@@ -1,3 +1,20 @@
+<h1>v1.10.2a</h1>
+
+**Very small important update with a fix, removes a mod.**
+
+Please read the full changelog below or by clicking [Here](https://github.com/The-Nexus-Project/Limitless-3/blob/master/changelogs.md#v1102).
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Removed**
+- [FastSuite](https://www.curseforge.com/minecraft/mc-mods/fastsuite)
+
+**Changes**
+- [FastSuite](https://www.curseforge.com/minecraft/mc-mods/fastsuite) was removed due to some crashing issues, probably will be readded in the future once those issues are fixed!
+
+---------------
+
 <h1>v1.10.2</h1>
 
 **Environmental Tech, Pedestals & Farmer's Delight + More!**
