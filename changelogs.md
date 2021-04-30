@@ -13,6 +13,9 @@ Please read the full changelog below or by clicking [Here](https://github.com/Th
 **Changes**
 - [FastSuite](https://www.curseforge.com/minecraft/mc-mods/fastsuite) was removed due to some crashing issues, probably will be readded in the future once those issues are fixed!
 
+**Fixes**
+- Fixed an issue where the world would time out but never **crash/close**.
+
 ---------------
 
 <h1>v1.10.2</h1>
