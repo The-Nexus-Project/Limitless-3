@@ -1,3 +1,93 @@
+<h1>v1.10.3</h1>
+
+**New quests, some mod additions + more!**
+
+**Note! A reset/deletion of the 'serverconfig' folder is highly recommended with this update! It's located inside the /world/ folder.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Caelus API](https://www.curseforge.com/minecraft/mc-mods/caelus)
+- [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts)
+- [Create Crafts & Additions](https://www.curseforge.com/minecraft/mc-mods/createaddition)
+- [Curious Elytra](https://www.curseforge.com/minecraft/mc-mods/curious-elytra)
+- [Curious Shulker](https://www.curseforge.com/minecraft/mc-mods/curious-shulker-boxes)
+- [FindMe](https://www.curseforge.com/minecraft/mc-mods/findme)
+- [Gauges and Switches](https://www.curseforge.com/minecraft/mc-mods/redstone-gauges-and-switches)
+- [Neko's Enchanted Books](https://www.curseforge.com/minecraft/mc-mods/nekos-enchanted-books)
+- [Plonk](https://www.curseforge.com/minecraft/mc-mods/plonk)
+
+
+**Removed**
+- [Tetra](https://www.curseforge.com/minecraft/mc-mods/tetra)
+- [Tetranomicon](https://www.curseforge.com/minecraft/mc-mods/tetranomicon)
+- [mGui Lib](https://www.curseforge.com/minecraft/mc-mods/mgui)
+
+
+**Changes**
+- You can now search for **items** in your messy sea of **chests/containers**, hover over an item in **JEI** or **Inventory** with the default keybind: **O**.
+- **Loot Bag** & **Loot Bag Pieces** can now be acquired rarely through **Bountiful Bounty rewards**.
+- **Apotheosis "Apotheotic Bosses"** can now wear **13** additional types of **armor** & **weapons/tools**.
+- Most **Enchanted Books** now have a unique texture depending on what the **enchantment** is.
+- **Loot Bag loot** will now be placed into your **inventory** upon opening it. (**Items will be tossed on the ground if inventory is full.**)
+- You can now place **items/blocks** onto walls, ceilings & on the ground. (**Default keybind: P.**)
+- Disabled **sounds** when an item is at **low durability / about to break**.
+- The **@Aquaculture - Treasure Chest** now contains **27** more **items**.
+- **Ice and Fire - Dragon Sounds** are now much more **quieter**.
+- Added more **invalid items** to the **Loot Bag Blacklist**.
+- You can now claim chunks in **The End** dimension.
+- Added alternate recipes for the **End Crystal**.
+- Added **9** new tips to the loading screen.
+- Added a new item: **Golden Melon Slice**.
+- Added a new item: **Golden Berries**.
+- Some new **mobs** have been added. (**See [here](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs/files/3297742).**)
+- Some additional changes in mod updates.
+
+
+**Fixes**
+- Fixed not being able to "**right-click to add**" stuff into **Shulker Boxes** & **Seed Pouches** etc. (**Quark Tweak.**)
+- Fixed advancement **"I Need More Power!**" not triggering with any **Bookshelf**.
+- A **random / uncommon** crash when dismounting an entity has been fixed.
+- The "**FOV Effects**" Slider being non functional has been **fixed**. (**See [here](https://www.curseforge.com/minecraft/mc-mods/smoothfocus/files/3298498).**)
+- Hopefully fixed **Sea Serpents** spawning in the wrong places.
+- Fixed typo in a **Tip**.
+- Some additional fixes in mod updates
+
+
+**Quests**
+- Added a new Quest Chapter: **Apotheosis**.
+- Added a new Quest Chapter: **Twilight Forest**.
+- Changed reward for the **Zombie Doctor** quest.
+- Changed reward for the **Ice Bucket Challenge** quest.
+
+
+**Updated**
+- Updated **Forge** to version **36.1.18**
+- All mods that could be updated have been updated.
+
+
+**Additional Notes**
+- Loading into **worlds/servers** may take awhile. Be patient! You'll get in eventually.
+- Leave your Loading Screen Tips in our Discord under #tips join here: [https://discord.gg/gwzpyQb](https://discord.gg/gwzpyQb) !
+- Some **@Crossroads** Ores might generate despite being disabled. (**Tin & Copper.**) This issue is reported and will be fixed in a future update!
+- Some **Curios-equipped** items gets un-equipped on every world join. (**Known issue, no eta on a fix.**)
+
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-3/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.10.2a</h1>
 
 **Very small important update with a fix, removes a mod.**
