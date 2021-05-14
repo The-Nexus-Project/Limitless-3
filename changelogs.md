@@ -30,10 +30,10 @@
 - **Loot Bag** & **Loot Bag Pieces** can now be acquired rarely through **Bountiful Bounty rewards**.
 - **Apotheosis "Apotheotic Bosses"** can now wear **13** additional types of **armor** & **weapons/tools**.
 - Most **Enchanted Books** now have a unique texture depending on what the **enchantment** is.
-- **Loot Bag loot** will now be placed into your **inventory** upon opening it. (**Items will be tossed on the ground if inventory is full.**)
 - You can now place **items/blocks** onto walls, ceilings & on the ground. (**Default keybind: P.**)
 - Disabled **sounds** when an item is at **low durability / about to break**.
 - The **@Aquaculture - Treasure Chest** now contains **27** more **items**.
+- **Ice and Fire - Dragon Sounds** are now much more **quieter**.
 - Added more **invalid items** to the **Loot Bag Blacklist**.
 - You can now claim chunks in **The End** dimension.
 - Added alternate recipes for the **End Crystal**.
