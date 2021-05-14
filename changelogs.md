@@ -1,6 +1,6 @@
 <h1>v1.10.3</h1>
 
-**New quests, some mod additions + more!**
+**New quests, mod additions + more!**
 
 **Note! A reset/deletion of the 'serverconfig' folder is highly recommended with this update! It's located inside the /world/ folder.**
 
