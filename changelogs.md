@@ -34,7 +34,6 @@
 - You can now place **items/blocks** onto walls, ceilings & on the ground. (**Default keybind: P.**)
 - Disabled **sounds** when an item is at **low durability / about to break**.
 - The **@Aquaculture - Treasure Chest** now contains **27** more **items**.
-- **Ice and Fire - Dragon Sounds** are now much more **quieter**.
 - Added more **invalid items** to the **Loot Bag Blacklist**.
 - You can now claim chunks in **The End** dimension.
 - Added alternate recipes for the **End Crystal**.
