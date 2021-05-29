@@ -1,6 +1,6 @@
 <h1>v1.10.4</h1>
 
-**Atum 2, Lootr, New Worldgen Structures + More!**
+**Atum 2, Lootr, New Worldgen Structures, New Quests + More!**
 
 **Always remember to backup your world(s) before updating!**
 
