@@ -1,3 +1,96 @@
+<h1>v1.10.4</h1>
+
+**Atum 2, Lootr, New Worldgen Structures + More!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Atum 2: Return to the Sands](https://www.curseforge.com/minecraft/mc-mods/atum)
+- [Autumnity](https://www.curseforge.com/minecraft/mc-mods/autumnity)
+- [Buzzier Bees](https://www.curseforge.com/minecraft/mc-mods/buzzier-bees)
+- [Charm](https://www.curseforge.com/minecraft/mc-mods/charm-reforged)
+- [Dungeons Plus](https://www.curseforge.com/minecraft/mc-mods/dungeons-plus) (+ [Structure Gel API](https://www.curseforge.com/minecraft/mc-mods/structure-gel-api))
+- [Easy Villagers](https://www.curseforge.com/minecraft/mc-mods/easy-villagers)
+- [Easy Piglins](https://www.curseforge.com/minecraft/mc-mods/easy-piglins)
+- [Environmental](https://www.curseforge.com/minecraft/mc-mods/environmental)
+- [Environmental Energy](https://www.curseforge.com/minecraft/mc-mods/environmental-energy)
+- [Fins and Tails](https://www.curseforge.com/minecraft/mc-mods/fins-and-tails)
+- [Furnace Mk2](https://www.curseforge.com/minecraft/mc-mods/furnace-mk2)
+- [Guard Villagers](https://www.curseforge.com/minecraft/mc-mods/guard-villagers)
+- [Lootr](https://www.curseforge.com/minecraft/mc-mods/lootr)
+- [Mystical World](https://www.curseforge.com/minecraft/mc-mods/mystical-world)
+- [Pane In The Glass](https://www.curseforge.com/minecraft/mc-mods/pane-in-the-glass)
+- [Ravage & Cabbage](https://www.curseforge.com/minecraft/mc-mods/ravage-and-cabbage)
+- [Solar Flux Reborn](https://www.curseforge.com/minecraft/mc-mods/solar-flux-reborn)
+- [Stoneholm](https://www.curseforge.com/minecraft/mc-mods/stoneholm-forge)
+- [Towers Of The Wild](https://www.curseforge.com/minecraft/mc-mods/towers-of-the-wild)
+- [YUNG's Extras](https://www.curseforge.com/minecraft/mc-mods/yungs-extra)
+
+
+**Removed**
+- [Neko's Enchanted Books](https://www.curseforge.com/minecraft/mc-mods/nekos-enchanted-books) (**Will be re-added in a future update!**)
+- [Wood Cutter](https://www.curseforge.com/minecraft/mc-mods/woodcutter-forge)
+
+
+**Changes**
+- Apotheosis **"Apotheotic Bosses"** can now wear **4** more additional types of **armor** & **weapons/tools**.
+- You can now **cycle** the trades within the **Villager GUI** if you don't fancy the current trades.
+- The **Grindstone** can now be used to **extract enchantments** from items onto a **book**. (**Costs XP!**)
+- Most **loot chests** found around the **world** are now **per-player**, **per-chest**. (**Loot for everybody!**)
+- **Loot Bag** loot will now be placed in your **inventory** upon opening. (**Loot will be tossed on the ground if inventory is full!**)
+- Removed the **Server Icon** in the server files due to some issues.
+- **Enchanted Books** of the same type can now be stacked up to **16**.
+- Added more **invalid items** to the **Loot Bag Blacklist**.
+- Buffed the **total health** for a lot of **Ice and Fire mobs**.
+- Changed the vanilla **Barrel** recipe to fix some recipes.
+- Increased **Yellorite Ore** generation chances a bit.
+- Added **4** new tips to the **loading screen**.
+- Adjusted the **Mekanism Power Generation**.
+- Added a new item: **Green Baked Apple**.
+- Some changes in mod updates.
+
+
+**Fixes**
+- Fixed the red "**Mismatched Mod Channel List - [X]**" that was displayed if a Limitless 3 server was added to the **Multiplayer List.**
+- World will no longer render chunks invisible when Zooming out with **SmoothFocus**. (See [here](https://www.curseforge.com/minecraft/mc-mods/smoothfocus/files/3327616))
+- Fixed **External Heater** not being craftable.
+- Fixed a few typos in some **Tips**.
+- Some additional fixes in mod updates
+
+
+**Quests**
+- Added a new Quest Chapter: **Rats**. (**Chapter by: unseennote.**)
+- Added a new Quest to the **Minecraft Chapter**.
+- Changed reward for the quests **Engineer's Hammer** & **Engineer's Wire Cutters**.
+- Changed reward for the quests **Sound Muffling** + **Chest Searching**.
+- Changed reward for the quest **It Is A Diamond Pick**.
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Some Extra Additional Notes**
+- Loading into **worlds/servers** may take awhile. Be patient! You'll get in eventually.
+- Leave your Loading Screen Tips in our Discord under #tips join here: [https://discord.gg/gwzpyQb](https://discord.gg/gwzpyQb) !
+- Some **@Crossroads** Ores might generate despite being disabled. (**Tin & Copper.**) This issue is reported and will be fixed in a future update!
+- Some **Curios-equipped** items gets un-equipped on every world join. (**Known issue, no eta on a fix.**)
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-3/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.10.3</h1>
 
 **New quests, mod additions + more!**
