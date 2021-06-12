@@ -1,3 +1,78 @@
+<h1>v1.10.5</h1>
+
+**Better Caves, LazierAE2, fixes + more!**
+
+**Note! A reset/deletion of the 'serverconfig' folder is highly recommended with this update! It's located inside your /world/ folder.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Enchanted Book Redesign](https://www.curseforge.com/minecraft/mc-mods/enchanted-book-redesign)
+- [LazierAE2](https://www.curseforge.com/minecraft/mc-mods/lazierae2)
+- [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations)
+- [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
+- [Simply Light](https://www.curseforge.com/minecraft/mc-mods/simply-light)
+- [Spark](https://www.curseforge.com/minecraft/mc-mods/spark)
+- [YUNG's Better Caves](https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves)
+
+
+**Removed**
+- [CleanView](https://www.curseforge.com/minecraft/mc-mods/cleanview)
+
+
+**Changes**
+- Rebalanced **SOL: Carrot Edition**, new hearts now require more food.
+- Enabled **"hideOwnParticleEffects"** in the **ClientTweaks** mod.
+- Added missing **MA Seeds** for use in the **Garden Cloche**.
+- Updated the appearance of the **Main Menu - Buttons**.
+- Added more **invalid items** to the **Loot Bag Blacklist**.
+- Added a recipe for the item: **Mimicream**.
+- New **Main Menu** background.
+- Some changes in mod updates.
+
+
+**Fixes**
+- A crash when picking up a certain item from **Twilight Forest** has been fixed.
+- Some **@Crossroads** Ores generate despite being disabled has been fixed.
+- An issue with Servers not stopping when "stopping" has been solved.
+- Turned off **"TamedAnimalsNoDamage"** to fix certain issues.
+- Two specific and rare dead lock issues have been fixed.
+- Fixed screen turning black when using a **Mining Gadget**.
+- The in-game chat sometimes not working has been fixed.
+- Some additional fixes in mod updates
+
+
+**Quests**
+- Added **9** new quests to the **Repurposed Structures** Chapter.
+- Made **10 quests** in the **Welcome Chapter** optional.
+- Minor changes.
+
+
+**Updated**
+- Updated **Forge** to version **36.1.31**
+- All mods that could be updated have been updated.
+
+
+**Some Notes**
+- Loading into **worlds/servers** may take awhile. Be patient! You'll get in eventually.
+- Leave your Loading Screen Tips in our Discord under #tips join here: [https://discord.gg/gwzpyQb](https://discord.gg/gwzpyQb) !
+- Some **Curios-equipped** items gets un-equipped on every world join. (**Known issue, no eta on a fix.**)
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-3/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.10.4</h1>
 
 **Atum 2, Lootr, New Worldgen Structures, New Quests + More!**
