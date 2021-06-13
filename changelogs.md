@@ -1,3 +1,17 @@
+<h1>v1.10.5b</h1>
+
+**Hotfix update with an important fix. From v1.10.5 it's recommended to update!** (Expect more hotfixes.)
+
+**If you're updating from 1.10.5a it's optional but recommended to update.**
+
+**And always remember to backup your world(s) before updating!**
+
+**Changes/Fixes/Updates**
+- Updated **ProductiveBees** to fix crashes when picking up **Nests**. **(v1.10.5a)**
+- Changed default world type to **default**. **(v1.10.5b)**
+
+---------------
+
 <h1>v1.10.5a</h1>
 
 **Hotfix update with an important fix. Recommended to update!** (Expect more hotfixes.)
@@ -5,7 +19,7 @@
 **And always remember to backup your world(s) before updating!**
 
 **Changes/Fixes/Updates**
-- Updated **ProductiveBees** to fix crashes when picking up Nests.
+- Updated **ProductiveBees** to fix crashes when picking up **Nests**.
 
 ---------------
 
