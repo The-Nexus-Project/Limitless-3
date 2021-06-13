@@ -1,6 +1,6 @@
 <h1>v1.10.5a</h1>
 
-**Hotfix update with an important fix. Recommended to update! (Expect more hotfixes.)
+**Hotfix update with an important fix. Recommended to update!** (Expect more hotfixes.)
 
 **And always remember to backup your world(s) before updating!**
 
