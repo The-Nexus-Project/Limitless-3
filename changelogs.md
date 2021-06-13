@@ -1,3 +1,14 @@
+<h1>v1.10.5a</h1>
+
+**Hotfix update with an important fix. Recommended to update! (Expect more hotfixes.)
+
+**And always remember to backup your world(s) before updating!**
+
+**Changes/Fixes/Updates
+- Updated **ProductiveBees** to fix crashes when picking up Nests.
+
+---------------
+
 <h1>v1.10.5</h1>
 
 **Better Caves, LazierAE2, fixes + more!**
