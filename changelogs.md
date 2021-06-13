@@ -4,7 +4,7 @@
 
 **And always remember to backup your world(s) before updating!**
 
-**Changes/Fixes/Updates
+**Changes/Fixes/Updates**
 - Updated **ProductiveBees** to fix crashes when picking up Nests.
 
 ---------------
