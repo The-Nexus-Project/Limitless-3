@@ -7,7 +7,7 @@
 **And always remember to backup your world(s) before updating!**
 
 **Changes/Fixes/Updates**
-- Disabled **Copper & Silver** ore from **Ice and Fire**, because apparently those were enabled.. **sigh**.
+- Disabled **Copper & Silver** ore from **Ice and Fire**, because apparently those were enabled.. **sigh**. **(v1.10.5c)**
 - Updated **ProductiveBees** to fix crashes when picking up **Nests**. **(v1.10.5a)**
 - Changed default world type to **default**. **(v1.10.5b)**
 
