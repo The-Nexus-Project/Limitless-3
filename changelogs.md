@@ -79,7 +79,7 @@
 - Turned off **"TamedAnimalsNoDamage"** to fix certain issues.
 - Two specific and rare dead lock issues have been fixed.
 - Fixed screen turning black when using a **Mining Gadget**.
-- The in-game chat sometimes not working has been fixed.
+- The in-game chat sometimes not working has been fixed. (**Advanced Peripherals issue.**)
 - Some additional fixes in mod updates
 
 
