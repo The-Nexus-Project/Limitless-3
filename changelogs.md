@@ -1,3 +1,93 @@
+<h1>v1.10.6</h1>
+
+### • WARNING! (Important Read!) 
+When updating to this version (**v1.10.6**), all of your quest progress will be lost along with claimed land data.
+
+<u>Please</u> **read** more about this under "**NOTE!**" below.
+
+<h1> </h1>
+
+**Quest Syncing, new mods + more!**
+
+**Note! A reset/deletion of the 'serverconfig' folder is highly recommended with this update! It's located inside your /world/ folder.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [AE2 Wireless Terminals Forge](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals-forge)
+- [Refined Curios](https://www.curseforge.com/minecraft/mc-mods/refined-curios)
+- [Sound Device Options](https://www.curseforge.com/minecraft/mc-mods/more-sound-config)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- All **Ice and Fire** mobs have been **buffed** significantly, think twice before taking a fight.
+- On **servers**, **Chunk Loaded** chunks from **players** in **FTB Chunks** that have been inactive for **5 days** will now be **purged**. (**Unloaded, not removed**.)
+- The big **Dungeons** from **Quark** no longer generate in **The Nether** or **The End**.
+- Some specific stone blocks no longer group together when **Ore Excavated**. (**Diorite & Granite for example.**)
+- Made all kinds of **TCon Slime Islands** more rare and spread out.
+- Mobs can no longer wear a backpack with the Jukebox upgrade. (**Ears are saved!**)
+- New mobs have been added, along with a new boss. (See [here](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs/files/3360505))
+- Disabled the **Astral Journal** on new worlds.
+- Updated a specific **Tip** to make more sense.
+- Added a new custom window icon.
+- Removed the **Mimicream** recipe.
+- Some changes in mod updates.
+
+
+**Fixes**
+- Fixed multiple instances where for example crops wouldn't grow when the chunks were forceloaded. (**Chunk Loaded**.)
+- Fixed a small **lag spike** that could occurr when pressing **ESC** in-game.
+- A crash tied to the SGear (SG Dragon Gear Addon) has been fixed.
+- **HunterIllager** houses generating kind of **weirdly** has been semi-fixed.
+- Fixed **Xaero's World Map** having **inaccurate colors** in certain biomes.
+- Fixed quite a few recipe conflicts.
+- Some fixes in mod updates.
+
+
+**Quests**
+- Made the quests: **Getting an Upgrade**, **Isn't It Iron Pick**, **It Is A Diamond Pick**, **Furnace Mk2**, **Iron Man** & **Shiny Jewelry** all optional.
+- Updated description of the quest **READ ME** in the **Welcome Chapter**.
+- Quests will now sync progress to other players in parties.
+- Minor changes.
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+### NOTE! Please read!
+- **WARNING!** When updating to this version all of your **quest progress** will be **lost** except quests that are tied to advancements.
+- This is because **FTB Quests** has received a **breaking update** with tons of **improvements, changes & QOL stuff**. 
+- This has to be done now, could've been delayed but then we're just delaying the inevitable.
+- **Claimed land data** will also be lost when updating to this pack version, be sure to **re-claim** your area!
+- Any created **FTB Team** might also reset, be sure to re-invite if this is the case.
+- **Or in short*: Pretty much anything tied to the **FTB mods** will have their **data lost**.
+
+
+**Some Additional Notes**
+- Loading into **worlds/servers** may take awhile. Be patient! You'll get in eventually.
+- Leave your Loading Screen Tips in our Discord under #tips join here: [https://discord.gg/gwzpyQb](https://discord.gg/gwzpyQb) !
+- Some **Curios-equipped** items gets un-equipped on every world join. (**Known issue, no eta on a fix.**)
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-3/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.10.5c</h1>
 
 **Hotfix update with an important fix. From v1.10.5 it's recommended to update!** (Expect more hotfixes.)
