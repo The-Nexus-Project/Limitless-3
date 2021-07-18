@@ -1,3 +1,87 @@
+<h1>v1.10.7</h1>
+
+**NOTE!** **If you're updating from v1.10.5c to this verison you should read the 1.10.6 changelog here:** [HERE](https://github.com/The-Nexus-Project/Limitless-3/blob/master/changelogs.md#v1106)
+
+**New Dimension, New Mods, Revamped Stronghold, Fixes + More!**
+
+**Note! A reset/deletion of the 'serverconfig' folder is highly recommended with this update! It's located inside your /world/ folder.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Better Biome Blend](https://www.curseforge.com/minecraft/mc-mods/better-biome-blend)
+- [Block Swap](https://www.curseforge.com/minecraft/mc-mods/block-swap)
+- [Blue Skies](https://www.curseforge.com/minecraft/mc-mods/blue-skies) (**Dimension**)
+- [Chisel](https://www.curseforge.com/minecraft/mc-mods/chisel)
+- [Fix Experience Bug](https://www.curseforge.com/minecraft/mc-mods/fix-experience-bug)
+- [Immersive Posts](https://www.curseforge.com/minecraft/mc-mods/immersiveposts)
+- [Item Stitching Fix](https://www.curseforge.com/minecraft/mc-mods/item-stitching-fix)
+- [Small Ships](https://www.curseforge.com/minecraft/mc-mods/small-ships)
+- [Translocators 1.8.x](https://www.curseforge.com/minecraft/mc-mods/translocators-1-8)
+- [YUNG's Better Strongholds](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds)
+
+
+**Removed**
+- [Exotic Birds](https://www.curseforge.com/minecraft/mc-mods/exotic-birds)
+- [Mahou Tsukai](https://www.curseforge.com/minecraft/mc-mods/mahou-tsukai) (**Overly OP. Hard to balance, might make a return if balanced enough.**)
+- [Save My Stronghold!](https://www.curseforge.com/minecraft/mc-mods/save-my-stronghold) (**Included in Better Strongholds**.)
+
+
+**Changes**
+- The **RandomPatches feature** "**Changing UUID of duplicate entity**" being logged has been turned **off**.
+- Added a new item: **Limitless Sword**. (**Not Craftable. Used in the Welcome Quest kit.**)
+- Lowered the **max health** for **Ice and Fire Dragons** a bit.
+- Changed the **Loading Screen** background color a bit.
+- The **Mungus Mob** can no longer transform biomes.
+- Added a new food item: **Cooked Cave Root**.
+- Added **1** new **Tip** to the loading screen.
+- Cleaned up the **world gen** a little bit.
+- Some changes in mod updates.
+
+
+**Fixes**
+- Fixed **Twilight Forest: Uncrafting Table** being obtainable from **Loot Table** loot & spawning **in-world**.
+- Blocks in **JEI / Inventory** having weird lightning has HOPEFULLY been fixed.
+- Skins being "**blurry**" has HOPEFULLY been fixed.
+- The **Fire Charge Rod** crashing servers has been fixed.
+- Fixed **Ultra Importer** not being craftable.
+- Fixed a few recipe conflicts.
+- Some fixes in mod updates.
+
+
+**Quests**
+- Made most Minecraft **Quests** have team rewards instead of per player.
+- Updated most **Quest Icons** in the **Welcome Chapter** with custom ones.
+- Changed Quest Reward item in the **Welcome Chapter**.
+- Made the Quest "**The Next Generation**" optional.
+- Fixed a dependency issue in the **PSI** chapter.
+- Other minor changes.
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Additional Notes**
+- Loading into **worlds/servers** may take awhile. Be patient! You'll get in eventually.
+- Leave your Loading Screen Tips in our Discord under #tips join here: [https://discord.gg/gwzpyQb](https://discord.gg/gwzpyQb) !
+- Some **Curios-equipped** items gets un-equipped on every world join. (**Known issue, no eta on a fix.**)
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-3/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.10.6</h1>
 
 ### • WARNING! (Important Read!) 
