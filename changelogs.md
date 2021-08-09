@@ -4,6 +4,8 @@
 
 **It's also possible that with the change mentioned above, worldgen walls might appear in regular worlds, nothing breaking though!**
 
+**Also note that if you're updating from v1.10.5c to this version(v1.10.8)- you should read the 1.10.6 changelog here:** [HERE](https://github.com/The-Nexus-Project/Limitless-3/blob/master/changelogs.md#v1106)
+
 **Always remember to backup your world(s) before updating!**
 
 
@@ -77,7 +79,7 @@
 
 <h1>v1.10.7</h1>
 
-**NOTE!** **If you're updating from v1.10.5c to this verison you should read the 1.10.6 changelog here:** [HERE](https://github.com/The-Nexus-Project/Limitless-3/blob/master/changelogs.md#v1106)
+**NOTE!** **If you're updating from v1.10.5c to this version you should read the 1.10.6 changelog here:** [HERE](https://github.com/The-Nexus-Project/Limitless-3/blob/master/changelogs.md#v1106)
 
 **New Dimension, New Mods, Revamped Stronghold, Fixes + More!**
 
