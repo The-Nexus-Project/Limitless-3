@@ -1,3 +1,80 @@
+<h1>v1.10.8</h1>
+
+**NOTE! Terraforged is removed this update, if your world is that world-type it'll most likely break!**
+
+**It's also possible that with the change mentioned above, worldgen walls might appear in regular worlds, nothing breaking though!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Armor Sound Tweak](https://www.curseforge.com/minecraft/mc-mods/armor-sound-tweak)
+- [Authentic Shadows](https://www.curseforge.com/minecraft/texture-packs/authentic-shadows) (**RESOURCE PACK**.)
+- [Login Protection](https://www.curseforge.com/minecraft/mc-mods/login-protection)
+- [Materialis](https://www.curseforge.com/minecraft/mc-mods/materialis)
+- [JER Integration](https://www.curseforge.com/minecraft/mc-mods/jer-integration)
+- [Neko's Enchanted Books](https://www.curseforge.com/minecraft/mc-mods/nekos-enchanted-books)
+- [Tiny Redstone](https://www.curseforge.com/minecraft/mc-mods/tiny-redstone)
+- [Updated Engineering](https://www.curseforge.com/minecraft/texture-packs/updated-engineering) (**RESOURCE PACK**.)
+- [YUNG's Better Dungeons](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons)
+
+
+**Removed**
+- [Better Biome Blend](https://www.curseforge.com/minecraft/mc-mods/better-biome-blend)
+- [Crafting Station](https://www.curseforge.com/minecraft/mc-mods/crafting-station) (**Included in TConstruct.**)
+- [Enchanted Book Redesign](https://www.curseforge.com/minecraft/mc-mods/enchanted-book-redesign)
+- [Guard Villagers](https://www.curseforge.com/minecraft/mc-mods/guard-villagers)
+- [Hunter Illager](https://www.curseforge.com/minecraft/mc-mods/hunterillager)
+- [Let Sleeping Dogs Lie](https://www.curseforge.com/minecraft/mc-mods/let-sleeping-dogs-lie) (**Not needed.**)
+- [Packing Tape](https://www.curseforge.com/minecraft/mc-mods/packing-tape) (**There's the Mekanism Cardboard Box.**)
+- [Performant](https://www.curseforge.com/minecraft/mc-mods/performant) (**Causes more issues than it's worth, feel free to re-add on your servers though!**)
+- [Refined Curios](https://www.curseforge.com/minecraft/mc-mods/refined-curios) (**Available by default in RS now.**)
+- [Shutup Experimental Settings](https://www.curseforge.com/minecraft/mc-mods/shutup-experimental-settings) (**Included in RandomPatches**.)
+- [Terraforged](https://www.curseforge.com/minecraft/mc-mods/terraforged)
+- [Towers Of The Wild](https://www.curseforge.com/minecraft/mc-mods/towers-of-the-wild)
+
+
+**Changes**
+- Increased the **Max Level** for most **Enchantments** available.
+- Adjusted the **Biome Foliage Color** a bit. (**Quark**.)
+- Simplified a **Tip**.
+- Plus some changes in mod updates.
+
+
+**Fixes**
+- Undead bees spawning despite light level has been fixed. (See: [here](https://www.curseforge.com/minecraft/mc-mods/productivebees/files/3406686))
+- Plus lots of fixes in mod updates.
+
+
+**Quests**
+- Added **1** new quest to the **Husbandry** chapter.
+- Minor changes.
+
+
+**Updated**
+- Updated Forge to version **36.2.2**
+- All mods that could be updated have been updated.
+
+
+**Additional Notes**
+- Loading into **worlds/servers** may take awhile. Be patient! You'll get in eventually.
+- Leave your Loading Screen Tips in our Discord under #tips join here: [https://discord.gg/gwzpyQb](https://discord.gg/gwzpyQb) !
+- Some **Curios-equipped** items gets un-equipped on every world join. (**Known issue, no eta on a fix.**)
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-3/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.10.7</h1>
 
 **NOTE!** **If you're updating from v1.10.5c to this verison you should read the 1.10.6 changelog here:** [HERE](https://github.com/The-Nexus-Project/Limitless-3/blob/master/changelogs.md#v1106)
