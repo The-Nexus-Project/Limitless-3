@@ -1,3 +1,67 @@
+<h1>v1.10.9</h1>
+
+**Nether crash fixes, mods updated, mods removed + more!**
+
+**Warning! Extreme Reactors 2 is removed this update. Bigger Reactors is staying.**
+
+**Also note that if you're updating from v1.10.5c to this version(v1.10.8)- you should read the 1.10.6 changelog here:** [HERE](https://github.com/The-Nexus-Project/Limitless-3/blob/master/changelogs.md#v1106)
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- No mods added this update.
+
+
+**Removed**
+- [AE2 Wireless Terminals Forge](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals-forge) (**Temporarily until updated**.)
+- [Chiseled](https://www.curseforge.com/minecraft/mc-mods/chiseled)
+- [Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors)
+- [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations)
+- [RecipeBuffers](https://www.curseforge.com/minecraft/mc-mods/recipebuffers)
+- [TRansliterationLib](https://www.curseforge.com/minecraft/mc-mods/transliterationlib)
+- [Valhelsia Core](https://www.curseforge.com/minecraft/mc-mods/valhelsia-core)
+- [ZeroCore2](https://www.curseforge.com/minecraft/mc-mods/zerocore)
+
+
+**Changes**
+- Changed the '**defaultconfigs**' folder location to be inside the normal config folder.
+- Reverted **Forbidden & Arcanus** version back to stable release to prevent crashes.
+- Changes in mod updates.
+
+
+**Fixes**
+- World crashing / timing out when entering **The Nether** or just when being there has been fixed.
+- Fixes in mod updates.
+
+
+**Quests**
+- Minor changes.
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Additional Notes**
+- Loading into **worlds/servers** may take awhile. Be patient! You'll get in eventually.
+- When a server is added to the **multiplayer list**, it will be displayed with a red **X** under the ping. **Do not worry about it. You can join anyways**.
+- Leave your Loading Screen Tips in our Discord under #tips join here: [https://discord.gg/gwzpyQb](https://discord.gg/gwzpyQb) !
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-3/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.10.8</h1>
 
 **NOTE! Terraforged is removed this update, if your world is that world-type it'll most likely break!**
