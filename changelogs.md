@@ -1,3 +1,82 @@
+<h1>v1.11.0</h1>
+
+**Draconic Evolution, Mod Updates & Fixes in mod updates + More!**
+
+**Please Note! If you have any crops, blocks etc from Simple Farming & Thermal Cultivation those will be removed this update.**
+
+**A reset of The End dimension is recommended with this update!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution)
+- [Brandon's Core](https://www.curseforge.com/minecraft/mc-mods/brandons-core) (**Requirement for DE**.)
+- [IaF: Dragonseeker](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragonseeker)
+- [Tinker's Planner](https://www.curseforge.com/minecraft/mc-mods/tinkers-planner)
+- [Tinker's Rapier](https://www.curseforge.com/minecraft/mc-mods/tinkers-rapier)
+
+
+**Removed**
+- [Simple Farming](https://www.curseforge.com/minecraft/mc-mods/simple-farming)
+- [Thermal Cultivation](https://www.curseforge.com/minecraft/mc-mods/thermal-cultivation)
+
+
+**Changes**
+- Merged most **Cherry Wood** related **items/blocks** into 1 type of **Cherry Wood**.
+- Merged most **Maple Wood** related **items/blocks** into 1 type of **Maple Wood**.
+- Unified lots of food items to try and only have **1** type of each food.
+- Merged all **Willow Wood** related **items/blocks** into 1 type of **Willow.
+- Merged most **Aspen Wood** related **items/blocks** into 1 type of **Aspen**.
+- **Blacklisted** invalid items & some other items from the **Loot Bags**.
+- Made the **Mind-Shielding Plate** from **@Eidolon** actually obtainable.
+- "New" loading screen when pack is booting up / reloading.
+- Added a new alternate recipe for the **Fiery Torch**.
+- Merged **Cattail** blocks into 1 type of **Cattail**. 
+- New textures for most **Compact Ores** available.
+- Re Enabled all of **@Create's** worldgen stones.
+- Lowered generation chances of **Compact Ores**.
+- Seeds from **Pam's HC2** now drops from **Grass**.
+- **Compact Ores** can drop up to 5 ores.
+- Removed **2 Compact Ores** from **@BYG**.
+- Added a couple of new **Tips.**
+- Plus changes in mod updates.
+
+
+**Fixes**
+- Fixed a **Recipe Conflict** between **Mirror** & **Glass Facade**.
+- Fixed **Recipe Conflict** with **Stone Rod**.
+- Plus fixes in mod updates.
+
+
+**Quests**
+- Minor changes.
+
+
+**Updated**
+- Updated **Forge** to version **36.2.4**
+- All mods that could be updated have been updated.
+
+
+**Additional Notes**
+- Loading into **worlds/servers** may take awhile. Be patient! You'll get in eventually.
+- When a server is added to the **multiplayer list**, it will be displayed with a red **X** under the ping. **Do not worry about it. You can join anyways**.
+- Leave your Loading Screen Tips in our Discord under #tips join here: [https://discord.gg/gwzpyQb](https://discord.gg/gwzpyQb) !
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-3/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.10.9</h1>
 
 **Nether crash fixes, mods updated, mods removed + more!**
