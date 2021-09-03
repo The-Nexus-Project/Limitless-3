@@ -26,7 +26,7 @@
 - Merged most **Cherry Wood** related **items/blocks** into 1 type of **Cherry Wood**.
 - Merged most **Maple Wood** related **items/blocks** into 1 type of **Maple Wood**.
 - Unified lots of food items to try and only have **1** type of each food.
-- Merged all **Willow Wood** related **items/blocks** into 1 type of **Willow.
+- Merged all **Willow Wood** related **items/blocks** into 1 type of **Willow**.
 - Merged most **Aspen Wood** related **items/blocks** into 1 type of **Aspen**.
 - **Blacklisted** invalid items & some other items from the **Loot Bags**.
 - Made the **Mind-Shielding Plate** from **@Eidolon** actually obtainable.
