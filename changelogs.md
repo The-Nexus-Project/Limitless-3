@@ -35,8 +35,7 @@
 - Merged **Cattail** blocks into 1 type of **Cattail**. 
 - New textures for most **Compact Ores** available.
 - Re Enabled all of **@Create's** worldgen stones.
-- Lowered generation chances of **Compact Ores**.
-- Seeds from **Pam's HC2** now drops from **Grass**.
+- Lowered generation chances of **Compact Ores**
 - **Compact Ores** can drop up to 5 ores.
 - Removed **2 Compact Ores** from **@BYG**.
 - Added a couple of new **Tips.**
