@@ -35,7 +35,7 @@
 
 
 **Fixes**
-- Plus fixes in mod updates.
+- Fixes in mod updates.
 
 
 **Quests**
