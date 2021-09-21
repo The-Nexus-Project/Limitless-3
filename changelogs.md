@@ -1,3 +1,69 @@
+<h1>v1.11.1</h1>
+
+**New foods, decor blocks + more!**
+
+**Note! A reset/deletion of the 'serverconfig' folder is highly recommended with this update! It's located inside your /world/ folder.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [AE2 Wireless Terminals](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals-forge)
+- [Anvil Restoration](https://www.curseforge.com/minecraft/mc-mods/anvil-restoration) (+ [Collective](https://www.curseforge.com/minecraft/mc-mods/collective))
+- [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost)
+- [Doggy Talents](https://www.curseforge.com/minecraft/mc-mods/doggy-talents)
+- [Dustrial Decor](https://www.curseforge.com/minecraft/mc-mods/dustrial-decor)
+- [ExtraBotany](https://www.curseforge.com/minecraft/mc-mods/extrabotany)
+- [More Dragon Eggs](https://www.curseforge.com/minecraft/mc-mods/more-dragon-eggs)
+- [My Server Is Compatible](https://www.curseforge.com/minecraft/mc-mods/my-server-is-compatible)
+- [Pam's HC2 Food Extended](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-extended)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- The **FML** compatible server icon has been **removed** to avoid **confusion** if server is **compatible**.
+- Buffed the internal RF storage of the **Refined Storage Controller, 32000RF -> 128000RF**.
+- You can now repair **Anvils** by right-clicking the base with an **Iron Ingot**.
+- **Blacklisted** some more invalid **items & blocks** from the **Loot Bags**.
+- Each **Ender Dragon** kill now yields a new **Dragon Egg**. (**Excluding with /kill command.**)
+- Suppressed the **Repurposed Structures** advancements.
+- Added a few new **Tips**.
+- Plus changes in mod updates.
+
+
+**Fixes**
+- Plus fixes in mod updates.
+
+
+**Quests**
+- Minor changes.
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Additional Notes**
+- Loading into **worlds/servers** may take awhile. Be patient! You'll get in eventually.
+- Leave your Loading Screen Tips in our Discord under #tips join here: [https://discord.gg/gwzpyQb](https://discord.gg/gwzpyQb) !
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-3/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.11.0</h1>
 
 **Draconic Evolution, Mod Updates & Fixes in mod updates + More!**
