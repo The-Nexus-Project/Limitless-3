@@ -1,3 +1,68 @@
+<h1>v1.11.2</h1>
+
+**New Building Blocks, Custom Dimensions + More!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Adventure Apparatus](https://www.curseforge.com/minecraft/mc-mods/adventure-apparatus)
+- [Chipped](https://www.curseforge.com/minecraft/mc-mods/chipped)
+- [Just Enough Calculation](https://www.curseforge.com/minecraft/mc-mods/just-enough-calculation)
+- [Memory Settings](https://www.curseforge.com/minecraft/mc-mods/memory-settings)
+- [RFTools Dimensions](https://www.curseforge.com/minecraft/mc-mods/rftools-dimensions)
+- [Roadrunner](https://www.curseforge.com/minecraft/mc-mods/roadrunner)
+- [Tinker's Delight](https://www.curseforge.com/minecraft/mc-mods/tinkers-delight)
+- [Waystones2Waypoints](https://www.curseforge.com/minecraft/mc-mods/waystones2waypoints)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- **Yellorite Ore** can now be processed in the **Blast Furnace** and other various machines.
+- Added **Compact Ore** variants of **Quicksilver** & **Granite Quartz Ore**.
+- Added **Compact Yellorite Ore** to **Ore Excavate** block groups.
+- Decreased **Yellorite Ore** generation chances slightly.
+- **Rotten Flesh** is now always **edible**.
+- Improved server performance.
+- Plus changes in mod updates.
+
+
+**Fixes**
+- Potentially fixed an issue regarding **Pig Spawners** using invalid **nbt data**.
+- Fixed **Mob Spawners** dropping as **Pig Spawners** when using **Silk Touch**.
+- Fixed a recipe conflict between **Iron Rod** & **Iron Chisel Head**.
+- Plus fixes in mod updates.
+
+
+**Quests**
+- Minor changes.
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Additional Notes**
+- Loading into **worlds/servers** may take awhile. Be patient! You'll get in eventually.
+- Leave your Loading Screen Tips in our Discord under #tips join here: [https://discord.gg/gwzpyQb](https://discord.gg/gwzpyQb) !
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-3/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.11.1</h1>
 
 **New foods, decor blocks + more!**
