@@ -1,7 +1,5 @@
 <h1>v1.11.2</h1>
 
-**Headsup! A new world is recommended with this update!**
-
 **New Building Blocks, Custom Dimensions + More!**
 
 **Always remember to backup your world(s) before updating!**
