@@ -5,7 +5,7 @@
 **Therefore it's even more important to backup your world(s) before updating!**
 
 
-**Added***
+**Added**
 - [Bed Benefits](https://www.curseforge.com/minecraft/mc-mods/bed-benefits)
 - [Botanical Machinery](https://www.curseforge.com/minecraft/mc-mods/botanical-machinery)
 - [Cartographer](https://www.curseforge.com/minecraft/mc-mods/cartographer)
