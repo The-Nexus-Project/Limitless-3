@@ -1,3 +1,64 @@
+<h1>v1.11.3</h1>
+
+**WARNING! This update affects existing worlds, Extended Caves is removed which will cause some blocks to be missing underground.**
+
+**Therefore it's even more important to backup your world(s) before updating!**
+
+
+**Added***
+- [Bed Benefits](https://www.curseforge.com/minecraft/mc-mods/bed-benefits)
+- [Botanical Machinery](https://www.curseforge.com/minecraft/mc-mods/botanical-machinery)
+- [Cartographer](https://www.curseforge.com/minecraft/mc-mods/cartographer)
+- [Creative Wireless Transmitter](https://www.curseforge.com/minecraft/mc-mods/creative-wireless-transmitter)
+- [Framed Compacting Drawers](https://www.curseforge.com/minecraft/mc-mods/framed-compacting-drawers)
+- [Jumbo Furnace](https://www.curseforge.com/minecraft/mc-mods/jumbo-furnace)
+- [Just Enough Piglin Bartering](https://www.curseforge.com/minecraft/mc-mods/just-enough-piglin-bartering)
+- [Trample Stopper](https://www.curseforge.com/minecraft/mc-mods/trample-stopper)
+
+
+**Removed**
+- [Extended Caves](https://www.curseforge.com/minecraft/mc-mods/extended-caves)
+
+
+**Changes**
+- Added a tooltip warning to the **Mekanism Cardboard Box**.
+- Sleeping now removes **bad potion effects**.
+- Changes in mod updates.
+
+
+**Fixes**
+- Fixed **Rock Crystal Ore** from **Astral Sorcery** not generating.
+- Fixes in mod updates.
+
+
+**Quests**
+- Minor changes.
+
+
+**Updated**
+- Updated **Forge** to version **36.2.8**
+- All mods that could be updated have been updated.
+
+
+**Additional Notes**
+- Loading into **worlds/servers** may take awhile. Be patient! You'll get in eventually.
+- Do not move any containers from the mod @ExpandedStorage with the @Mekanism **Cardboard Box**. Your items will be voided.
+- Leave your Loading Screen Tips in our Discord under #tips join here: [https://discord.gg/gwzpyQb](https://discord.gg/gwzpyQb) !
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-3/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.11.2</h1>
 
 **New Building Blocks, Custom Dimensions + More!**
