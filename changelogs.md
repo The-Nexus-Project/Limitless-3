@@ -1,3 +1,33 @@
+<h1>v1.11.4</h1>
+
+**Important update, fixes world crashes.**
+
+**Previous update (v1.11.3) had a breaking change, please read the changelog [[HERE]](https://github.com/The-Nexus-Project/Limitless-3/blob/master/changelogs.md#v1113) before updating from v1.11.2 or any previous update.**
+
+
+**Fixes**
+- A random crash that could occur while exploring the world has been fixed.
+
+
+**Additional Notes**
+- Loading into **worlds/servers** may take awhile. Be patient! You'll get in eventually.
+- Do not move any containers from the mod @ExpandedStorage with the @Mekanism **Cardboard Box**. Your items will be voided.
+- Leave your Loading Screen Tips in our Discord under #tips join here: [https://discord.gg/gwzpyQb](https://discord.gg/gwzpyQb) !
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-3/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.11.3</h1>
 
 **WARNING! This update affects existing worlds, Extended Caves is removed which will cause some blocks to be missing underground.**
