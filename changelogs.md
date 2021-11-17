@@ -7,7 +7,7 @@
 **Always remember to backup your world(s) before updating!**
 
 
-**Added***
+**Added**
 - [Energy Meter](https://www.curseforge.com/minecraft/mc-mods/energymeter)
 - [Journey Map](https://www.curseforge.com/minecraft/mc-mods/journeymap)
 - [JourneyMap Integration](https://www.curseforge.com/minecraft/mc-mods/journeymap-integration)
