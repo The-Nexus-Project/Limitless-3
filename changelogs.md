@@ -1,3 +1,66 @@
+<h1>v1.11.5</h1>
+
+**Warning! Minimap mod has been changed. Please back up your waypoints etc before updating!**
+
+**NOTE! The mod Backpacked & Backpacker has been removed this update, empty out your backpacks!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added***
+- [Energy Meter](https://www.curseforge.com/minecraft/mc-mods/energymeter)
+- [Journey Map](https://www.curseforge.com/minecraft/mc-mods/journeymap)
+- [JourneyMap Integration](https://www.curseforge.com/minecraft/mc-mods/journeymap-integration)
+- [Legendary Tooltips](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips)
+
+
+**Removed**
+- [Backpacked](https://www.curseforge.com/minecraft/mc-mods/backpacked)
+- [Backpacker](https://www.curseforge.com/minecraft/mc-mods/backpacker)
+- [Memory Settings](https://www.curseforge.com/minecraft/mc-mods/memory-settings)
+- [Waystones2Waypoints](https://www.curseforge.com/minecraft/mc-mods/waystones2waypoints)
+- [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
+- [Xaero's Worldmap](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
+
+
+**Changes**
+- Claimed chunks in (**FTB Chunks**) are now shown on the **minimap**.
+- New and improved tooltip borders.
+- And some changes in mod updates.
+
+
+**Fixes**
+- General fixes in mod updates.
+
+
+**Quests**
+- The Starter Kit **Backpack** has been swapped out for a **Sophisticated** one.
+- Plus some other minor changes.
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Additional Notes**
+- Loading into **worlds/servers** may take awhile. Be patient! You'll get in eventually.
+- Do not move any containers from the mod @ExpandedStorage with the @Mekanism **Cardboard Box**. Your items will be voided.
+- Leave your Loading Screen Tips in our Discord under #tips join here: [https://discord.gg/gwzpyQb](https://discord.gg/gwzpyQb) !
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-3/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.11.4</h1>
 
 **Important update, fixes world crashes.**
