@@ -18,6 +18,7 @@
 - [Backpacked](https://www.curseforge.com/minecraft/mc-mods/backpacked)
 - [Backpacker](https://www.curseforge.com/minecraft/mc-mods/backpacker)
 - [Memory Settings](https://www.curseforge.com/minecraft/mc-mods/memory-settings)
+- [Ravage & Cabbage](https://www.curseforge.com/minecraft/mc-mods/ravage-and-cabbage)
 - [Waystones2Waypoints](https://www.curseforge.com/minecraft/mc-mods/waystones2waypoints)
 - [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
 - [Xaero's Worldmap](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
