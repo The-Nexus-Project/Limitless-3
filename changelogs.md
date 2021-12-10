@@ -15,7 +15,6 @@
 
 
 **Changes**
-- Servers will now properly display a green "✓" when added to the list.
 - Re-Enabled **Apotheosis** Lightning Surface Boss Spawns.
 - Changes in mod updates.
 
