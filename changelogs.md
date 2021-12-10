@@ -1,3 +1,57 @@
+<h1>v1.11.6</h1>
+
+**Note: This update includes security fix for CVE-2021-44228.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [JEI Integration](https://www.curseforge.com/minecraft/mc-mods/jei-integration)
+- [OAuth](https://www.curseforge.com/minecraft/mc-mods/oauth)
+
+
+**Removed**
+- [ReAuth](https://www.curseforge.com/minecraft/mc-mods/reauth)
+
+
+**Changes**
+- Servers will now properly display a green "✓" when added to the list.
+- Re-Enabled **Apotheosis** Lightning Surface Boss Spawns.
+- Changes in mod updates.
+
+
+**Fixes**
+- General fixes in mod updates.
+
+
+**Quests**
+- Some minor changes.
+
+
+**Updated**
+- **Forge** from version **36.2.8** to **36.2.20**
+- All mods that could be updated have been updated.
+
+
+**Additional Notes**
+- Loading into **worlds/servers** may take awhile. Be patient! You'll get in eventually.
+- Do not move any containers from the mod @ExpandedStorage with the @Mekanism **Cardboard Box**. Your items will be voided.
+- Leave your Loading Screen Tips in our Discord under #tips join here: [https://discord.gg/gwzpyQb](https://discord.gg/gwzpyQb) !
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-3/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.11.5</h1>
 
 **Warning! Minimap mod has been changed. Please back up your waypoints etc before updating!**
