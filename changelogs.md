@@ -21,6 +21,7 @@
 
 
 **Fixes**
+- The **@Mekanism Cardboard Box** voiding items from **@ExpandedStorage Chests** has been fixed.
 - Game freezing when looking at certain machines has been fixed, hopefully.
 - General fixes in mod updates.
 
@@ -36,7 +37,6 @@
 
 **Additional Notes**
 - Loading into **worlds/servers** may take awhile. Be patient! You'll get in eventually.
-- Do not move any containers from the mod @ExpandedStorage with the @Mekanism **Cardboard Box**. Your items will be voided.
 - Leave your Loading Screen Tips in our Discord under #tips join here: [https://discord.gg/gwzpyQb](https://discord.gg/gwzpyQb) !
 
 
