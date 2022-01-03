@@ -1,6 +1,6 @@
 <h1>v1.11.7</h1>
 
-**Switched out TOP for Jade to fix various issues.**
+**Switched out TOP for Hwyla to fix various issues.**
 
 **Always remember to backup your world(s) before updating!**
 
