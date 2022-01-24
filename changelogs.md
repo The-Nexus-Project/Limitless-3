@@ -17,6 +17,7 @@
 
 
 **Fixes**
+- Ghost blocks being created when bonemealing saplings and when doing other stuff has HOPEFULLY been fixed.
 - Main Menu having really low fps and slow response times has been fixed.
 - Fixed some packet issues.
 - General fixes in mod updates.
