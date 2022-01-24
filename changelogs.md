@@ -1,3 +1,53 @@
+<h1>v1.11.8</h1>
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Connectivity](https://www.curseforge.com/minecraft/mc-mods/connectivity)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Added Chisel block support for CBMicroblocks.
+- Some usual changes in mod updates.
+
+
+**Fixes**
+- Main Menu having really low fps and slow response times has been fixed.
+- Fixed some packet issues.
+- General fixes in mod updates.
+
+
+**Quests**
+- Some minor changes.
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Additional Notes**
+- Loading into **worlds/servers** may take awhile. Be patient! You'll get in eventually.
+- Leave your Loading Screen Tips in our Discord under #tips join here: [https://discord.gg/gwzpyQb](https://discord.gg/gwzpyQb) !
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-3/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.11.7</h1>
 
 **Switched out TOP for Hwyla to fix various issues.**
