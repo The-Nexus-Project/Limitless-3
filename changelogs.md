@@ -18,7 +18,7 @@
 
 
 **Fixes**
-- Fixed **Items** dropping as their "**cooked**" variant.
+- Fixed **Items** sometimes dropping as their "**cooked**" variant.
 
 
 **Updated**
