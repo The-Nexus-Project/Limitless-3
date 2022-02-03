@@ -10,7 +10,7 @@
 
 
 **Removed**
-- No mods removed.
+- [Journey Map Integration](https://www.curseforge.com/minecraft/mc-mods/journeymap-integration) - (**Caused FPS drops on servers with lots of claims**.)
 
 
 **Changes**
