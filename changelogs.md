@@ -1,3 +1,52 @@
+<h1>v1.11.10</h1>
+
+**A regular mod updates update which includes some minor changes and fixes!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- No mods have been added.
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Some usual changes in mod updates.
+
+
+**Fixes**
+- General fixes in mod updates.
+
+
+**Quests**
+- Some very minor changes.
+
+
+**Updated**
+- **Forge** from version **36.2.22** to **36.2.29**
+- All mods that could be updated have been updated.
+
+
+**Current Forge Version**
+- 36.2.29
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-3/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.11.9</h1>
 
 **Very small update but includes important fixes**.
