@@ -1,3 +1,55 @@
+<h1>v1.11.12</h1>
+
+**Mod updates & fixes!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- No mods added!
+
+
+**Removed**
+- No mods removed!
+
+
+**Changes**
+- Turned off **Armor Equip Sound Tweak** when equipping **Curios Items**.
+- Updated the Main Menu **background** & the **loading screen**.
+- Changes in mod updates.
+
+
+**Fixes**
+- Fixed an **issue** with the **Armor Equip Sound** spamming while in **inventory**.
+- Various fixes in mod updates.
+
+
+**Quests**
+- Very minor changes.
+
+
+**Updated**
+- **Forge** from version **36.2.34** to **36.2.35**
+- All mods that could be updated have been updated.
+
+
+**Current Forge Version**
+- 36.2.35
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-3/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.11.11</h1>
 
 **2 Mod Additions, Mod Updates + Forge Update!**
