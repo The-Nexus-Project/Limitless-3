@@ -1,0 +1,60 @@
+name: Bug Report
+description: A report about an issue, crash or similar.
+title: "[Issue]: "
+labels: ["issue"]
+assignees:
+  - Gbergz
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for reporting!
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: A short explanation of what happened.
+      value: "A bug happened!"
+    validations:
+      required: true
+  - type: textarea
+    id: packversion
+    attributes:
+      label: Pack Version
+      description: Put the pack version you are currently on here.
+      value: "Version: "
+  - type: textarea
+    id: repro
+    attributes:
+      label: To Reproduce
+      description: Steps to reproduce the issue/error/crash, (steps can be edited)..
+      value: "1."
+  - type: checkboxes
+    id: addedmods
+    attributes:
+      label: Are you using OptiFine, Rubidium/Magnesium, or Oculus?, both?
+      options:
+        - label: Using OptiFine
+        - label: Using Rubidium/Magnesium
+        - label: Using Rubidium/Magnesium + Oculus
+        - label: No. None of them. Unmodified.
+          required: true
+  - type: checkboxes
+    id: server
+    attributes:
+      label: Are you on a Server?
+      options:
+        - label: Yes.
+        - label: No.
+          required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant log output / crash report.
+      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: shell
+  - type: textarea
+    id: anythingelse
+    attributes:
+      label: Anything else to add?
+      description: Optional.
