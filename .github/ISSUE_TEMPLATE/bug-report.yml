@@ -38,7 +38,8 @@ body:
         - label: Using Rubidium/Magnesium
         - label: Using Rubidium/Magnesium + Oculus
         - label: No. None of them. Unmodified.
-          required: true
+    validations:
+      required: true
   - type: checkboxes
     id: server
     attributes:
@@ -46,7 +47,8 @@ body:
       options:
         - label: Yes.
         - label: No.
-          required: true
+    validations:
+      required: true
   - type: textarea
     id: logs
     attributes:
