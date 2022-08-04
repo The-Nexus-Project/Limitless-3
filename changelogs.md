@@ -1,3 +1,59 @@
+<h1>v1.12.0</h1>
+
+**Sky Villages, Spartan Series, mod updates, fixes & more!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Sky Villages](https://www.curseforge.com/minecraft/mc-mods/sky-villages-forge)
+- [Spartan Weaponry](https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry)
+- [Spartan Weaponry: Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry-twilight-forest)
+- [Spartan Weaponry: Ice and Fire](https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry-ice-and-fire)
+- [Spartan Shields](https://www.curseforge.com/minecraft/mc-mods/spartan-shields)
+
+
+**Removed**
+- No mods removed!
+
+
+**Changes**
+- Various **changes** in **mod updates**.
+
+
+**Fixes**
+- **Fixed** a specific **recipe conflict**.
+- Various fixes in mod updates.
+
+
+**Quests**
+- **Accepting** the **Welcome Chapter - Starter Kit** now **completes** the rest **automatically**.
+- **Fixed** not all **quests** being **completed** in the **Welcome Chapter**.
+- Added a **quest** to **claim** the **Ring of the Seven Curses** for **free**.
+- Other minor changes.
+
+
+**Updated**
+- All **mods** that **could** be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 36.2.35
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-3/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.11.12</h1>
 
 **Mod updates & fixes!**
